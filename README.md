@@ -40,12 +40,12 @@ The typically daily format is as follows.
 | 02:30 - 03:00 | Review
 | 03:00 onwards | Lab + Homework
 
-#### Unit 1: Front End Development
+### Unit 1: Front End Development
 _Jan 16th - Feb 3rd_
 
 Unit 1 is all about showing the humble beginnings of the web and introducing students to foundational programming concepts that we'll use for the entire rest of the course.
 
-###### Week 1
+#### Week 1
 _Jan 16th - Jan 20th_
 
 | Topic                              | Assignments
@@ -67,7 +67,7 @@ _Jan 16th - Jan 20th_
 |                                    | [Google Shopping][1002]
 |                                    | [Google Shopping Functions][1006]
 
-###### Week 2
+#### Week 2
 _Jan 23rd - Jan 27th_
 
 | Topic                              | Assignments
@@ -84,7 +84,7 @@ _Jan 23rd - Jan 27th_
 | [OOP in JavaScript][19]            | [Prototype Body Shop][1020]           
 | [JavaScript Inheritance][22]       | [Prototype Body Shop 2][1021]
 
-###### Week 3 - Project 1
+#### Week 3 - Project 1
 _Jan 30th - Feb 3rd_
 
 Carefully Read the [Project 1 Specification here][1022].
