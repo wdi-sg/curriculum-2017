@@ -23,7 +23,7 @@ We use Github for source code management. Every student will need an account, wi
 - [John](https://github.com/johnacs)
 - [Desmond](https://github.com/desmondhengwj)
 - [Iskandar](https://github.com/anatraxia)
-- [Gursehaj](https://github.com/SejKoghar)
+- [Sej](https://github.com/SejKoghar)
 - [Jonathan](https://github.com/jonathanlimes)
 - [Elaine](https://github.com/lainelim)
 - Sruti
