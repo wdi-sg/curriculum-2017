@@ -20,7 +20,21 @@ We use Github for source code management. Every student will need an account, wi
 - [Kang Sheng](https://github.com/TayKangSheng)
 
 #### Students
-- [Kang](http://www.taykangsheng.com)
+- [John](https://github.com/johnacs)
+- [Desmond](https://github.com/desmondhengwj)
+- [Iskandar](https://github.com/anatraxia)
+- [Gursehaj](https://github.com/SejKoghar)
+- [Jonathan](https://github.com/jonathanlimes)
+- [Elaine](https://github.com/lainelim)
+- Sruti
+- [Xavier](https://github.com/random-9)
+- Han Sheng
+- [Syed Salim](https://github.com/syedsalim)
+- [Gek Teng](https://github.com/tgt87)
+- [Justin](https://github.com/ShindoSensei)
+- [Andre](https://github.com/cycopter12)
+- [Iris](https://github.com/iris-zhen)
+- [Shimei](https://github.com/wshimei)
 
 
 ## Exit Tickets
