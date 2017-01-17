@@ -26,9 +26,9 @@ We use Github for source code management. Every student will need an account, wi
 - [Sej](https://github.com/SejKoghar)
 - [Jonathan](https://github.com/jonathanlimes)
 - [Elaine](https://github.com/lainelim)
-- Sruti
+- [Sruti](https://github.com/skeerti2)
 - [Xavier](https://github.com/random-9)
-- Han Sheng
+- [Han Sheng](https://github.com/hsquek)
 - [Syed Salim](https://github.com/syedsalim)
 - [Gek Teng](https://github.com/tgt87)
 - [Justin](https://github.com/ShindoSensei)
