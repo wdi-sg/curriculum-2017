@@ -16,7 +16,7 @@ Class discussions take place on Slack. [Download Slack](https://slack.com/downlo
 We use Github for source code management. Every student will need an account, with all projects and assignments stored there. Below are links to all accounts.
 
 #### Instructional Team
-- [Jeremiah](https://github.com/primaulia)
+- [Prima](https://github.com/primaulia)
 - [Kang Sheng](https://github.com/TayKangSheng)
 
 #### Students
