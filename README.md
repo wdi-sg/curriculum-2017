@@ -391,7 +391,7 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [1027]: http://flukeout.github.io
 [1028]: http://flexboxfroggy.com
 [1029]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/command-line/command-line-lab.html
-[1030]: https://github.com/wdi-sg/tic-tac-tester
+[1030]: https://github.com/wdi-sg/tic-tac-tester2
 [1031]: https://github.com/wdi-sg/fellowship-of-the-dom
 [1032]: https://github.com/wdi-sg/js-timer-lab
 [1033]: https://github.com/wdi-sg/jquery-intro-lab
