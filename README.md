@@ -33,7 +33,7 @@ We use Github for source code management. Every student will need an account, wi
 - [Gek Teng](https://github.com/tgt87)
 - [Justin](https://github.com/ShindoSensei)
 - [Andre](https://github.com/cycopter12)
-- [Iris](https://github.com/iris-zhen)
+- ~~[Iris](https://github.com/iris-zhen)~~
 - [Shimei](https://github.com/wshimei)
 
 
