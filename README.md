@@ -88,7 +88,6 @@ _Jan 23rd - Jan 27th_
 | [Intro to Agile & Testing][18]     | [Tic Tac Tester Mini Project][1030]
 | [JS Callbacks & Iterators][12]     | [Iterators Lab][1011]     
 | [Intro to jQuery][13]              | [DOM Intro Quiz][412]
-|                                    | [jQuery Intro Quiz][1033]
 |                                    | [Bonus: Animated Clock][1036]
 |                                    | [Tic Tac Toe Revisited][1035]
 |                                    | [Fellowship of the DOM][1031]
