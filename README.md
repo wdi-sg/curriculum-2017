@@ -23,7 +23,6 @@ We use Github for source code management. Every student will need an account, wi
 - [John](https://github.com/johnacs)
 - [Desmond](https://github.com/desmondhengwj)
 - [Iskandar](https://github.com/anatraxia)
-- [Sej](https://github.com/SejKoghar)
 - [Jonathan](https://github.com/jonathanlimes)
 - [Elaine](https://github.com/lainelim)
 - [Sruti](https://github.com/skeerti2)
@@ -88,7 +87,8 @@ _Jan 23rd - Jan 27th_
 | ---                                | ---         
 | [Intro to Agile & Testing][18]     | [Tic Tac Tester Mini Project][1030]
 | [JS Callbacks & Iterators][12]     | [Iterators Lab][1011]     
-| [Intro to jQuery][13]              | [jQuery Intro Quiz][1033]
+| [Intro to jQuery][13]              | [DOM Intro Quiz][412]
+|                                    | [jQuery Intro Quiz][1033]
 |                                    | [Bonus: Animated Clock][1036]
 |                                    | [Tic Tac Toe Revisited][1035]
 |                                    | [Fellowship of the DOM][1031]
@@ -535,6 +535,7 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [409]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/kitchen-sink.html
 [410]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/custom-iterators.html
 [411]: https://docs.google.com/spreadsheets/d/1X7jloq3rC2WqzfyHEqDZgdOPjTGIglqY6WSGb3vrLzE/edit?usp=sharing
+[412]: https://github.com/wdi-sg/dom-intro-lab
 
 ---
 
