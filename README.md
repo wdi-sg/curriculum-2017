@@ -23,6 +23,7 @@ We use Github for source code management. Every student will need an account, wi
 - [John](https://github.com/johnacs)
 - [Desmond](https://github.com/desmondhengwj)
 - [Iskandar](https://github.com/anatraxia)
+- [Sej](https://github.com/SejKoghar)
 - [Jonathan](https://github.com/jonathanlimes)
 - [Elaine](https://github.com/lainelim)
 - [Sruti](https://github.com/skeerti2)
@@ -86,15 +87,10 @@ _Jan 23rd - Jan 27th_
 | Topic                              | Assignments
 | ---                                | ---         
 | [Intro to Agile & Testing][18]     | [Tic Tac Tester Mini Project][1030]
-<<<<<<< HEAD
-| [JS Callbacks & Iterators][12]     | [Iterators Lab][1011]
+| [JS Callbacks & Iterators][12]     | [Iterators Lab][1011]    
 | [DOM][1037]                        | [DOM and Events][1037]    
-|                                    | [DOM Manipulation][1038]    
+|                                    | [DOM Manipulation][1038]     
 | [Intro to jQuery][13]              | [jQuery Intro Quiz][1033]
-=======
-| [JS Callbacks & Iterators][12]     | [Iterators Lab][1011]     
-| [Intro to jQuery][13]              | [DOM Intro Quiz][412]
->>>>>>> 2ecb4acce392bf7ae3ecd812a678f3cbd7b719a9
 |                                    | [Bonus: Animated Clock][1036]
 |                                    | [Tic Tac Toe Revisited][1035]
 |                                    | [Fellowship of the DOM][1031]
@@ -397,7 +393,7 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [1027]: http://flukeout.github.io
 [1028]: http://flexboxfroggy.com
 [1029]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/command-line/command-line-lab.html
-[1030]: https://github.com/wdi-sg/tic-tac-tester2
+[1030]: https://github.com/wdi-sg/tic-tac-tester
 [1031]: https://github.com/wdi-sg/fellowship-of-the-dom
 [1032]: https://github.com/wdi-sg/js-timer-lab
 [1033]: https://github.com/wdi-sg/jquery-intro-lab
@@ -543,7 +539,6 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [409]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/kitchen-sink.html
 [410]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/custom-iterators.html
 [411]: https://docs.google.com/spreadsheets/d/1X7jloq3rC2WqzfyHEqDZgdOPjTGIglqY6WSGb3vrLzE/edit?usp=sharing
-[412]: https://github.com/wdi-sg/dom-intro-lab
 
 ---
 
