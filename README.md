@@ -395,7 +395,7 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [1029]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/command-line/command-line-lab.html
 [1030]: https://github.com/wdi-sg/tic-tac-tester
 [1031]: https://github.com/wdi-sg/fellowship-of-the-dom
-[1032]: https://github.com/wdi-sg/js-timer-lab
+[1032]: https://github.com/wdi-sg/js-timer-lab2
 [1033]: https://github.com/wdi-sg/jquery-intro-lab
 [1034]: https://github.com/wdi-sg/sim-city-bomb-squad
 [1035]: https://github.com/wdi-sg/tic-tac-toe-revisited/blob/master/README.md
