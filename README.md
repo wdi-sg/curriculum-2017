@@ -109,6 +109,13 @@ Carefully Read the [Project 1 Specification here][1022].
 To start your project, you need to [Accept the Assignment on Github Classroom](https://classroom.github.com/assignment-invitations/008518fab00f26cc1555356345a49679). This will create a new repo for you on Github, which you must use to store your project source code.
 -->
 
+#### Unit One online materials
+1. [Flexboxfroggy][http://flexboxfroggy.com]
+2. [CSS Dinner][https://flukeout.github.io]
+3. [Learn Git][https://www.codeschool.com/courses/try-git]
+4. [Atom Keyboard Shortcut][https://github.com/nwinkler/atom-keyboard-shortcuts]
+
+
 ### Unit 2: Node/Express
 _Feb 6th - Feb 24th_
 
