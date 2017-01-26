@@ -110,13 +110,13 @@ To start your project, you need to [Accept the Assignment on Github Classroom](h
 -->
 
 #### Unit One online materials
-1. [Understanding this once and for all!][https://journeyintojavascript.quora.com/understanding-this-once-and-for-all]
-2. [Flexboxfroggy][http://flexboxfroggy.com]
-3. [CSS Dinner][https://flukeout.github.io]
-4. [Learn Git][https://www.codeschool.com/courses/try-git]
-5. [Atom Keyboard Shortcut][https://github.com/nwinkler/atom-keyboard-shortcuts]
-6. [Learn CSS Layout][http://learnlayout.com]
-7. [Coolers - Colors Generator][https://coolors.co]
+1. [Understanding this once and for all!](https://journeyintojavascript.quora.com/understanding-this-once-and-for-all)
+2. [Flexboxfroggy](http://flexboxfroggy.com)
+3. [CSS Dinner](https://flukeout.github.io)
+4. [Learn Git](https://www.codeschool.com/courses/try-git)
+5. [Atom Keyboard Shortcut](https://github.com/nwinkler/atom-keyboard-shortcuts)
+6. [Learn CSS Layout](http://learnlayout.com)
+7. [Coolers - Colors Generator](https://coolors.co)
 
 
 ### Unit 2: Node/Express
