@@ -114,6 +114,7 @@ To start your project, you need to [Accept the Assignment on Github Classroom](h
 2. [CSS Dinner][https://flukeout.github.io]
 3. [Learn Git][https://www.codeschool.com/courses/try-git]
 4. [Atom Keyboard Shortcut][https://github.com/nwinkler/atom-keyboard-shortcuts]
+5. [Learn CSS Layout][http://learnlayout.com]
 
 
 ### Unit 2: Node/Express
