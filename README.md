@@ -117,6 +117,7 @@ To start your project, you need to [Accept the Assignment on Github Classroom](h
 5. [Atom Keyboard Shortcut](https://github.com/nwinkler/atom-keyboard-shortcuts)
 6. [Learn CSS Layout](http://learnlayout.com)
 7. [Coolers - Colors Generator](https://coolors.co)
+8. [thenounproject - free icons](https://thenounproject.com)
 
 
 ### Unit 2: Node/Express
