@@ -106,19 +106,19 @@ _Jan 30th - Feb 3rd_
 Carefully Read the [Project 1 Specification here][1022].
 
 ###### Submissions
-[wdi-project-1-cycopter12](https://github.com/wdi-sg/wdi-project-1-cycopter12)
-[wdi-project-1-tgt87](https://github.com/wdi-sg/wdi-project-1-tgt87)
-[wdi-project-1-johnacs](https://github.com/wdi-sg/wdi-project-1-johnacs)
-[wdi-project-1-jonathanlimes](https://github.com/wdi-sg/wdi-project-1-jonathanlimes)
-[wdi-project-1-wshimei](https://github.com/wdi-sg/wdi-project-1-wshimei)
-[wdi-project-1-skeerti2](https://github.com/wdi-sg/wdi-project-1-skeerti2)
-[wdi-project-1-desmondhengwj](https://github.com/wdi-sg/wdi-project-1-desmondhengwj)
-[wdi-project-1-lainelim](https://github.com/wdi-sg/wdi-project-1-lainelim)
-[wdi-project-1-hsquek](https://github.com/wdi-sg/wdi-project-1-hsquek)
-[wdi-project-1-anatraxia](https://github.com/wdi-sg/wdi-project-1-anatraxia)
-[wdi-project-1-random-9](https://github.com/wdi-sg/wdi-project-1-random-9)
-[wdi-project-1-syedsalim](https://github.com/wdi-sg/wdi-project-1-syedsalim)
-[wdi-project-1-ShindoSensei](https://github.com/wdi-sg/wdi-project-1-ShindoSensei)
+- [wdi-project-1-cycopter12](https://github.com/wdi-sg/wdi-project-1-cycopter12)
+- [wdi-project-1-tgt87](https://github.com/wdi-sg/wdi-project-1-tgt87)
+- [wdi-project-1-johnacs](https://github.com/wdi-sg/wdi-project-1-johnacs)
+- [wdi-project-1-jonathanlimes](https://github.com/wdi-sg/wdi-project-1-jonathanlimes)
+- [wdi-project-1-wshimei](https://github.com/wdi-sg/wdi-project-1-wshimei)
+- [wdi-project-1-skeerti2](https://github.com/wdi-sg/wdi-project-1-skeerti2)
+- [wdi-project-1-desmondhengwj](https://github.com/wdi-sg/wdi-project-1-desmondhengwj)
+- [wdi-project-1-lainelim](https://github.com/wdi-sg/wdi-project-1-lainelim)
+- [wdi-project-1-hsquek](https://github.com/wdi-sg/wdi-project-1-hsquek)
+- [wdi-project-1-anatraxia](https://github.com/wdi-sg/wdi-project-1-anatraxia)
+- [wdi-project-1-random-9](https://github.com/wdi-sg/wdi-project-1-random-9)
+- [wdi-project-1-syedsalim](https://github.com/wdi-sg/wdi-project-1-syedsalim)
+- [wdi-project-1-ShindoSensei](https://github.com/wdi-sg/wdi-project-1-ShindoSensei)
 
 
 #### Unit One online materials
