@@ -365,6 +365,8 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [1034]: https://github.com/wdi-sg/sim-city-bomb-squad
 [1035]: https://github.com/wdi-sg/tic-tac-toe-revisited/blob/master/README.md
 [1036]: https://github.com/wdi-sg/js-clock-intervals
+[1037]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-events/readme.html
+[1038]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-manipulation/
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
