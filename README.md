@@ -19,23 +19,15 @@ We use Github for source code management. Every student will need an account, wi
 - [Prima](https://github.com/primaulia)
 - [Kang Sheng](https://github.com/TayKangSheng)
 
-#### Students
-- [John](https://github.com/johnacs)
-- [Desmond](https://github.com/desmondhengwj)
-- [Iskandar](https://github.com/anatraxia)
-- ~~[Sej](https://github.com/SejKoghar)~~
-- [Jonathan](https://github.com/jonathanlimes)
-- [Elaine](https://github.com/lainelim)
-- [Sruti](https://github.com/skeerti2)
-- [Xavier](https://github.com/random-9)
-- [Han Sheng](https://github.com/hsquek)
-- [Syed Salim](https://github.com/syedsalim)
-- [Gek Teng](https://github.com/tgt87)
-- [Justin](https://github.com/ShindoSensei)
-- [Andre](https://github.com/cycopter12)
-- ~~[Iris](https://github.com/iris-zhen)~~
-- [Shimei](https://github.com/wshimei)
-
+##### Student Pair
+After completing the Project, each student should complete a [Code Review][1025]. The groupings are:
+- [Desmond](https://github.com/desmondhengwj) / [Shimei](https://github.com/wshimei)
+- [Andre](https://github.com/cycopter12) / [Elaine](https://github.com/lainelim)
+- [Sruti](https://github.com/skeerti2) / [John](https://github.com/johnacs)
+- [Jonathan](https://github.com/jonathanlimes) / [Xavier](https://github.com/random-9)
+- [Iskandar](https://github.com/anatraxia) / [Han Sheng](https://github.com/hsquek)
+- [Gek Theng](https://github.com/tgt87) / [Justin](https://github.com/ShindoSensei)
+- [Salim](https://github.com/syedsalim) / Prima & Kang Sheng
 
 ## Exit Tickets
 At the end of each day's lesson, kindly fill in the [Exit Tickets](https://goo.gl/forms/MUAO8SSAvJH2Xt473) to provide feedback for the day's lessons.
@@ -131,117 +123,49 @@ Carefully Read the [Project 1 Specification here][1022].
 7. [Coolers - Colors Generator](https://coolors.co)
 8. [thenounproject - free icons](https://thenounproject.com)
 
-
 ### Unit 2: Node/Express
 _Feb 6th - Feb 24th_
 
-Details Coming Soon.
-
-<!-- Unit 2 is about introducing server side development. Specifically, we focus on Node.js, Express & MongoDB. It is also a chance to solidify JavaScript fundamentals and dive deep into programming concepts like CRUD and MVC.
+Unit 2 is about introducing server side development. Specifically, we focus on Node.js, Express & MongoDB. It is also a chance to solidify JavaScript fundamentals and dive deep into programming concepts like CRUD and MVC.
 
 #### Week 4
 
 | Topic | Assignments
 | ---  | ---         
 | [JS Review & Scopes][21]         | [Technical Documentation][25]
-|                                  | [Code Review][1025]
 | [Intro to Node & NPM][119]       | |
 | Intro to CRUD & MVC              | |
-| [TDD with Assert][20]            | [TDD Todo Lab][1114]
+| [TDD with Assert][20]            | [TDD Todo List][1114]
 | [Intro to NoSQL w/ Mongo][309]   | [Install MongoDB][23]
 | [ORM with Mongoose][310]         | [Mongo Todo Lab][1115]
 | [Internet Fundamentals][1]       | [Internet Lab][1000]  
 | [Intro to Express][101]          | |
-| [REST & CRUD in Express][121]    | [Express Todo Lab pt1][1116]
-| [Views in Express][122]          | |
-| [Bootstrap][17]                  | [Express Todo Lab pt2][1117] ||
+| [REST & CRUD in Express][121]    | [Express Todo List pt1][1116]
+| [Express Testing with Mocha and Chai][112] | [Mocha TODO List][1117] |
 
 #### Week 5
 
-We'll dig into modelling more complex relationships in Mongo & Mongoose and we'll also look into adding user authentication to our apps. -->
+We'll dig into modeling more complex relationships in Mongo & Mongoose and we'll also look into adding user authentication to our apps.
 
-<!--
-
-- relationships in mongo/mongoose
-04-databases/mongo-intro/data-modeling.md
-05-express/express-mongoose/relations.md
-
-mongoose referencing lab:
-https://github.com/GA-WDI/curriculum/tree/master/resources/04-server-applications/node-express-mongo-modeling-lab
-
-mongoose modelling lab (with express & views):
-https://github.com/GA-WDI/curriculum/tree/master/resources/04-server-applications/node-express-mongo-crud-lab
-
-- authentication (passport) - section is docs currently talks about Sequelize, we should switch to mongoose https://github.com/GA-WDI/curriculum/tree/master/resources/04-server-applications/node-express-passwords-lesson
-
+| Topic | Assignments
+| ---  | ---  
+| [Views in Express][122]          | |
+| [Bootstrap][17]                  | [Express Todo List pt2][1118] |
+|                                  | [Mongoose Pet Shelter][1121]
+| [Modeling Relations in Mongo][333]   | |
+| [Mapping Relations in Mongoose][334] | [Modeling Airports][1120]
+| | [Multi Model Todo List][1119] |
 | [Express Authentication Theory][110] | |
-| [Express Authentication Practice][111] | [Starter
-- todos part 4
+| [Express Authentication Practice][111] | [Users Todo List ][1122]
+| [Deploy Node to Heroku][107] | [Example App][1113] |
 
-- deploy
-- | [Deploy Node to Heroku][107] | [Example App][1113] |
-
-- practice
-- Build another full app from scratch in pairs [Daily Planet][1100] or blog
-
-testing, apis & ajax
-| [Express Testing with Mocha and Chai][112] | [Starter code][113] | Template][1112] | (CANDIES?)
-https://github.com/GA-WDI/curriculum/blob/master/resources/04-server-applications/node-express-routing-lab/README.md
-
-| [Full RESTful Routing w/AJAX][105] | [Hackathon Teams][1111]
-
-| [AJAX][15]                   | [AJAX Doughnuts][1016]
-| Topic | Assignments <br><br> [Daily Planet with AJAX (old)][1104] |
-Leaderboard API Lab
-https://gist.github.com/jeremiahalex/5305368ad055f27874dfbbbcad4d8f70
-| [Consuming an API? + Dotenv?][102] | [OMDB Movie Search][1101] |
-
-
-| Topic | Assignments |
-| ----- | ----------- |
-| [Express with Databases via Sequelize][106] | [Pokedex][1107] <br><br> [Link Shortener][1105] |
-
-
-| Projects and Additional Topics |
+| Bonus Topics |
 | -------- |
-| [Project 2][1106] |
-| [oAuth][115] |
-| [Realtime with Socket.io][117] |
-| [Geocoding/Maps][116] |
 | [Image Uploads with Cloudinary][118] |
-| [Post Project 2][1110] |
-| [Code Review][1025] |
-
--->
-
-### Unit 3: Ruby on Rails
-_Feb 27th - Mar 17th_
-
-Details Coming Soon.
+| [Geocoding/Maps (Sequelize)][116] |
+| [oAuth (Sequelize)][115]|
 
 
-<!-- TODO. plan out unit 3.
-DB Modelling LAb
-https://github.com/GA-WDI/curriculum/tree/master/resources/05-databases/data-modeling-erd-design-lab
-
-| [Intro to SQL][103] | [Apartment Lab][1102] |
-| [Advanced SQL][104] | [Booktown][1103] |
-| [Sequelize 1:M][108] | [Comments w/BlogPulse][1108] |
-| [Sequelize M:M][109] | [Project Organizer][1109] |
-
--->
-
-### Unit 4: Advanced Web Development
-_Mar 20th - Apr 7th_
-
-Details Coming Soon.
-
-
-<!-- TODO. plan out unit 4.
-
-webpack, gulp or similar
-
--->
 
 
 <!-- hidden
@@ -356,6 +280,22 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 - [Random Quote Generator][408]
 - [Kitchen Sink][409]
 - [Custom Iterators][410]
+
+###Computer Science
+
+| Topic | Assignments |
+| ----- | ----------- |
+| Recursion/Problem Solving | [Array Challenge][1308] |
+| Binary Search <br><br> [Algorithm Complexity][308] | [Auto Guess][1309] |
+| [Stacks and Queues][312] | [Bracket Matching][1311] |
+| Linked Lists | [Singly Linked List][317] <br><br> [Linked List Methods][318] |
+| Bucket Sort | [Bucket Sort: Sorting Papers][321] |
+| [Bubble Sort][322] | |
+| [Merge Sort][323] | |
+| [Quick Sort][324] | |
+| [Sorting Wrapup][325] | |
+| [Hashmaps][326] | |
+| [Trees and Other Topics][327] | N/A |
 
 
 [1]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-internet/how-the-internet-works.html
