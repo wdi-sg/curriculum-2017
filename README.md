@@ -56,41 +56,41 @@ _Jan 16th - Jan 20th_
 
 | Topic                              | Assignments
 | ---                                | ---             
-| [Installfest][23]                  | |
-| [Command Line][2]                  | [Filesystem Navigation Lab][1029]        
-|                                    | [Command Line Murder Mystery][1001]
-| [HTML Review][5]                   | [HTML Top Ten Movies Lab][900]    
-|                                    | [HTML User Input Lab][901]
-| [CSS Selectors][6]                 | [Flukeout CSS Selector Game][1027]
-| [CSS Box Model and Positioning][9] | [Recreate Instagram][1023]   
-| [CSS Positioning with Flexbox][9]  | [Flexbox Froggy][1028]
-|                                    | [Recreate Airbnb][1024]
-| [Responsive CSS][16]               | |
-| [Intro to Git/Github][3]           | [Learn Git News Room Style][1026]
-| [JavaScript Primitives][4]         | [Primitives Exercises][1003]    
-| [JavaScript Control Flow][7]       | [Control Flow Problems][1004]
-| [JavaScript Functions][10]         | [Functions Problem Set][1007]
-|                                    | [Google Shopping][1002]
-|                                    | [Google Shopping Functions][1006]
+| [Installfest][23]                  |                                      |
+| [Command Line][2]                  | [Filesystem Navigation Lab][1029]    |       
+|                                    | [Command Line Murder Mystery][1001]  |
+| [HTML Review][5]                   | [HTML Top Ten Movies Lab][900]       |
+|                                    | [HTML User Input Lab][901]           |
+| [CSS Selectors][6]                 | [Flukeout CSS Selector Game][1027]   |
+| [CSS Box Model and Positioning][9] | [Recreate Instagram][1023]           |
+| [CSS Positioning with Flexbox][9]  | [Flexbox Froggy][1028]               |
+|                                    | [Recreate Airbnb][1024]              |
+| [Responsive CSS][16]               |                                      |
+| [Intro to Git/Github][3]           | [Learn Git News Room Style][1026]    |
+| [JavaScript Primitives][4]         | [Primitives Exercises][1003]         |
+| [JavaScript Control Flow][7]       | [Control Flow Problems][1004]        |
+| [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
+|                                    | [Google Shopping][1002]              |
+|                                    | [Google Shopping Functions][1006]    |
 
 #### Week 2
 _Jan 23rd - Jan 27th_
 
-| Topic                              | Assignments
-| ---                                | ---         
-| [Intro to Agile & Testing][18]     | [Tic Tac Tester Mini Project][1030]
-| [JS Callbacks & Iterators][12]     | [Iterators Lab][1011]    
-| [DOM][1037]                        | [DOM and Events][1037]    
-|                                    | [DOM Manipulation][1038]     
-| [Intro to jQuery][13]              | [jQuery Intro Quiz][1033]
-|                                    | [Bonus: Animated Clock][1036]
-|                                    | [Tic Tac Toe Revisited][1035]
-|                                    | [Fellowship of the DOM][1031]
-|                                    | [Bonus: Temperature Converter][1009]
-|                                    | [Timer][1032]
-|                                    | [Sim City Bomb Squad][1034]  
-| [OOP in JavaScript][19]            | [Prototype Body Shop][1020]           
-| [JavaScript Inheritance][22]       | [Prototype Body Shop 2][1021]
+| Topic                              | Assignments                          |
+| ---                                | ---                                  |
+| [Intro to Agile & Testing][18]     | [Tic Tac Tester Mini Project][1030]  |
+| [JS Callbacks & Iterators][12]     | [Iterators Lab][1011]                |
+| [DOM][1037]                        | [DOM and Events][1037]               |
+|                                    | [DOM Manipulation][1038]             |
+| [Intro to jQuery][13]              | [jQuery Intro Quiz][1033]            |
+|                                    | [Bonus: Animated Clock][1036]        |
+|                                    | [Tic Tac Toe Revisited][1035]        |
+|                                    | [Fellowship of the DOM][1031]        |
+|                                    | [Bonus: Temperature Converter][1009] |
+|                                    | [Timer][1032]                        |
+|                                    | [Sim City Bomb Squad][1034]          |
+| [OOP in JavaScript][19]            | [Prototype Body Shop][1020]          |
+| [JavaScript Inheritance][22]       | [Prototype Body Shop 2][1021]        |
 
 #### Week 3 - Project 1
 _Jan 30th - Feb 3rd_
@@ -130,42 +130,44 @@ Unit 2 is about introducing server side development. Specifically, we focus on N
 
 #### Week 4
 
-| Topic | Assignments
-| ---  | ---         
-| [JS Review & Scopes][21]         | [Technical Documentation][25]
-| [Intro to Node & NPM][119]       | |
-| Intro to CRUD & MVC              | |
-| [TDD with Assert][20]            | [TDD Todo List][1114]
-| [Intro to NoSQL w/ Mongo][309]   | [Install MongoDB][23]
-| [ORM with Mongoose][310]         | [Mongo Todo Lab][1115]
-| [Internet Fundamentals][1]       | [Internet Lab][1000]  
-| [Intro to Express][101]          | |
-| [REST & CRUD in Express][121]    | [Express Todo List pt1][1116]
-| [Express Testing with Mocha and Chai][112] | [Mocha TODO List][1117] |
+| Topic                                       | Assignments                    |
+| ---                                         | ---                            |
+| [JS Review & Scopes][21]                    | [Technical Documentation][25]  |
+| [Intro to Node & NPM][119]                  |                                |
+| Intro to CRUD & MVC                         |                                |
+| [TDD with Assert][20]                       | [TDD Todo List][1114]          |
+| [Intro to NoSQL w/ Mongo][309]              | [Install MongoDB][23]          |
+| [ORM with Mongoose][310]                    | [Mongo Todo Lab][1115]         |
+| [Internet Fundamentals][1]                  | [Internet Lab][1000]           |
+| [Intro to Express][101]                     |                                |
+| [REST & CRUD in Express][121]               | [Express Todo List pt1][1116]  |
+| [Express Testing with Mocha and Chai][112]  | [Mocha TODO List][1117]        |
 
 #### Week 5
 
 We'll dig into modeling more complex relationships in Mongo & Mongoose and we'll also look into adding user authentication to our apps.
 
-| Topic | Assignments
-| ---  | ---  
-| [Views in Express][122]          | |
-| [Bootstrap][17]                  | [Express Todo List pt2][1118] |
-|                                  | [Mongoose Pet Shelter][1121]
-| [Modeling Relations in Mongo][333]   | |
-| [Mapping Relations in Mongoose][334] | [Modeling Airports][1120]
-| | [Multi Model Todo List][1119] |
-| [Express Authentication Theory][110] | |
-| [Express Authentication Practice][111] | [Users Todo List ][1122]
-| [Deploy Node to Heroku][107] | [Example App][1113] |
+| Topic                                   | Assignments                     |
+| ---                                     | ---                             |
+| [Views in Express][122]                 |                                 |
+| [Bootstrap][17]                         | [Express Todo List pt2][1118]   |
+|                                         | [Mongoose Pet Shelter][1121]    |
+| [Modeling Relations in Mongo][333]      |                                 |
+| [Mapping Relations in Mongoose][334]    | [Modeling Airports][1120]       |
+|                                         | [Multi Model Todo List][1119]   |
+| [Express Authentication Theory][110]    |                                 |
+| [Express Authentication Practice][111]  | [Users Todo List ][1122]        |
+| [Deploy Node to Heroku][107]            | [Example App][1113]             |
 
-| Bonus Topics |
-| -------- |
-| [Image Uploads with Cloudinary][118] |
-| [Geocoding/Maps (Sequelize)][116] |
-| [oAuth (Sequelize)][115]|
+| Bonus Topics                          |
+| --------                              |
+| [Image Uploads with Cloudinary][118]  |
+| [Geocoding/Maps (Sequelize)][116]     |
+| [oAuth (Sequelize)][115]              |
 
+#### Week 6 - Project 2
 
+Carefully Read the [Project 2 Specification here][1106].
 
 
 <!-- hidden
@@ -358,13 +360,11 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [1029]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/command-line/command-line-lab.html
 [1030]: https://github.com/wdi-sg/tic-tac-tester
 [1031]: https://github.com/wdi-sg/fellowship-of-the-dom
-[1032]: https://github.com/wdi-sg/js-timer-lab2
+[1032]: https://github.com/wdi-sg/js-timer-lab
 [1033]: https://github.com/wdi-sg/jquery-intro-lab
 [1034]: https://github.com/wdi-sg/sim-city-bomb-squad
 [1035]: https://github.com/wdi-sg/tic-tac-toe-revisited/blob/master/README.md
 [1036]: https://github.com/wdi-sg/js-clock-intervals
-[1037]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-events/readme.html
-[1038]: https://jeremiahalex.gitbooks.io/wdi-sg/content/02-js-jquery/js-dom-manipulation/
 
 [101]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-intro/02express.html
 [102]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-apis/01readme.html
@@ -376,7 +376,7 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [108]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-1-to-many/readme.html
 [109]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-many-to-many/readme.html
 [110]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-auth/theory/readme.html
-[111]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-auth/practice/readme.html
+[111]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-auth/mongoose/readme.html
 [112]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-mocha-testing/readme.html
 [113]: https://github.com/wdi-sg/mocha-chai-starter
 [114]: https://jeremiahalex.gitbooks.io/wdi-sg/content/00-config-deployment/foreman/readme.html
@@ -395,25 +395,33 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [1103]: https://github.com/wdi-sg/booktown
 [1104]: https://github.com/wdi-sg/express-daily-planet-ajax
 [1105]: https://github.com/wdi-sg/link-shortener
-[1106]: 11-projects/project-2/readme.html
+[1106]: https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/project-2/readme.html
 [1107]: https://github.com/wdi-sg/express-pokedex
 [1108]: https://github.com/wdi-sg/express-blogpulse
 [1109]: https://github.com/wdi-sg/express-project-organizer
-[1110]: 11-projects/post-project-2/readme.html
+[1110]: https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/post-project-2/readme.html
 [1111]: https://github.com/wdi-sg/hackathon-teams
-[1112]: https://github.com/wdi-sg/express-authentication
+[1112]: https://github.com/wdi-sg/express-authentication-mongoose
 [1113]: https://github.com/wdi-sg/tacoapp
 [1114]: https://github.com/wdi-sg/tdd-todo-list
 [1115]: https://github.com/wdi-sg/mongo-todo-list
 [1116]: https://github.com/wdi-sg/express-todo-list-pt1
-[1117]: https://github.com/wdi-sg/express-todo-list-pt2
+[1117]: https://github.com/wdi-sg/mocha-todo-list
+[1118]: https://github.com/wdi-sg/express-todo-list-pt2
+[1119]: https://github.com/wdi-sg/multi-model-todo-list
+[1120]: https://github.com/wdi-sg/express-mongo-modeling-lab
+[1121]: https://github.com/wdi-sg/express-mongo-pet-shelter
+[1122]: https://github.com/wdi-sg/users-todo-list
+[1123]: https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/readme.html
+[1124]: https://github.com/wdi-sg/erd-data-modeling-lab
+[1125]: https://github.com/wdi-sg/sql-carmen-sandiego
 
 [201]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/ruby-intro/readme.html
 [202]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/ruby-classes/readme.html
 [203]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/ruby-inheritance/readme.html
 [204]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/ruby-rspec/readme.html
 [205]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/rails-intro/readme.html
-[206]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/rails-apis/readme.html
+[206]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/rails-apis/consuming-an-api.html
 [207]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/rails-assets-frontend/readme.html
 [208]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/rails-auth-1-M/readme.html
 [209]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/rails-M-M/readme.html
@@ -424,8 +432,12 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [214]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/additional-topics/ruby-jekyll/readme.html
 [215]: https://jeremiahalex.gitbooks.io/wdi-sg/content/01-workflow/group-collab/01readme.html
 [216]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/ruby-data-scraping/readme.html
+[217]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/additional-topics/sass/readme.html
+[218]: https://github.com/wdi-sg/git-team-imdb-lab
+[219]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/rails-apis/building-an-api.html
+[220]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/rails-assets-frontend/ajax.md
 
-[1200]: 11-projects/project-3/readme.html
+[1200]: https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/project-3/readme.html
 [1201]: https://github.com/wdi-sg/ruby-exercises
 [1202]: https://github.com/wdi-sg/ruby-challenges
 [1203]: https://github.com/wdi-sg/ruby-classes
@@ -435,9 +447,12 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [1207]: https://github.com/wdi-sg/nokogiri-cli-tool
 [1208]: https://github.com/wdi-sg/front-end-hackathon
 [1209]: https://github.com/wdi-sg/link-board
-[1210]: https://github.com/wdi-sg/link-board/blob/master/part2.html
-[1211]: https://github.com/wdi-sg/rails-national-parks/blob/master/part2.html
+[1210]: https://github.com/wdi-sg/link-board/blob/master/part2.md
+[1211]: https://github.com/wdi-sg/rails-national-parks/blob/master/part2.md
 [1212]: https://github.com/wdi-sg/js-jquery-review
+[1213]: https://github.com/wdi-sg/rspec-tdd-calculator
+[1214]: https://github.com/wdi-sg/rails-national-parks/blob/master/part3.md
+[1215]: https://github.com/wdi-sg/rails-flea-circus
 
 [301]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-intro/readme.html
 [302]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-directives-filters/readme.html
@@ -471,6 +486,8 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [330]: 10-react/react-router/readme.html
 [331]: https://github.com/wdi-sg/react-omdb
 [332]: 10-react/react-animations/readme.html
+[333]: https://jeremiahalex.gitbooks.io/wdi-sg/content/04-databases/mongo-intro/data-modeling.html
+[334]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-mongoose/relations.html
 
 [1300]: https://github.com/wdi-sg/angular-calculator
 [1301]: https://github.com/wdi-sg/fruits-and-veggies
@@ -502,7 +519,6 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [409]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/kitchen-sink.html
 [410]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/custom-iterators.html
 [411]: https://docs.google.com/spreadsheets/d/1X7jloq3rC2WqzfyHEqDZgdOPjTGIglqY6WSGb3vrLzE/edit?usp=sharing
-
 ---
 
 ## Licensing
