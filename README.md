@@ -274,7 +274,6 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 | ---                         | ---                                 | ---                         |
 | Data Structures             | [Stacks and Queues][5601]           | [Bracket Matching][5602]    |
 |                             | [Linked Lists][5603]                | [Singly Linked List][5604]  |  
-|                             |                                     | [Linked List Methods][5605] |
 |                             | [Trees and Other Topics][5606]      |                             |
 |                             | [Hashmaps][5607]                    |                             |
 | Recursion                   | [Recursion][5608]                   | [Array Challenge][5609]     |
@@ -316,7 +315,6 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [5602]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bracket-stacks/readme.html
 [5603]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list/readme.html
 [5604]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list/readme.html
-[5605]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list-2/readme.html
 [5606]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-trees-data-structures/readme.html
 [5607]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-hashmaps/readme.html
 [5608]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-recursion/readme.html
