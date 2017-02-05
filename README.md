@@ -244,73 +244,91 @@ https://gist.github.com/jeremiahalex/0d7e1cf2c62da6999622
 ## Additional materials
 
 ### Unit One online materials
-1. [Understanding this once and for all!](https://journeyintojavascript.quora.com/understanding-this-once-and-for-all)
-2. [Flexboxfroggy](http://flexboxfroggy.com)
-3. [CSS Dinner](https://flukeout.github.io)
-4. [Learn Git](https://www.codeschool.com/courses/try-git)
-5. [Atom Keyboard Shortcut](https://github.com/nwinkler/atom-keyboard-shortcuts)
-6. [Learn CSS Layout](http://learnlayout.com)
-7. [Coolers - Colors Generator](https://coolors.co)
-8. [thenounproject - free icons](https://thenounproject.com)
+1. [Understanding this once and for all!][5101]
+2. [Flexboxfroggy][5102]
+3. [CSS Dinner][5103]
+4. [Learn Git][5104]
+5. [Atom Keyboard Shortcut][5105]
+6. [Learn CSS Layout][5106]
+7. [Coolers - Colors Generator][5107]
+8. [thenounproject - free icons][5108]
 
 ### Practice Questions
 
 A warm up a day keeps the bugs at bay. You can work on these practice questions on your own time if you feel that you need more coding practices.
 
-- [Sum String][401]
-- [Mouse follows Mouse][402]
-- [English Calculator][403]
-- [Kopi Order][404]
-- [Scrabble][405]
-- [Array Practice 1][406]
-- [Array Practice 2][407]
-- [Random Quote Generator][408]
-- [Kitchen Sink][409]
-- [Custom Iterators][410]
+- [Sum String][5501]
+- [Mouse follows Mouse][5502]
+- [English Calculator][5503]
+- [Kopi Order][5504]
+- [Scrabble][5505]
+- [Array Practice 1][5506]
+- [Array Practice 2][5507]
+- [Random Quote Generator][5508]
+- [Kitchen Sink][5509]
+- [Custom Iterators][5510]
 
 ### Computer Science Topics
 
 | Topic                       | Readings                            | Assignments                 |
 | ---                         | ---                                 | ---                         |
-| Data Structures             | [Stacks and Queues][500]            | [Bracket Matching][501]     |
-|                             | [Linked Lists][502]                 | [Singly Linked List][503]   |  
-|                             |                                     | [Linked List Methods][504]  |
-|                             | [Trees and Other Topics][505]       |                             |
-|                             | [Hashmaps][506]                     |                             |
-| Recursion                   | [Recursion][507]                    | [Array Challenge][508]      |
-| Search Algorithms           | Binary Search                       |                             |
-| Asymptotic Complexity       | [Algorithm Complexity][509]         | <!-- [Auto Guess][1309] --> |
-| Sorting Algorithms          |                                     | [Bucket Sort][510]          |
-|                             |                                     | [Bubble Sort][511]          |
-|                             |                                     | [Merge Sort][512]           |
-|                             |                                     | [Quick Sort][513]           |
-|                             |                                     | [Sorting Wrapup][514]       |
-| Memory                      | [Memory][515]                       |                             |
+| Data Structures             | [Stacks and Queues][5601]           | [Bracket Matching][5602]    |
+|                             | [Linked Lists][5603]                | [Singly Linked List][5604]  |  
+|                             |                                     | [Linked List Methods][5605] |
+|                             | [Trees and Other Topics][5606]      |                             |
+|                             | [Hashmaps][5607]                    |                             |
+| Recursion                   | [Recursion][5608]                   | [Array Challenge][5609]     |
+| Search Algorithms           | [Binary Search][5610]               |                             |
+| Asymptotic Complexity       | [Algorithm Complexity][5611]        |                             |
+| Sorting Algorithms          |                                     | [Bucket Sort][5612]         |
+|                             |                                     | [Bubble Sort][5613]         |
+|                             |                                     | [Merge Sort][5614]          |
+|                             |                                     | [Quick Sort][5615]          |
+|                             |                                     | [Sorting Wrap up][5616]      |
+| Memory                      | [Memory][5617]                      |                             |
 
-
-
-
-[500]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-stacks-queues/readme.html
-[501]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bracket-stacks/readme.html
-[502]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list/readme.html
-[503]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list/readme.html
-[504]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list-2/readme.html
-[505]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-trees-data-structures/readme.html
-[506]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-hashmaps/readme.html
-[507]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-recursion/readme.html
-[508]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/teaser-array-flatten.html
-[509]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-algorithm-complexity/readme.html
-[510]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bucket-sort/readme.html
-[511]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bubble-sort/readme.html
-[512]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-mergesort/readme.html
-[513]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-quicksort/readme.html
-[514]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-sorting/readme.html
-[515]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/additional/memory.html
-
-
-[500]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-recursion/readme.html
-
-
+<!-- References for Additional Materials Section 5xxx -->
+<!-- Unit 1 Online Materials 51xx -->
+[5101]: https://journeyintojavascript.quora.com/understanding-this-once-and-for-all
+[5102]: http://flexboxfroggy.com
+[5103]: https://flukeout.github.io
+[5104]: https://www.codeschool.com/courses/try-git
+[5105]: https://github.com/nwinkler/atom-keyboard-shortcuts
+[5106]: http://learnlayout.com
+[5107]: https://coolors.co
+[5108]: https://thenounproject.com
+<!-- Unit 2 Online Materials 52xx -->
+<!-- Unit 3 Online Materials 53xx -->
+<!-- Unit 4 Online Materials 54xx -->
+<!-- Practice Questions 55xx -->
+[5501]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/sum-string.html
+[5502]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/mouse-follows-mouse.html
+[5503]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/english-calculator.html
+[5504]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/kopi-order.html
+[5505]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/scrabble.html
+[5506]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/array-practice-1.html
+[5507]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/array-practice-2.html
+[5508]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/random-quote-generator.html
+[5509]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/kitchen-sink.html
+[5510]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/custom-iterators.html
+<!-- Computer Science Section 56xx -->
+[5601]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-stacks-queues/readme.html
+[5602]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bracket-stacks/readme.html
+[5603]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list/readme.html
+[5604]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list/readme.html
+[5605]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list-2/readme.html
+[5606]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-trees-data-structures/readme.html
+[5607]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-hashmaps/readme.html
+[5608]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-recursion/readme.html
+[5609]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/teaser-array-flatten.html
+[5610]: https://www.cs.cmu.edu/~adamchik/15-121/lectures/Trees/trees.html
+[5611]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-algorithm-complexity/readme.html
+[5612]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bucket-sort/readme.html
+[5613]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bubble-sort/readme.html
+[5614]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-mergesort/readme.html
+[5615]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-quicksort/readme.html
+[5616]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-sorting/readme.html
+[5617]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/additional/memory.html
 
 
 
@@ -512,17 +530,8 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [1316]: https://github.com/wdi-sg/react-stopwatch
 [1317]: https://github.com/wdi-sg/react-yearbook
 
-[401]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/sum-string.html
-[402]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/mouse-follows-mouse.html
-[403]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/english-calculator.html
-[404]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/kopi-order.html
-[405]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/scrabble.html
-[406]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/array-practice-1.html
-[407]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/array-practice-2.html
-[408]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/random-quote-generator.html
-[409]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/kitchen-sink.html
-[410]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/custom-iterators.html
-[411]: https://docs.google.com/spreadsheets/d/1X7jloq3rC2WqzfyHEqDZgdOPjTGIglqY6WSGb3vrLzE/edit?usp=sharing
+
+
 ---
 
 ## Licensing
