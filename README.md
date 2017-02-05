@@ -283,21 +283,22 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 - [Kitchen Sink][409]
 - [Custom Iterators][410]
 
-###Computer Science
+### Computer Science Topics
 
-| Topic | Assignments |
-| ----- | ----------- |
-| Recursion/Problem Solving | [Array Challenge][1308] |
-| Binary Search <br><br> [Algorithm Complexity][308] | [Auto Guess][1309] |
-| [Stacks and Queues][312] | [Bracket Matching][1311] |
-| Linked Lists | [Singly Linked List][317] <br><br> [Linked List Methods][318] |
-| Bucket Sort | [Bucket Sort: Sorting Papers][321] |
-| [Bubble Sort][322] | |
-| [Merge Sort][323] | |
-| [Quick Sort][324] | |
-| [Sorting Wrapup][325] | |
-| [Hashmaps][326] | |
-| [Trees and Other Topics][327] | N/A |
+| Topic                       | Assignments/Readings                |
+| ---                         | ---                                 |
+| Recursion/Problem Solving   | [Array Challenge][1308]             |
+| [Algorithm Complexity][308] | [Auto Guess][1309]                  |
+| Sorting Algorithms          | [Bucket Sort: Sorting Papers][321]  |
+|                             | [Bubble Sort][322]                  |
+|                             | [Merge Sort][323]                   |
+|                             | [Quick Sort][324]                   |
+|                             | [Sorting Wrapup][325]               |
+| Search Algorithms           | Binary Search                       |
+| Data Structures             | [Stacks and Queues][312] <br> [Bracket Matching][1311] |
+|                             | Linked Lists <br> [Singly Linked List][317] <br> [Linked List Methods][318] |
+|                             | [Hashmaps][326]                     |
+|                             | [Trees and Other Topics][327]       |
 
 
 [1]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-internet/how-the-internet-works.html
