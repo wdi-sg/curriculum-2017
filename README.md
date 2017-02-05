@@ -113,16 +113,6 @@ Carefully Read the [Project 1 Specification here][1022].
 - [wdi-project-1-ShindoSensei](https://github.com/wdi-sg/wdi-project-1-ShindoSensei)
 
 
-#### Unit One online materials
-1. [Understanding this once and for all!](https://journeyintojavascript.quora.com/understanding-this-once-and-for-all)
-2. [Flexboxfroggy](http://flexboxfroggy.com)
-3. [CSS Dinner](https://flukeout.github.io)
-4. [Learn Git](https://www.codeschool.com/courses/try-git)
-5. [Atom Keyboard Shortcut](https://github.com/nwinkler/atom-keyboard-shortcuts)
-6. [Learn CSS Layout](http://learnlayout.com)
-7. [Coolers - Colors Generator](https://coolors.co)
-8. [thenounproject - free icons](https://thenounproject.com)
-
 ### Unit 2: Node/Express
 _Feb 6th - Feb 24th_
 
@@ -245,30 +235,25 @@ https://gist.github.com/jeremiahalex/0d7e1cf2c62da6999622
 | [React Animations][332] <br><br> | |
 
 
-###Computer Science
-
-| Topic | Assignments |
-| ----- | ----------- |
-| Recursion/Problem Solving | [Array Challenge][1308] |
-| Binary Search <br><br> [Algorithm Complexity][308] | [Auto Guess][1309] |
-| [Stacks and Queues][312] | [Bracket Matching][1311] |
-| Linked Lists | [Singly Linked List][317] <br><br> [Linked List Methods][318] |
-| Bucket Sort | [Bucket Sort: Sorting Papers][321] |
-| [Bubble Sort][322] | |
-| [Merge Sort][323] | |
-| [Quick Sort][324] | |
-| [Sorting Wrapup][325] | |
-| [Hashmaps][326] | |
-| [Trees and Other Topics][327] | N/A |
-
-
 | Projects and Additional Topics |
 | -------- |
 | [Project 4][1304] |
 
 -->
 
-## Practice Questions
+## Additional materials
+
+### Unit One online materials
+1. [Understanding this once and for all!](https://journeyintojavascript.quora.com/understanding-this-once-and-for-all)
+2. [Flexboxfroggy](http://flexboxfroggy.com)
+3. [CSS Dinner](https://flukeout.github.io)
+4. [Learn Git](https://www.codeschool.com/courses/try-git)
+5. [Atom Keyboard Shortcut](https://github.com/nwinkler/atom-keyboard-shortcuts)
+6. [Learn CSS Layout](http://learnlayout.com)
+7. [Coolers - Colors Generator](https://coolors.co)
+8. [thenounproject - free icons](https://thenounproject.com)
+
+### Practice Questions
 
 A warm up a day keeps the bugs at bay. You can work on these practice questions on your own time if you feel that you need more coding practices.
 
@@ -285,20 +270,49 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 
 ### Computer Science Topics
 
-| Topic                       | Assignments/Readings                |
-| ---                         | ---                                 |
-| Recursion/Problem Solving   | [Array Challenge][1308]             |
-| [Algorithm Complexity][308] | [Auto Guess][1309]                  |
-| Sorting Algorithms          | [Bucket Sort: Sorting Papers][321]  |
-|                             | [Bubble Sort][322]                  |
-|                             | [Merge Sort][323]                   |
-|                             | [Quick Sort][324]                   |
-|                             | [Sorting Wrapup][325]               |
-| Search Algorithms           | Binary Search                       |
-| Data Structures             | [Stacks and Queues][312] <br> [Bracket Matching][1311] |
-|                             | Linked Lists <br> [Singly Linked List][317] <br> [Linked List Methods][318] |
-|                             | [Hashmaps][326]                     |
-|                             | [Trees and Other Topics][327]       |
+| Topic                       | Readings                            | Assignments                 |
+| ---                         | ---                                 | ---                         |
+| Data Structures             | [Stacks and Queues][500]            | [Bracket Matching][501]     |
+|                             | [Linked Lists][502]                 | [Singly Linked List][503]   |  
+|                             |                                     | [Linked List Methods][504]  |
+|                             | [Trees and Other Topics][505]       |                             |
+|                             | [Hashmaps][506]                     |                             |
+| Recursion                   | [Recursion][507]                    | [Array Challenge][508]      |
+| Search Algorithms           | Binary Search                       |                             |
+| Asymptotic Complexity       | [Algorithm Complexity][509]         | <!-- [Auto Guess][1309] --> |
+| Sorting Algorithms          |                                     | [Bucket Sort][510]          |
+|                             |                                     | [Bubble Sort][511]          |
+|                             |                                     | [Merge Sort][512]           |
+|                             |                                     | [Quick Sort][513]           |
+|                             |                                     | [Sorting Wrapup][514]       |
+| Memory                      | [Memory][515]                       |                             |
+
+
+
+
+[500]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-stacks-queues/readme.html
+[501]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bracket-stacks/readme.html
+[502]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list/readme.html
+[503]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list/readme.html
+[504]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list-2/readme.html
+[505]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-trees-data-structures/readme.html
+[506]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-hashmaps/readme.html
+[507]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-recursion/readme.html
+[508]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/teaser-array-flatten.html
+[509]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-algorithm-complexity/readme.html
+[510]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bucket-sort/readme.html
+[511]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bubble-sort/readme.html
+[512]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-mergesort/readme.html
+[513]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-quicksort/readme.html
+[514]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-sorting/readme.html
+[515]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/additional/memory.html
+
+
+[500]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-recursion/readme.html
+
+
+
+
 
 
 [1]: https://jeremiahalex.gitbooks.io/wdi-sg/content/03-internet/how-the-internet-works.html
@@ -464,26 +478,15 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [305]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-http/readme.html
 [306]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-services/readme.html
 [307]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-routing/readme.html
-[308]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-algorithm-complexity/readme.html
 [309]: https://jeremiahalex.gitbooks.io/wdi-sg/content/04-databases/mongo-intro/intro-nosql.html
 [310]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-mongoose/readme.html
 [311]: https://jeremiahalex.gitbooks.io/wdi-sg/content/05-express/express-jwt/readme.html
-[312]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-stacks-queues/readme.html
 [313]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-express/readme.html
 [314]: https://github.com/wdi-sg/fly-on-angular
 [315]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-authentication/readme.html
 [316]: https://github.com/wdi-sg/angular-recipes
-[317]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list/readme.html
-[318]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-linked-list-2/readme.html
 [319]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-custom-filters/readme.html
 [320]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-custom-directives/readme.html
-[321]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bucket-sort/readme.html
-[322]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bubble-sort/readme.html
-[323]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-mergesort/readme.html
-[324]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-quicksort/readme.html
-[325]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-sorting/readme.html
-[326]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-hashmaps/readme.html
-[327]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-trees-data-structures/readme.html
 [328]: 10-react/react-intro/readme.html
 [329]: 10-react/react-gulp-browserify/readme.html
 [330]: 10-react/react-router/readme.html
@@ -500,10 +503,8 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [1305]: https://github.com/wdi-sg/angular-route-those-views
 [1306]: http://codepen.io/bhague1281/pen/EKyMVz
 [1307]: http://codepen.io/bhague1281/pen/aNZPrq
-[1308]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/teaser-js-array-flatten/readme.html
 [1309]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/teaser-ruby-binary-search/readme.html
 [1310]: https://github.com/wdi-sg/restful-api
-[1311]: https://jeremiahalex.gitbooks.io/wdi-sg/content/08-cs/cs-ruby-bracket-stacks/readme.html
 [1312]: 11-projects/mean-hackathon/readme.html
 [1313]: https://github.com/wdi-sg/angular-filters
 [1314]: https://github.com/wdi-sg/angular-directives
