@@ -46,6 +46,49 @@ The typically daily format is as follows.
 | 02:30 - 03:00 | Review
 | 03:00 onwards | Lab + Homework
 
+### Unit 3: Ruby on Rails
+_27th Feb - 17th Mar_
+
+| Topic                               | Assignments                                             |
+| -----                               | -----------                                             |
+| [Intro to Ruby][201]                | [Ruby Exercises][1201] <br><br> [Ruby Challenges][1202] |
+| [Ruby Classes][202]                 |                                                         |
+| [Ruby Testing with Rspec][204]      | [Rspec Testing][1204]                                   |
+| [Ruby Inheritance][203]             | [Rio Grande][1205]                                      |
+| [Intro to Rails][205]               | [National Parks][1206]                                  |
+| [APIs with Rest-Client][206]        |                                                         |
+| [Data Scraping with Nokogiri][216]  | [Nokogiri CLI Tool][1207]                               |
+| [Rails Asset Pipeline][207]         |                                                         |
+| [Rails Auth/1:M][208]               | [Link Board][1209]                                      |
+| [Rails M:M][209]                    | [National Parks Part 2: Rangers][1211]                  |
+| [Polymorphic Associations][210]     | [Link Board Comments][1210]                             |
+
+Ruby Arrays & Hashes
+https://gist.github.com/jeremiahalex/3f8c562406634fe2ab86
+
+Ruby Classes
+https://gist.github.com/jeremiahalex/2dd5a8af97cff8bbd79a
+
+First Rails App
+https://gist.github.com/jeremiahalex/087e0778d1b07ba52962
+
+RSPEC Calculator Gist
+https://gist.github.com/jeremiahalex/0cb59c521b42acfc219cc0d0f91d3329
+
+Cookbook 2 part lab: - need to remove Sinatra reference:
+https://gist.github.com/jeremiahalex/0d7e1cf2c62da6999622
+
+| Projects and Additional Topics |
+| -------- |
+| [Front End Hackathon][1208] |
+| [Project 3][1200] |
+| [Group Collaboration][215] |
+| [oAuth][211] |
+| [Mailers][212] |
+| [Image Uploads with Cloudinary][213] |
+| [Static Site Generators (Jekyll)][214] |
+| [JS/jQuery Review][1212] |
+
 ### Unit 2: Node/Express
 _Feb 6th - Feb 24th_
 
@@ -160,52 +203,6 @@ Carefully Read the [Project 1 Specification here][1022].
 
 
 <!-- hidden
-
-
-
-
-###Unit 3: Ruby on Rails
-
-| Topic | Assignments |
-| ----- | ----------- |
-| [Intro to Ruby][201] | [Ruby Exercises][1201] <br><br> [Ruby Challenges][1202] |
-| [Ruby Classes][202] |  |
-| [Ruby Testing with Rspec][204] | [Rspec Testing][1204] |
-| [Ruby Inheritance][203] | [Rio Grande][1205] |
-| [Intro to Rails][205] | [National Parks][1206] |
-| [APIs with Rest-Client][206] | |
-| [Data Scraping with Nokogiri][216] | [Nokogiri CLI Tool][1207] |
-| [Rails Asset Pipeline][207] | |
-| [Rails Auth/1:M][208] | [Link Board][1209] |
-| [Rails M:M][209] | [National Parks Part 2: Rangers][1211] |
-| [Polymorphic Associations][210] | [Link Board Comments][1210] |
-
-Ruby Arrays & Hashes
-https://gist.github.com/jeremiahalex/3f8c562406634fe2ab86
-
-Ruby Classes
-https://gist.github.com/jeremiahalex/2dd5a8af97cff8bbd79a
-
-First Rails App
-https://gist.github.com/jeremiahalex/087e0778d1b07ba52962
-
-RSPEC Calculator Gist
-https://gist.github.com/jeremiahalex/0cb59c521b42acfc219cc0d0f91d3329
-
-Cookbook 2 part lab: - need to remove Sinatra reference:
-https://gist.github.com/jeremiahalex/0d7e1cf2c62da6999622
-
-| Projects and Additional Topics |
-| -------- |
-| [Front End Hackathon][1208] |
-| [Project 3][1200] |
-| [Group Collaboration][215] |
-| [oAuth][211] |
-| [Mailers][212] |
-| [Image Uploads with Cloudinary][213] |
-| [Static Site Generators (Jekyll)][214] |
-| [JS/jQuery Review][1212] |
-
 
 ###Unit 4: AngularJS 1.x and APIs
 
