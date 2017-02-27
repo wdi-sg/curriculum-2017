@@ -49,45 +49,62 @@ The typically daily format is as follows.
 ### Unit 3: Ruby on Rails
 _27th Feb - 17th Mar_
 
-| Topic                               | Assignments                                             |
-| -----                               | -----------                                             |
-| [Intro to Ruby][201]                | [Ruby Exercises][1201] <br><br> [Ruby Challenges][1202] |
-| [Ruby Classes][202]                 |                                                         |
-| [Ruby Testing with Rspec][204]      | [Rspec Testing][1204]                                   |
-| [Ruby Inheritance][203]             | [Rio Grande][1205]                                      |
-| [Intro to Rails][205]               | [National Parks][1206]                                  |
-| [APIs with Rest-Client][206]        |                                                         |
-| [Data Scraping with Nokogiri][216]  | [Nokogiri CLI Tool][1207]                               |
-| [Rails Asset Pipeline][207]         |                                                         |
-| [Rails Auth/1:M][208]               | [Link Board][1209]                                      |
-| [Rails M:M][209]                    | [National Parks Part 2: Rangers][1211]                  |
-| [Polymorphic Associations][210]     | [Link Board Comments][1210]                             |
+Unit 3 is about taking your server-side development skills to the next level. We'll learn Ruby on Rails and use it to build more sophisticated and scalable Apps. We'll cover relational databases using Postgres and SQL. We'll also cover effective team work and collaboration using Git.
 
-Ruby Arrays & Hashes
-https://gist.github.com/jeremiahalex/3f8c562406634fe2ab86
+#### Week 7
+| Topic | Assignments |
+| ----- | ----------- |
+| [Intro to Ruby][201]           | [Ruby Exercises][1201]
+|                                | [Ruby Challenges][1202]
+| [Ruby Classes][202]            | |
+| [Ruby Testing with Rspec][204] | [Rspec Testing][1204]
+|                                | [TDD Calculator][1213] |
+| [Ruby Inheritance][203]        | [Rio Grande][1205]
+| [Intro to Rails][205]      | [National Parks][1206] |
+| [Rails Asset Pipeline][207] & [SASS][217] | [National Parks Part 2][1211] | |
 
-Ruby Classes
-https://gist.github.com/jeremiahalex/2dd5a8af97cff8bbd79a
+#### Week 8
+| Topic | Assignments
+| ---  | ---      
+| [Intro to SQL][103] | [Find Carmen Sandiego][1125] |
+| | [Apartment Lab][1102] |
+| [Advanced SQL][104] | [ERBs & Database Modeling][1124] |
+| |  [Booktown][1103]
+| [Rails Auth/1:M][208] | [Link Board][1209] |
+| [Rails M:M][209] | [National Parks Part 3][1214] |
+| [Git Collaboration Review][218] | |
+| [Team Workflows][215] | |
+| [Deploy Rails to Heroku][221] | [Testing & CI Example][1215] |
 
-First Rails App
-https://gist.github.com/jeremiahalex/087e0778d1b07ba52962
-
-RSPEC Calculator Gist
-https://gist.github.com/jeremiahalex/0cb59c521b42acfc219cc0d0f91d3329
-
-Cookbook 2 part lab: - need to remove Sinatra reference:
-https://gist.github.com/jeremiahalex/0d7e1cf2c62da6999622
-
-| Projects and Additional Topics |
+| Bonus Topics |
 | -------- |
-| [Front End Hackathon][1208] |
-| [Project 3][1200] |
-| [Group Collaboration][215] |
+| [Polymorphic Associations][210] |
 | [oAuth][211] |
 | [Mailers][212] |
 | [Image Uploads with Cloudinary][213] |
-| [Static Site Generators (Jekyll)][214] |
-| [JS/jQuery Review][1212] |
+| [Consuming an API][206] |
+| [Building an API][219] |
+| [AJAX in Rails][220]
+| [Data Scraping with Nokogiri][216] |
+
+#### Week 9 - Project 3
+
+Carefully Read the [Project 3 Specification here][1200].
+
+To start your project, one of your team will need to [Fork this Project Repository on Github](https://github.com/wdi-sg/project-3-starter). This will be your Team Repo -- you should rename it to either your team or project name. Depending on your chosen git workflow, the owner of this repo will either need to add the other team members as collaborators or have them fork the team repo.
+
+Carefully Read the [Instructions in the Gitbook][1123]
+for Submission and presentation preparation.
+
+##### Teams
+
+1.  
+2.  
+3.  
+
+
+<!-- #### Post-Mortem
+Once your project is complete, you will have to work as a group to write a [Post-Mortem](https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/project-3/post-mortem.html). -->
 
 ### Unit 2: Node/Express
 _Feb 6th - Feb 24th_
@@ -465,6 +482,7 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [218]: https://github.com/wdi-sg/git-team-imdb-lab
 [219]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/rails-apis/building-an-api.html
 [220]: https://jeremiahalex.gitbooks.io/wdi-sg/content/06-ruby-rails/rails-assets-frontend/ajax.md
+[221]: https://jeremiahalex.gitbooks.io/wdi-sg/content/00-config-deployment/deploy-rails/readme.html
 
 [1200]: https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/project-3/readme.html
 [1201]: https://github.com/wdi-sg/ruby-exercises
