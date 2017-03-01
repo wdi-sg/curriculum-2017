@@ -98,9 +98,11 @@ for Submission and presentation preparation.
 
 ##### Teams
 
-1.  
-2.  
-3.  
+| Group 1   | Group 2   | Group 3   | Group 4   |
+| ---       | ---       | ---       | ---       |
+| Han Sheng	| Desmond	  | Justin    |	Elaine    |
+| Sruti     |	Andre     |	Gek Teng	| Iskandar  |
+| John	    | Shimei	  | Xavier	  | Jonathan  |
 
 
 <!-- #### Post-Mortem
