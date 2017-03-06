@@ -105,9 +105,9 @@ for Submission and presentation preparation.
 | John	    | Shimei	  | Xavier	  | Jonathan  |
 
 #### Additional Materials
-1. (https://mattbrictson.com/lightning-fast-sass-reloading-in-rails)
-2. (http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
-3. (http://thesassway.com/beginner/how-to-structure-a-sass-project)
+1. [Lighting Fast Sass Reloading in rails](https://mattbrictson.com/lightning-fast-sass-reloading-in-rails)
+2. [8 SASS mixings you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
+3. [How to structure a SASS project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
 
 
 <!-- #### Post-Mortem
