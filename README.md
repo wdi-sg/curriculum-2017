@@ -104,6 +104,11 @@ for Submission and presentation preparation.
 | Sruti     |	Andre     |	Gek Teng	| Iskandar  |
 | John	    | Shimei	  | Xavier	  | Jonathan  |
 
+#### Additional Materials
+1. (https://mattbrictson.com/lightning-fast-sass-reloading-in-rails)
+2. (http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
+3. (http://thesassway.com/beginner/how-to-structure-a-sass-project)
+
 
 <!-- #### Post-Mortem
 Once your project is complete, you will have to work as a group to write a [Post-Mortem](https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/project-3/post-mortem.html). -->
