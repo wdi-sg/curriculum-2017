@@ -108,7 +108,7 @@ for Submission and presentation preparation.
 1. [Lighting Fast Sass Reloading in rails](https://mattbrictson.com/lightning-fast-sass-reloading-in-rails)
 2. [8 SASS mixings you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
 3. [How to structure a SASS project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
-
+4. [ERD Exercises]()
 
 <!-- #### Post-Mortem
 Once your project is complete, you will have to work as a group to write a [Post-Mortem](https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/project-3/post-mortem.html). -->
