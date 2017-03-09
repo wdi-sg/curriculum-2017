@@ -103,6 +103,7 @@ for Submission and presentation preparation.
 | Han Sheng	| Desmond	  | Justin    |	Elaine    |
 | Sruti     |	Andre     |	Gek Teng	| Iskandar  |
 | John	    | Shimei	  | Xavier	  | Jonathan  |
+| [condo management system](https://github.com/wdi-sg/project-3-jsh) | [Project 3 DAS](https://github.com/wdi-sg/project-3-das) | [RoboRent](https://github.com/wdi-sg/project-3-xavgekjus) | [StandIn](https://github.com/wdi-sg/project-3-iskandar-elaine-jonathan) |
 
 #### Additional Materials
 1. [Lighting Fast Sass Reloading in rails](https://mattbrictson.com/lightning-fast-sass-reloading-in-rails)
