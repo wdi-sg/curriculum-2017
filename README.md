@@ -507,7 +507,7 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 [1212]: https://github.com/wdi-sg/js-jquery-review
 [1213]: https://github.com/wdi-sg/rspec-tdd-calculator
 [1214]: https://github.com/wdi-sg/rails-national-parks/blob/master/part3.md
-[1215]: https://github.com/wdi-sg/rails-flea-circus
+[1215]: https://github.com/TayKangSheng/rails-flea-circus-test-starter
 
 [301]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-intro/readme.html
 [302]: https://jeremiahalex.gitbooks.io/wdi-sg/content/07-angular/angular-directives-filters/readme.html
