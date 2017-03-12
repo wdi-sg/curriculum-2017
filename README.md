@@ -1,6 +1,6 @@
 ![GA Logo](./_assets/ga_cog.png)
-# WDI 8 Course Information
-Welcome to WDI 8. This repository contains information and materials specific to your course. All other materials are kept in the [Singapore WDI GitBook](https://jeremiahalex.gitbooks.io/wdi-sg/content/) - bookmark it!
+# WDI 9 Course Information
+Welcome to WDI 9. This repository contains information and materials specific to your course. All other materials are kept in the [Singapore WDI GitBook](https://jeremiahalex.gitbooks.io/wdi-sg/content/) - bookmark it!
 
 The curriculum links below, lead to the specific material covered in class, however, there are plenty of bonus materials also included in the [GitBook](https://jeremiahalex.gitbooks.io/wdi-sg/content/).
 
@@ -15,7 +15,7 @@ Class discussions take place on Slack. [Download Slack](https://slack.com/downlo
 ## Github
 We use Github for source code management. Every student will need an account, with all projects and assignments stored there. Below are links to all accounts.
 
-#### Instructional Team
+<!--#### Instructional Team
 - [Prima](https://github.com/primaulia)
 - [Kang Sheng](https://github.com/TayKangSheng)
 
@@ -27,7 +27,7 @@ After completing the Project, each student should complete a [Code Review][1025]
 - [Jonathan](https://github.com/jonathanlimes) / [Xavier](https://github.com/random-9)
 - [Iskandar](https://github.com/anatraxia) / [Han Sheng](https://github.com/hsquek)
 - [Gek Theng](https://github.com/tgt87) / [Justin](https://github.com/ShindoSensei)
-- [Salim](https://github.com/syedsalim) / Prima & Kang Sheng
+- [Salim](https://github.com/syedsalim) / Prima & Kang Sheng -->
 
 ## Exit Tickets
 At the end of each day's lesson, kindly fill in the [Exit Tickets](https://goo.gl/forms/MUAO8SSAvJH2Xt473) to provide feedback for the day's lessons.
@@ -46,7 +46,7 @@ The typically daily format is as follows.
 | 02:30 - 03:00 | Review
 | 03:00 onwards | Lab + Homework
 
-### Unit 3: Ruby on Rails
+<!-- ### Unit 3: Ruby on Rails
 _27th Feb - 17th Mar_
 
 Unit 3 is about taking your server-side development skills to the next level. We'll learn Ruby on Rails and use it to build more sophisticated and scalable Apps. We'll cover relational databases using Postgres and SQL. We'll also cover effective team work and collaboration using Git.
@@ -109,12 +109,12 @@ for Submission and presentation preparation.
 1. [Lighting Fast Sass Reloading in rails](https://mattbrictson.com/lightning-fast-sass-reloading-in-rails)
 2. [8 SASS mixings you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
 3. [How to structure a SASS project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
-4. [ERD Exercises](https://github.com/wdi-sg/8/tree/master/ERD_Exercises)
+4. [ERD Exercises](https://github.com/wdi-sg/8/tree/master/ERD_Exercises) -->
 
 <!-- #### Post-Mortem
 Once your project is complete, you will have to work as a group to write a [Post-Mortem](https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/project-3/post-mortem.html). -->
 
-### Unit 2: Node/Express
+<!-- ### Unit 2: Node/Express
 _Feb 6th - Feb 24th_
 
 Unit 2 is about introducing server side development. Specifically, we focus on Node.js, Express & MongoDB. It is also a chance to solidify JavaScript fundamentals and dive deep into programming concepts like CRUD and MVC.
@@ -163,7 +163,7 @@ Carefully Read the [Project 2 Specification here][1106].
 ### Unit 1: Front End Development
 _Jan 16th - Feb 3rd_
 
-Unit 1 is all about showing the humble beginnings of the web and introducing students to foundational programming concepts that we'll use for the entire rest of the course.
+Unit 1 is all about showing the humble beginnings of the web and introducing students to foundational programming concepts that we'll use for the entire rest of the course. -->
 
 #### Week 1
 _Jan 16th - Jan 20th_
@@ -211,6 +211,7 @@ _Jan 30th - Feb 3rd_
 
 Carefully Read the [Project 1 Specification here][1022].
 
+<!--
 ###### Submissions
 - [wdi-project-1-cycopter12](https://github.com/wdi-sg/wdi-project-1-cycopter12)
 - [wdi-project-1-tgt87](https://github.com/wdi-sg/wdi-project-1-tgt87)
@@ -224,7 +225,7 @@ Carefully Read the [Project 1 Specification here][1022].
 - [wdi-project-1-anatraxia](https://github.com/wdi-sg/wdi-project-1-anatraxia)
 - [wdi-project-1-random-9](https://github.com/wdi-sg/wdi-project-1-random-9)
 - [wdi-project-1-syedsalim](https://github.com/wdi-sg/wdi-project-1-syedsalim)
-- [wdi-project-1-ShindoSensei](https://github.com/wdi-sg/wdi-project-1-ShindoSensei)
+- [wdi-project-1-ShindoSensei](https://github.com/wdi-sg/wdi-project-1-ShindoSensei) -->
 
 
 <!-- hidden
