@@ -7,7 +7,7 @@ The curriculum links below, lead to the specific material covered in class, howe
 ## Instructional Team
 **Prima Aulia Gusta** | Lead Instructor | prima@generalassemb.ly      
 
-**Tay Kang Sheng** | Facilitator | kangsheng@gmail.com
+**Yi Sheng Lee** | Facilitator | <!-- -->
 
 ## Discussion
 Class discussions take place on Slack. [Download Slack](https://slack.com/downloads)
@@ -15,10 +15,11 @@ Class discussions take place on Slack. [Download Slack](https://slack.com/downlo
 ## Github
 We use Github for source code management. Every student will need an account, with all projects and assignments stored there. Below are links to all accounts.
 
-<!--#### Instructional Team
+#### Instructional Team
 - [Prima](https://github.com/primaulia)
-- [Kang Sheng](https://github.com/TayKangSheng)
+- [Yi Sheng]()
 
+<!--
 ##### Student Pair
 After completing the Project, each student should complete a [Code Review][1025]. The groupings are:
 - [Desmond](https://github.com/desmondhengwj) / [Shimei](https://github.com/wshimei)
