@@ -31,7 +31,7 @@ After completing the Project, each student should complete a [Code Review][1025]
 - [Salim](https://github.com/syedsalim) / Prima & Kang Sheng -->
 
 ## Exit Tickets
-At the end of each day's lesson, kindly fill in the [Exit Tickets](https://goo.gl/forms/MUAO8SSAvJH2Xt473) to provide feedback for the day's lessons.
+At the end of each day's lesson, kindly fill in the [Exit Tickets](https://docs.google.com/forms/d/e/1FAIpQLSdHA9w9vY7uXf19vrVk6K5VfjHE-76SH-UYsERVDwXg_8LsjQ/viewform?usp=sf_link) to provide feedback for the day's lessons.
 
 ## Course Outline
 The following is given as a guideline only and may be adjusted by the instructor based upon the pace of the class.
