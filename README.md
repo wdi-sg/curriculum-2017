@@ -167,7 +167,7 @@ _Jan 16th - Feb 3rd_
 Unit 1 is all about showing the humble beginnings of the web and introducing students to foundational programming concepts that we'll use for the entire rest of the course. -->
 
 #### Week 1
-_March 13th - March 17th_
+_Jan 16th - Jan 20th_
 
 | Topic                              | Assignments
 | ---                                | ---             
@@ -189,7 +189,7 @@ _March 13th - March 17th_
 |                                    | [Google Shopping Functions][1006]    |
 
 #### Week 2
-_March 20th - March 24th_
+_Jan 23rd - Jan 27th_
 
 | Topic                              | Assignments                          |
 | ---                                | ---                                  |
@@ -208,7 +208,7 @@ _March 20th - March 24th_
 | [JavaScript Inheritance][22]       | [Prototype Body Shop 2][1021]        |
 
 #### Week 3 - Project 1
-_March 27th - March 31st_
+_Jan 30th - Feb 3rd_
 
 Carefully Read the [Project 1 Specification here][1022].
 
