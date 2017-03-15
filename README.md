@@ -172,6 +172,12 @@ _Jan 16th - Jan 20th_
 | Topic                              | Assignments
 | ---                                | ---             
 | [Installfest][23]                  |                                      |
+| [Intro to Git/Github][3]           | [Learn Git News Room Style][1026]    |
+| [JavaScript Primitives][4]         | [Primitives Exercises][1003]         |
+| [JavaScript Control Flow][7]       | [Control Flow Problems][1004]        |
+| [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
+|                                    | [Google Shopping][1002]              |
+|                                    | [Google Shopping Functions][1006]    |
 | [Command Line][2]                  | [Filesystem Navigation Lab][1029]    |       
 |                                    | [Command Line Murder Mystery][1001]  |
 | [HTML Review][5]                   | [HTML Top Ten Movies Lab][900]       |
@@ -181,12 +187,6 @@ _Jan 16th - Jan 20th_
 | [CSS Positioning with Flexbox][9]  | [Flexbox Froggy][1028]               |
 |                                    | [Recreate Airbnb][1024]              |
 | [Responsive CSS][16]               |                                      |
-| [Intro to Git/Github][3]           | [Learn Git News Room Style][1026]    |
-| [JavaScript Primitives][4]         | [Primitives Exercises][1003]         |
-| [JavaScript Control Flow][7]       | [Control Flow Problems][1004]        |
-| [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
-|                                    | [Google Shopping][1002]              |
-|                                    | [Google Shopping Functions][1006]    |
 
 #### Week 2
 _Jan 23rd - Jan 27th_
