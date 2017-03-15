@@ -169,6 +169,28 @@ Unit 1 is all about showing the humble beginnings of the web and introducing stu
 #### Week 1
 _March 13th - March 17th_
 
+| Topic                              | Assignments
+| ---                                | ---             
+| [Installfest][23]                  |                                      |
+| [Command Line][2]                  | [Filesystem Navigation Lab][1029]    |       
+|                                    | [Command Line Murder Mystery][1001]  |
+| [HTML Review][5]                   | [HTML Top Ten Movies Lab][900]       |
+|                                    | [HTML User Input Lab][901]           |
+| [CSS Selectors][6]                 | [Flukeout CSS Selector Game][1027]   |
+| [CSS Box Model and Positioning][9] | [Recreate Instagram][1023]           |
+| [CSS Positioning with Flexbox][9]  | [Flexbox Froggy][1028]               |
+|                                    | [Recreate Airbnb][1024]              |
+| [Responsive CSS][16]               |                                      |
+| [Intro to Git/Github][3]           | [Learn Git News Room Style][1026]    |
+| [JavaScript Primitives][4]         | [Primitives Exercises][1003]         |
+| [JavaScript Control Flow][7]       | [Control Flow Problems][1004]        |
+| [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
+|                                    | [Google Shopping][1002]              |
+|                                    | [Google Shopping Functions][1006]    |
+
+#### Week 2
+_March 20th - March 24th_
+
 | Topic                              | Assignments                          |
 | ---                                | ---                                  |
 | [Intro to Agile & Testing][18]     | [Tic Tac Tester Mini Project][1030]  |
@@ -182,30 +204,8 @@ _March 13th - March 17th_
 |                                    | [Bonus: Temperature Converter][1009] |
 |                                    | [Timer][1032]                        |
 |                                    | [Sim City Bomb Squad][1034]          |
-| [JavaScript Primitives][4]         | [Primitives Exercises][1003]         |
-| [JavaScript Control Flow][7]       | [Control Flow Problems][1004]        |
-| [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
-|                                    | [Google Shopping][1002]              |
-|                                    | [Google Shopping Functions][1006]    |
-
-#### Week 2
-_March 20th - March 24th_
-
-| Topic                              | Assignments                          |
-| ---                                | ---                                  |
 | [OOP in JavaScript][19]            | [Prototype Body Shop][1020]          |
 | [JavaScript Inheritance][22]       | [Prototype Body Shop 2][1021]        |
-| [Installfest][23]                  |                                      |
-| [Command Line][2]                  | [Filesystem Navigation Lab][1029]    |       
-|                                    | [Command Line Murder Mystery][1001]  |
-| [HTML Review][5]                   | [HTML Top Ten Movies Lab][900]       |
-|                                    | [HTML User Input Lab][901]           |
-| [CSS Selectors][6]                 | [Flukeout CSS Selector Game][1027]   |
-| [CSS Box Model and Positioning][9] | [Recreate Instagram][1023]           |
-| [CSS Positioning with Flexbox][9]  | [Flexbox Froggy][1028]               |
-|                                    | [Recreate Airbnb][1024]              |
-| [Responsive CSS][16]               |                                      |
-| [Intro to Git/Github][3]           | [Learn Git News Room Style][1026]    |
 
 #### Week 3 - Project 1
 _March 27th - March 31st_
