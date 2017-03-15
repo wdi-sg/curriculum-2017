@@ -41,9 +41,9 @@ The typically daily format is as follows.
 | Time          | Activity
 | ---           | ---       
 | 09:00 - 10:00 | Scrum + Warmup
-| 10:00 - 12:30 | Main Topic
-| 12:30 - 01:30 | Lunch
-| 01:30 - 02:30 | Lab
+| 10:00 - 11:30 | Main Topic
+| 11:30 - 12:30 | Lunch
+| 12:30 - 02:30 | Lab
 | 02:30 - 03:00 | Review
 | 03:00 onwards | Lab + Homework
 
@@ -167,32 +167,16 @@ _Jan 16th - Feb 3rd_
 Unit 1 is all about showing the humble beginnings of the web and introducing students to foundational programming concepts that we'll use for the entire rest of the course. -->
 
 #### Week 1
-_Jan 16th - Jan 20th_
+_March 13th - March 17th_
 
 | Topic                              | Assignments
 | ---                                | ---             
 | [Installfest][23]                  |                                      |
-| [Command Line][2]                  | [Filesystem Navigation Lab][1029]    |       
-|                                    | [Command Line Murder Mystery][1001]  |
-| [HTML Review][5]                   | [HTML Top Ten Movies Lab][900]       |
-|                                    | [HTML User Input Lab][901]           |
-| [CSS Selectors][6]                 | [Flukeout CSS Selector Game][1027]   |
-| [CSS Box Model and Positioning][9] | [Recreate Instagram][1023]           |
-| [CSS Positioning with Flexbox][9]  | [Flexbox Froggy][1028]               |
-|                                    | [Recreate Airbnb][1024]              |
-| [Responsive CSS][16]               |                                      |
-| [Intro to Git/Github][3]           | [Learn Git News Room Style][1026]    |
 | [JavaScript Primitives][4]         | [Primitives Exercises][1003]         |
 | [JavaScript Control Flow][7]       | [Control Flow Problems][1004]        |
 | [JavaScript Functions][10]         | [Functions Problem Set][1007]        |
 |                                    | [Google Shopping][1002]              |
 |                                    | [Google Shopping Functions][1006]    |
-
-#### Week 2
-_Jan 23rd - Jan 27th_
-
-| Topic                              | Assignments                          |
-| ---                                | ---                                  |
 | [Intro to Agile & Testing][18]     | [Tic Tac Tester Mini Project][1030]  |
 | [JS Callbacks & Iterators][12]     | [Iterators Lab][1011]                |
 | [DOM][1037]                        | [DOM and Events][1037]               |
@@ -204,11 +188,31 @@ _Jan 23rd - Jan 27th_
 |                                    | [Bonus: Temperature Converter][1009] |
 |                                    | [Timer][1032]                        |
 |                                    | [Sim City Bomb Squad][1034]          |
+
+
+
+
+#### Week 2
+_March 20th - March 24th_
+
+| Topic                              | Assignments                          |
+| ---                                | ---                                  |
 | [OOP in JavaScript][19]            | [Prototype Body Shop][1020]          |
 | [JavaScript Inheritance][22]       | [Prototype Body Shop 2][1021]        |
+| [Command Line][2]                  | [Filesystem Navigation Lab][1029]    |       
+|                                    | [Command Line Murder Mystery][1001]  |
+| [HTML Review][5]                   | [HTML Top Ten Movies Lab][900]       |
+|                                    | [HTML User Input Lab][901]           |
+| [CSS Selectors][6]                 | [Flukeout CSS Selector Game][1027]   |
+| [CSS Box Model and Positioning][9] | [Recreate Instagram][1023]           |
+| [CSS Positioning with Flexbox][9]  | [Flexbox Froggy][1028]               |
+|                                    | [Recreate Airbnb][1024]              |
+| [Responsive CSS][16]               |                                      |
+| [Intro to Git/Github][3]           | [Learn Git News Room Style][1026]    |
+
 
 #### Week 3 - Project 1
-_Jan 30th - Feb 3rd_
+_March 27th - March 31st_
 
 Carefully Read the [Project 1 Specification here][1022].
 
