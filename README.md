@@ -202,13 +202,15 @@ _March 13th - March 17th_
 | [JS Callbacks & Iterators][12]     | [Iterators Lab][1011]                |
 | [OOP in JavaScript][19]            | [Prototype Body Shop][1020]          |
 | [JavaScript Inheritance][22]       | [Prototype Body Shop 2][1021]        |
-| [Intro to Git/Github][3]           | [Learn Git News Room Style][1026]    |
+| [Intro to Agile & Testing][18]     | [Tic Tac Tester Mini Project][1030]  |
+
 
 #### Week 2
 _March 20th - March 24th_
 
 | Topic                              | Assignments                          |
 | ---                                | ---                                  |
+| [Intro to Git/Github][3]           | [Learn Git News Room Style][1026]    |
 | [DOM][1037]                        | [DOM and Events][1037]               |
 |                                    | [DOM Manipulation][1038]             |
 | [Intro to jQuery][13]              | [jQuery Intro Quiz][1033]            |
@@ -218,7 +220,6 @@ _March 20th - March 24th_
 |                                    | [Bonus: Temperature Converter][1009] |
 |                                    | [Timer][1032]                        |
 |                                    | [Sim City Bomb Squad][1034]          |
-| [Intro to Agile & Testing][18]     | [Tic Tac Tester Mini Project][1030]  |
 | [Command Line][2]                  | [Filesystem Navigation Lab][1029]    |       
 |                                    | [Command Line Murder Mystery][1001]  |
 | [HTML Review][5]                   | [HTML Top Ten Movies Lab][900]       |
