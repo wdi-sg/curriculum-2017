@@ -18,12 +18,13 @@ We use Github for source code management. Every student will need an account, wi
 #### Instructional Team
 - [Prima](https://github.com/primaulia)
 - [Yi Sheng](https://github.com/yisheng90)
+- [Sharona](https://github.com/sharona1610)
 
 #### Students
 - [Felix](https://github.com/pegasolta)
 - [Maria](https://github.com/hexhex23)
 - [Jonathan](https://github.com/noll-fyra)
-- [Robin](https://github.com/)
+- [Robin](https://github.com/cwxr)
 - [Cara](https://github.com/smilesandcocktails)
 - [Seth](https://github.com/lackdaz)
 - [Vikas](https://github.com/vikasgarg1)
@@ -39,7 +40,7 @@ We use Github for source code management. Every student will need an account, wi
 - [Darrell](https://github.com/darrelltzj)
 - [Bao Ling](https://github.com/cocokoh)
 - [Tegoeh](https://github.com/tegoehh)
-- [Imran](https://github.com/)
+- [Imran](https://github.com/plasticman2k)
 
 <!--
 ##### Student Pair
