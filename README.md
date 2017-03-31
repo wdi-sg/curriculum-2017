@@ -237,22 +237,27 @@ _March 27th - March 31st_
 
 Carefully Read the [Project 1 Specification here][1022].
 
-<!--
-###### Submissions
-- [wdi-project-1-cycopter12](https://github.com/wdi-sg/wdi-project-1-cycopter12)
-- [wdi-project-1-tgt87](https://github.com/wdi-sg/wdi-project-1-tgt87)
-- [wdi-project-1-johnacs](https://github.com/wdi-sg/wdi-project-1-johnacs)
-- [wdi-project-1-jonathanlimes](https://github.com/wdi-sg/wdi-project-1-jonathanlimes)
-- [wdi-project-1-wshimei](https://github.com/wdi-sg/wdi-project-1-wshimei)
-- [wdi-project-1-skeerti2](https://github.com/wdi-sg/wdi-project-1-skeerti2)
-- [wdi-project-1-desmondhengwj](https://github.com/wdi-sg/wdi-project-1-desmondhengwj)
-- [wdi-project-1-lainelim](https://github.com/wdi-sg/wdi-project-1-lainelim)
-- [wdi-project-1-hsquek](https://github.com/wdi-sg/wdi-project-1-hsquek)
-- [wdi-project-1-anatraxia](https://github.com/wdi-sg/wdi-project-1-anatraxia)
-- [wdi-project-1-random-9](https://github.com/wdi-sg/wdi-project-1-random-9)
-- [wdi-project-1-syedsalim](https://github.com/wdi-sg/wdi-project-1-syedsalim)
-- [wdi-project-1-ShindoSensei](https://github.com/wdi-sg/wdi-project-1-ShindoSensei) -->
 
+###### Submissions
+- [wdi-project-1-darrelltzj](https://wdi-sg.github.io/wdi-project-1-darrelltzj)
+- [wdi-project-1-vikasgarg1](https://wdi-sg.github.io/wdi-project-1-vikasgarg1)
+- [wdi-project-1-masloord](https://wdi-sg.github.io/wdi-project-1-masloord)
+- [wdi-project-1-dorkblue](https://wdi-sg.github.io/wdi-project-1-dorkblue)
+- [wdi-project-1-iancwe](https://wdi-sg.github.io/wdi-project-1-iancwe)
+- [wdi-project-1-lackdaz](https://wdi-sg.github.io/wdi-project-1-lackdaz)
+- [wdi-project-1-ijmeister](https://wdi-sg.github.io/wdi-project-1-ijmeister)
+- [wdi-project-1-hexhex23](https://wdi-sg.github.io/wdi-project-1-hexhex23)
+- [wdi-project-1-cocokoh](https://wdi-sg.github.io/wdi-project-1-cocokoh)
+- [wdi-project-1-smilesandcocktails](https://wdi-sg.github.io/wdi-project-1-smilesandcocktails)
+- [wdi-project-1-imouto2005](https://wdi-sg.github.io/wdi-project-1-imouto2005)
+- [wdi-project-1-noll-fyra](https://wdi-sg.github.io/wdi-project-1-noll-fyra)
+- [wdi-project-1-Pegasolta](https://wdi-sg.github.io/wdi-project-1-Pegasolta)
+- [wdi-project-1-shirongfoo](https://wdi-sg.github.io/wdi-project-1-shirongfoo)
+- [wdi-project-1-jerel-lim](https://wdi-sg.github.io/wdi-project-1-jerel-lim)
+- [wdi-project-1-DarkArtistry](https://wdi-sg.github.io/wdi-project-1-DarkArtistry)
+- [wdi-project-1-cwxr](https://wdi-sg.github.io/wdi-project-1-cwxr)
+- [wdi-project-1-ayepRahman](https://wdi-sg.github.io/wdi-project-1-ayepRahman)
+- [wdi-project-1-iancwe](https://wdi-sg.github.io/wdi-project-1-iancwe)
 
 <!-- hidden
 
