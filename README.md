@@ -138,56 +138,12 @@ for Submission and presentation preparation.
 <!-- #### Post-Mortem
 Once your project is complete, you will have to work as a group to write a [Post-Mortem](https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/project-3/post-mortem.html). -->
 
-<!-- ### Unit 2: Node/Express
-_Feb 6th - Feb 24th_
 
-Unit 2 is about introducing server side development. Specifically, we focus on Node.js, Express & MongoDB. It is also a chance to solidify JavaScript fundamentals and dive deep into programming concepts like CRUD and MVC.
-
-#### Week 4
-
-| Topic                                       | Assignments                    |
-| ---                                         | ---                            |
-| [JS Review & Scopes][21]                    | [Technical Documentation][25]  |
-| [Intro to Node & NPM][119]                  |                                |
-| Intro to CRUD & MVC                         |                                |
-| [TDD with Assert][20]                       | [TDD Todo List][1114]          |
-| [Intro to NoSQL w/ Mongo][309]              | [Install MongoDB][23]          |
-| [ORM with Mongoose][310]                    | [Mongo Todo Lab][1115]         |
-| [Internet Fundamentals][1]                  | [Internet Lab][1000]           |
-| [Intro to Express][101]                     |                                |
-| [REST & CRUD in Express][121]               | [Express Todo List pt1][1116]  |
-| [Express Testing with Mocha and Chai][112]  | [Mocha TODO List][1117]        |
-
-#### Week 5
-
-We'll dig into modeling more complex relationships in Mongo & Mongoose and we'll also look into adding user authentication to our apps.
-
-| Topic                                   | Assignments                     |
-| ---                                     | ---                             |
-| [Views in Express][122]                 |                                 |
-| [Bootstrap][17]                         | [Express Todo List pt2][1118]   |
-|                                         | [Mongoose Pet Shelter][1121]    |
-| [Modeling Relations in Mongo][333]      |                                 |
-| [Mapping Relations in Mongoose][334]    | [Modeling Airports][1120]       |
-|                                         | [Multi Model Todo List][1119]   |
-| [Express Authentication Theory][110]    |                                 |
-| [Express Authentication Practice][111]  | [Users Todo List ][1122]        |
-| [Deploy Node to Heroku][107]            | [Example App][1113]             |
-
-| Bonus Topics                          |
-| --------                              |
-| [Image Uploads with Cloudinary][118]  |
-| [Geocoding/Maps (Sequelize)][116]     |
-| [oAuth (Sequelize)][115]              |
-
-#### Week 6 - Project 2
-
-Carefully Read the [Project 2 Specification here][1106].
 
 ### Unit 1: Front End Development
-_Jan 16th - Feb 3rd_
+_March 13th - March 31st_
 
-Unit 1 is all about showing the humble beginnings of the web and introducing students to foundational programming concepts that we'll use for the entire rest of the course. -->
+Unit 1 is all about showing the humble beginnings of the web and introducing students to foundational programming concepts that we'll use for the entire rest of the course.
 
 #### Week 1
 _March 13th - March 17th_
@@ -258,6 +214,56 @@ Carefully Read the [Project 1 Specification here][1022].
 - [wdi-project-1-cwxr](https://wdi-sg.github.io/wdi-project-1-cwxr)
 - [wdi-project-1-ayepRahman](https://wdi-sg.github.io/wdi-project-1-ayepRahman)
 - [wdi-project-1-iancwe](https://wdi-sg.github.io/wdi-project-1-iancwe)
+
+
+ ### Unit 2: Node/Express
+_April 3rd - April 21st_
+
+Unit 2 is about introducing server side development. Specifically, we focus on Node.js, Express & MongoDB. It is also a chance to solidify JavaScript fundamentals and dive deep into programming concepts like CRUD and MVC.
+
+#### Week 4
+_April 3rd - April 7th_
+
+| Topic                                       | Assignments                    |
+| ---                                         | ---                            |
+| [JS Review & Scopes][21]                    | [Technical Documentation][25]  |
+| [Intro to Node & NPM][119]                  |                                |
+<!--| Intro to CRUD & MVC                         |                                | -->
+| [TDD with Assert][20]                       | [TDD Todo List][1114]          |
+| [Intro to NoSQL w/ Mongo][309]              | [Install MongoDB][23]          |
+| [ORM with Mongoose][310]                    | [Mongo Todo Lab][1115]         |
+| [Internet Fundamentals][1]                  | [Internet Lab][1000]           |
+| [Intro to Express][101]                     |                                |
+| [REST & CRUD in Express][121]               | [Express Todo List pt1][1116]  |
+| [Express Testing with Mocha and Chai][112]  | [Mocha TODO List][1117]        |
+
+#### Week 5
+_April 10th - April 14th_
+
+We'll dig into modeling more complex relationships in Mongo & Mongoose and we'll also look into adding user authentication to our apps.
+
+| Topic                                   | Assignments                     |
+| ---                                     | ---                             |
+| [Views in Express][122]                 |                                 |
+| [Bootstrap][17]                         | [Express Todo List pt2][1118]   |
+|                                         | [Mongoose Pet Shelter][1121]    |
+| [Modeling Relations in Mongo][333]      |                                 |
+| [Mapping Relations in Mongoose][334]    | [Modeling Airports][1120]       |
+|                                         | [Multi Model Todo List][1119]   |
+| [Express Authentication Theory][110]    |                                 |
+| [Express Authentication Practice][111]  | [Users Todo List ][1122]        |
+| [Deploy Node to Heroku][107]            | [Example App][1113]             |
+
+| Bonus Topics                          |
+| --------                              |
+| [Image Uploads with Cloudinary][118]  |
+| [Geocoding/Maps (Sequelize)][116]     |
+| [oAuth (Sequelize)][115]              |
+
+#### Week 6 - Project 2
+_April 14th - April 21st_
+
+Carefully Read the [Project 2 Specification here][1106].
 
 <!-- hidden
 
