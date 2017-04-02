@@ -228,7 +228,7 @@ _April 3rd - April 7th_
 | ---                                         | ---                            |
 | [JS Review & Scopes][21]                    | [Technical Documentation][25]  |
 | [Intro to Node & NPM][119]                  |                                |
-<!--| Intro to CRUD & MVC                         |                                | -->
+| Intro to CRUD & MVC                         |                                |
 | [TDD with Assert][20]                       | [TDD Todo List][1114]          |
 | [Intro to NoSQL w/ Mongo][309]              | [Install MongoDB][23]          |
 | [ORM with Mongoose][310]                    | [Mongo Todo Lab][1115]         |
