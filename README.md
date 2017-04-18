@@ -21,6 +21,30 @@ We use Github for source code management. Every student will need an account, wi
 - [Sharona](https://github.com/sharona1610)
 
 #### Students
+
+| CodeReview | Student         | Project 2 Repo
+|---                | ---             | ---         
+|1                  | [Darrell](https://github.com/darrelltzj) | [theRyanJoleneProject](https://github.com/darrelltzj/theRyanJoleneProject.git)
+|                 | [Shue Ze](https://github.com/dorkblue) | [ClinicProject](https://github.com/dorkblue/wdi-project-2-dorkblue)
+|                | [Louisa](https://github.com/imouto2005) | [Bunny's Basket](https://github.com/imouto2005/wdi-project-2)
+|2               | [Jonathan](https://github.com/noll-fyra) | [Locavorus](https://github.com/noll-fyra/project2)
+|                | [Jerel](https://github.com/jerel-lim) | [reservations for rooms](https://github.com/jerel-lim/wdi-sg-project-2)
+|3              | [Ian](https://github.com/iancwe) | [Scratch](https://github.com/iancwe/Scratch)
+|               | [Raymond](https://github.com/ijmeister) | [FinHelp](https://github.com/ijmeister/wdi-project-2)
+|4              | [Maria](https://github.com/hexhex23)| [Merlion Learns to Code](https://github.com/hexhex23/bootcamp)
+|               | [Cara](https://github.com/smilesandcocktails) | [TABChecker](https://github.com/smilesandcocktails/tabchecker)
+|5              | [Shirong](https://github.com/shirongfoo)| 
+|               | [Robin](https://github.com/cwxr) | [INS Hub](https://github.com/cwxr/wdi-project-2.git)
+|6              | [Kenneth](https://github.com/DarkArtistry)| [The Next Media](https://github.com/DarkArtistry/project2)
+|               | [Seth](https://github.com/lackdaz) | [Thingies](https://github.com/lackdaz/wdi-project-2)
+|7              | [Vikas](https://github.com/vikasgarg1)| [Famous Chef Recipes](https://github.com/DarkArtistry/project2)
+|               | [Bao Ling](https://github.com/cocokoh) | [project 2](https://github.com/cocokoh/Project-Two)
+|8              | [Mohamed Arif](https://github.com/ayepRahman)| 
+|               | [Imran](https://github.com/plasticman2k)| 
+|9              | [Alvin Tan](https://github.com/masloord)| [Gymcount](https://github.com/masloord/wdi-project-2)
+|               | [Felix](https://github.com/pegasolta) | [Anywhr Backend](https://github.com/Pegasolta/wdiproject2)
+
+<!--
 - [Felix](https://github.com/pegasolta)
 - [Maria](https://github.com/hexhex23)
 - [Jonathan](https://github.com/noll-fyra)
@@ -41,6 +65,8 @@ We use Github for source code management. Every student will need an account, wi
 - [Bao Ling](https://github.com/cocokoh)
 - [Tegoeh](https://github.com/tegoehh)
 - [Imran](https://github.com/plasticman2k)
+
+-->
 
 <!--
 ##### Student Pair
