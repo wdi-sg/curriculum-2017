@@ -22,27 +22,27 @@ We use Github for source code management. Every student will need an account, wi
 
 #### Students
 
-| CodeReview | Student         | Project 2 Repo
-|---                | ---             | ---         
-|1                  | [Darrell](https://github.com/darrelltzj) | [theRyanJoleneProject](https://github.com/darrelltzj/theRyanJoleneProject.git)
-|                 | [Shue Ze](https://github.com/dorkblue) | [ClinicProject](https://github.com/dorkblue/wdi-project-2-dorkblue)
-|                | [Louisa](https://github.com/imouto2005) | [Bunny's Basket](https://github.com/imouto2005/wdi-project-2)
-|2               | [Jonathan](https://github.com/noll-fyra) | [Locavorus](https://github.com/noll-fyra/project2)
-|                | [Jerel](https://github.com/jerel-lim) | [reservations for rooms](https://github.com/jerel-lim/wdi-sg-project-2)
-|3              | [Ian](https://github.com/iancwe) | [Scratch](https://github.com/iancwe/Scratch)
-|               | [Raymond](https://github.com/ijmeister) | [FinHelp](https://github.com/ijmeister/wdi-project-2)
-|4              | [Maria](https://github.com/hexhex23)| [Merlion Learns to Code](https://github.com/hexhex23/bootcamp)
-|               | [Cara](https://github.com/smilesandcocktails) | [TABChecker](https://github.com/smilesandcocktails/tabchecker)
-|5              | [Shirong](https://github.com/shirongfoo)| 
-|               | [Robin](https://github.com/cwxr) | [INS Hub](https://github.com/cwxr/wdi-project-2.git)
-|6              | [Kenneth](https://github.com/DarkArtistry)| [The Next Media](https://github.com/DarkArtistry/project2)
-|               | [Seth](https://github.com/lackdaz) | [Thingies](https://github.com/lackdaz/wdi-project-2)
-|7              | [Vikas](https://github.com/vikasgarg1)| [Famous Chef Recipes](https://github.com/DarkArtistry/project2)
-|               | [Bao Ling](https://github.com/cocokoh) | [project 2](https://github.com/cocokoh/Project-Two)
-|8              | [Mohamed Arif](https://github.com/ayepRahman)| 
-|               | [Imran](https://github.com/plasticman2k)| 
-|9              | [Alvin Tan](https://github.com/masloord)| [Gymcount](https://github.com/masloord/wdi-project-2)
-|               | [Felix](https://github.com/pegasolta) | [Anywhr Backend](https://github.com/Pegasolta/wdiproject2)
+| Group | Student |Project 1 Repo | Project 2 Repo
+|---    | ---     | ---   |---      
+|1      | [Darrell](https://github.com/darrelltzj) | [Avoid the Raindrops](https://github.com/darrelltzj/wdi-project-1-darrelltzj.git)|[theRyanJoleneProject](https://github.com/darrelltzj/theRyanJoleneProject.git)
+|                 | [Shue Ze](https://github.com/dorkblue) | [Momo the Wizard](https://github.com/dorkblue/wdi-project-1-dorkblue.git)| [ClinicProject](https://github.com/dorkblue/wdi-project-2-dorkblue)
+|                | [Louisa](https://github.com/imouto2005) |[Booger](https://github.com/imouto2005/wdi-project-1-imouto2005.git)| [Bunny's Basket](https://github.com/imouto2005/wdi-project-2)
+|2               | [Jonathan](https://github.com/noll-fyra) |[Population: One](https://github.com/noll-fyra/wdi-project-1-noll-fyra.git)| [Locavorus](https://github.com/noll-fyra/project2)
+|                | [Jerel](https://github.com/jerel-lim) |[BlackJack](https://github.com/jerel-lim/wdi-project-1-jerel-lim.git) |[reservations for rooms](https://github.com/jerel-lim/wdi-sg-project-2)
+|3              | [Ian](https://github.com/iancwe) |[Queries](https://github.com/iancwe/wdi-project-1-iancwe.git)| [Scratch](https://github.com/iancwe/Scratch)
+|               | [Raymond](https://github.com/ijmeister)| [Othello](https://github.com/ijmeister/wdi-project-1-ijmeister.git)  | [FinHelp](https://github.com/ijmeister/wdi-project-2)
+|4              | [Maria](https://github.com/hexhex23)| [Ring of Fire](https://github.com/hexhex23/wdi-project-1-hexhex23.git) |[Merlion Learns to Code](https://github.com/hexhex23/bootcamp)
+|               | [Cara](https://github.com/smilesandcocktails) |[The Chill Word Game](https://github.com/smilesandcocktails/wdi-project-1-smilesandcocktails.git)| [TABChecker](https://github.com/smilesandcocktails/tabchecker)
+|5              | [Shirong](https://github.com/shirongfoo)| [Project 1](https://github.com/shirongfoo/wdi-project-1-shirongfoo.git) |
+|               | [Robin](https://github.com/cwxr) | [Matchie](https://github.com/cwxr/wdi-project-1-cwxr.git) |[INS Hub](https://github.com/cwxr/wdi-project-2.git)
+|6              | [Kenneth](https://github.com/DarkArtistry)| [Autobots, Dodge the Disco Balls!](https://github.com/DarkArtistry/wdi-project-1-DarkArtistry.git) |[The Next Media](https://github.com/DarkArtistry/project2)
+|               | [Seth](https://github.com/lackdaz) | [Project 1](https://github.com/lackdaz/wdi-project-1-lackdaz.git)|[Thingies](https://github.com/lackdaz/wdi-project-2)
+|7              | [Vikas](https://github.com/vikasgarg1)| [Vikas' Tetris Game](https://github.com/vikasgarg1/wdi-project-1-vikasgarg1.git)|[Famous Chef Recipes](https://github.com/DarkArtistry/project2)
+|               | [Bao Ling](https://github.com/cocokoh) | [PoohOut](https://github.com/cocokoh/wdi-project-1-cocokoh.git) |[project 2](https://github.com/cocokoh/Project-Two)
+|8              | [Mohamed Arif](https://github.com/ayepRahman)| [PikaVolley](https://github.com/ayepRahman/pikavolley.git) |
+|               | [Imran](https://github.com/plasticman2k)| |
+|9              | [Alvin Tan](https://github.com/masloord)| [Pong Defense v1](https://github.com/masloord/wdi-project-1-masloord.git) |[Gymcount](https://github.com/masloord/wdi-project-2)
+|               | [Felix](https://github.com/pegasolta) | [Project 1](https://github.com/Pegasolta/wdi-project-1-Pegasolta.git) |[Anywhr Backend](https://github.com/Pegasolta/wdiproject2)
 
 <!--
 - [Felix](https://github.com/pegasolta)
@@ -219,7 +219,7 @@ _March 27th - March 31st_
 
 Carefully Read the [Project 1 Specification here][1022].
 
-
+<!--
 ###### Submissions
 - [wdi-project-1-darrelltzj](https://wdi-sg.github.io/wdi-project-1-darrelltzj)
 - [wdi-project-1-vikasgarg1](https://wdi-sg.github.io/wdi-project-1-vikasgarg1)
@@ -240,7 +240,7 @@ Carefully Read the [Project 1 Specification here][1022].
 - [wdi-project-1-cwxr](https://wdi-sg.github.io/wdi-project-1-cwxr)
 - [wdi-project-1-ayepRahman](https://wdi-sg.github.io/wdi-project-1-ayepRahman)
 - [wdi-project-1-iancwe](https://wdi-sg.github.io/wdi-project-1-iancwe)
-
+-->
 
  ### Unit 2: Node/Express
 _April 3rd - April 21st_
