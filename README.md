@@ -96,75 +96,6 @@ The typically daily format is as follows.
 | 02:30 - 03:00 | Review
 | 03:00 onwards | Lab + Homework
 
-<!-- ### Unit 3: Ruby on Rails
-_27th Feb - 17th Mar_
-
-Unit 3 is about taking your server-side development skills to the next level. We'll learn Ruby on Rails and use it to build more sophisticated and scalable Apps. We'll cover relational databases using Postgres and SQL. We'll also cover effective team work and collaboration using Git.
-
-#### Week 7
-| Topic | Assignments |
-| ----- | ----------- |
-| [Intro to Ruby][201]           | [Ruby Exercises][1201]
-|                                | [Ruby Challenges][1202]
-| [Ruby Classes][202]            | |
-| [Ruby Testing with Rspec][204] | [Rspec Testing][1204]
-|                                | [TDD Calculator][1213] |
-| [Ruby Inheritance][203]        | [Rio Grande][1205]
-| [Intro to Rails][205]      | [National Parks][1206] |
-| [Rails Asset Pipeline][207] & [SASS][217] | [National Parks Part 2][1211] | |
-
-#### Week 8
-| Topic | Assignments
-| ---  | ---      
-| [Intro to SQL][103] | [Find Carmen Sandiego][1125] |
-| | [Apartment Lab][1102] |
-| [Advanced SQL][104] | [ERBs & Database Modeling][1124] |
-| |  [Booktown][1103]
-| [Rails Auth/1:M][208] | [Link Board][1209] |
-| [Rails M:M][209] | [National Parks Part 3][1214] |
-| [Git Collaboration Review][218] | |
-| [Team Workflows][215] | |
-| [Deploy Rails to Heroku][221] | [Testing & CI Example][1215] |
-
-| Bonus Topics |
-| -------- |
-| [Polymorphic Associations][210] |
-| [oAuth][211] |
-| [Mailers][212] |
-| [Image Uploads with Cloudinary][213] |
-| [Consuming an API][206] |
-| [Building an API][219] |
-| [AJAX in Rails][220]
-| [Data Scraping with Nokogiri][216] |
-
-#### Week 9 - Project 3
-
-Carefully Read the [Project 3 Specification here][1200].
-
-To start your project, one of your team will need to [Fork this Project Repository on Github](https://github.com/wdi-sg/project-3-starter). This will be your Team Repo -- you should rename it to either your team or project name. Depending on your chosen git workflow, the owner of this repo will either need to add the other team members as collaborators or have them fork the team repo.
-
-Carefully Read the [Instructions in the Gitbook][1123]
-for Submission and presentation preparation.
-
-##### Teams
-
-| Group 1   | Group 2   | Group 3   | Group 4   |
-| ---       | ---       | ---       | ---       |
-| Han Sheng	| Desmond	  | Justin    |	Elaine    |
-| Sruti     |	Andre     |	Gek Teng	| Iskandar  |
-| John	    | Shimei	  | Xavier	  | Jonathan  |
-| [condo management system](https://github.com/wdi-sg/project-3-jsh) | [Project 3 DAS](https://github.com/wdi-sg/project-3-das) | [RoboRent](https://github.com/wdi-sg/project-3-xavgekjus) | [StandIn](https://github.com/wdi-sg/project-3-iskandar-elaine-jonathan) |
-
-#### Additional Materials
-1. [Lighting Fast Sass Reloading in rails](https://mattbrictson.com/lightning-fast-sass-reloading-in-rails)
-2. [8 SASS mixings you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
-3. [How to structure a SASS project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
-4. [ERD Exercises](https://github.com/wdi-sg/8/tree/master/ERD_Exercises) -->
-
-<!-- #### Post-Mortem
-Once your project is complete, you will have to work as a group to write a [Post-Mortem](https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/project-3/post-mortem.html). -->
-
-
 
 ### Unit 1: Front End Development
 _March 13th - March 31st_
@@ -290,6 +221,80 @@ We'll dig into modeling more complex relationships in Mongo & Mongoose and we'll
 _April 14th - April 21st_
 
 Carefully Read the [Project 2 Specification here][1106].
+
+### Unit 3: Ruby on Rails
+_April 24th - May 12th_
+
+Unit 3 is about taking your server-side development skills to the next level. We'll learn Ruby on Rails and use it to build more sophisticated and scalable Apps. We'll cover relational databases using Postgres and SQL. We'll also cover effective team work and collaboration using Git.
+
+#### Week 7
+_April 24th - April 28th_
+
+| Topic | Assignments |
+| ----- | ----------- |
+| [Intro to Ruby][201]           | [Ruby Exercises][1201]
+|                                | [Ruby Challenges][1202]
+| [Ruby Classes][202]            | |
+| [Ruby Testing with Rspec][204] | [Rspec Testing][1204]
+|                                | [TDD Calculator][1213] |
+| [Ruby Inheritance][203]        | [Rio Grande][1205]
+| [Intro to Rails][205]      | [National Parks][1206] |
+| [Rails Asset Pipeline][207] & [SASS][217] | [National Parks Part 2][1211] | |
+
+#### Week 8
+_May 1st - May 5th_
+
+| Topic | Assignments
+| ---  | ---      
+| [Intro to SQL][103] | [Find Carmen Sandiego][1125] |
+| | [Apartment Lab][1102] |
+| [Advanced SQL][104] | [ERBs & Database Modeling][1124] |
+| |  [Booktown][1103]
+| [Rails Auth/1:M][208] | [Link Board][1209] |
+| [Rails M:M][209] | [National Parks Part 3][1214] |
+| [Git Collaboration Review][218] | |
+| [Team Workflows][215] | |
+| [Deploy Rails to Heroku][221] | [Testing & CI Example][1215] |
+
+| Bonus Topics |
+| -------- |
+| [Polymorphic Associations][210] |
+| [oAuth][211] |
+| [Mailers][212] |
+| [Image Uploads with Cloudinary][213] |
+| [Consuming an API][206] |
+| [Building an API][219] |
+| [AJAX in Rails][220]
+| [Data Scraping with Nokogiri][216] |
+
+#### Week 9 - Project 3
+_May 8th - May 12th_
+
+Carefully Read the [Project 3 Specification here][1200].
+
+To start your project, one of your team will need to [Fork this Project Repository on Github](https://github.com/wdi-sg/project-3-starter). This will be your Team Repo -- you should rename it to either your team or project name. Depending on your chosen git workflow, the owner of this repo will either need to add the other team members as collaborators or have them fork the team repo.
+
+Carefully Read the [Instructions in the Gitbook][1123]
+for Submission and presentation preparation.
+
+<!--
+##### Teams
+
+| Group 1   | Group 2   | Group 3   | Group 4   |
+| ---       | ---       | ---       | ---       |
+| Han Sheng	| Desmond	  | Justin    |	Elaine    |
+| Sruti     |	Andre     |	Gek Teng	| Iskandar  |
+| John	    | Shimei	  | Xavier	  | Jonathan  |
+| [condo management system](https://github.com/wdi-sg/project-3-jsh) | [Project 3 DAS](https://github.com/wdi-sg/project-3-das) | [RoboRent](https://github.com/wdi-sg/project-3-xavgekjus) | [StandIn](https://github.com/wdi-sg/project-3-iskandar-elaine-jonathan) |
+
+#### Additional Materials
+1. [Lighting Fast Sass Reloading in rails](https://mattbrictson.com/lightning-fast-sass-reloading-in-rails)
+2. [8 SASS mixings you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
+3. [How to structure a SASS project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+4. [ERD Exercises](https://github.com/wdi-sg/8/tree/master/ERD_Exercises) -->
+
+<!-- #### Post-Mortem
+Once your project is complete, you will have to work as a group to write a [Post-Mortem](https://jeremiahalex.gitbooks.io/wdi-sg/content/11-projects/project-3/post-mortem.html). -->
 
 <!-- hidden
 
