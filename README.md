@@ -39,7 +39,7 @@ We use Github for source code management. Every student will need an account, wi
 |               | [Seth](https://github.com/lackdaz) | [Project 1](https://github.com/lackdaz/wdi-project-1-lackdaz.git)|[Thingies](https://github.com/lackdaz/wdi-project-2)
 |7              | [Vikas](https://github.com/vikasgarg1)| [Vikas' Tetris Game](https://github.com/vikasgarg1/wdi-project-1-vikasgarg1.git)|[Famous Chef Recipes](https://github.com/DarkArtistry/project2)
 |               | [Bao Ling](https://github.com/cocokoh) | [PoohOut](https://github.com/cocokoh/wdi-project-1-cocokoh.git) |[project 2](https://github.com/cocokoh/Project-Two)
-|8              | [Mohamed Arif](https://github.com/ayepRahman)| [PikaVolley](https://github.com/ayepRahman/pikavolley.git) |
+|8              | [Mohamed Arif](https://github.com/ayepRahman)| [NyanNyanCat](https://github.com/ayepRahman/NyanNyanCat-V.1) |
 |               | [Imran](https://github.com/plasticman2k)| |
 |9              | [Alvin Tan](https://github.com/masloord)| [Pong Defense v1](https://github.com/masloord/wdi-project-1-masloord.git) |[Gymcount](https://github.com/masloord/wdi-project-2)
 |               | [Felix](https://github.com/pegasolta) | [Project 1](https://github.com/Pegasolta/wdi-project-1-Pegasolta.git) |[Anywhr Backend](https://github.com/Pegasolta/wdiproject2)
