@@ -33,7 +33,7 @@ We use Github for source code management. Every student will need an account, wi
 |               | [Raymond](https://github.com/ijmeister)| [Othello](https://github.com/ijmeister/wdi-project-1-ijmeister.git)  | [FinHelp](https://github.com/ijmeister/wdi-project-2)
 |4              | [Maria](https://github.com/hexhex23)| [Ring of Fire](https://github.com/hexhex23/wdi-project-1-hexhex23.git) |[Merlion Learns to Code](https://github.com/hexhex23/bootcamp)
 |               | [Cara](https://github.com/smilesandcocktails) |[The Chill Word Game](https://github.com/smilesandcocktails/wdi-project-1-smilesandcocktails.git)| [TABChecker](https://github.com/smilesandcocktails/tabchecker)
-|5              | [Shirong](https://github.com/shirongfoo)| [Project 1](https://github.com/shirongfoo/wdi-project-1-shirongfoo.git) |
+|5              | [Shirong](https://github.com/shirongfoo)| [Fat Fishy](https://github.com/shirongfoo/wdi-project-1-shirongfoo.git) |[Meet&Jam](https://github.com/shirongfoo/project2.git)
 |               | [Robin](https://github.com/cwxr) | [Matchie](https://github.com/cwxr/wdi-project-1-cwxr.git) |[INS Hub](https://github.com/cwxr/wdi-project-2.git)
 |6              | [Kenneth](https://github.com/DarkArtistry)| [Autobots, Dodge the Disco Balls!](https://github.com/DarkArtistry/wdi-project-1-DarkArtistry.git) |[The Next Media](https://github.com/DarkArtistry/project2)
 |               | [Seth](https://github.com/lackdaz) | [Project 1](https://github.com/lackdaz/wdi-project-1-lackdaz.git)|[Thingies](https://github.com/lackdaz/wdi-project-2)
