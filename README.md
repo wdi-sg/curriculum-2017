@@ -277,16 +277,17 @@ To start your project, one of your team will need to [Fork this Project Reposito
 Carefully Read the [Instructions in the Gitbook][1123]
 for Submission and presentation preparation.
 
-<!--
+
 ##### Teams
 
-| Group 1   | Group 2   | Group 3   | Group 4   |
-| ---       | ---       | ---       | ---       |
-| Han Sheng	| Desmond	  | Justin    |	Elaine    |
-| Sruti     |	Andre     |	Gek Teng	| Iskandar  |
-| John	    | Shimei	  | Xavier	  | Jonathan  |
+| Group 1   | Group 2   | Group 3   | Group 4   | Group 5   |
+| ---       | ---       | ---       | ---       | ---       |
+| Jonathan	| Shirong	  | Kenneth   |	Ian    |	Robin    |
+| Louisa     | Tom     |	Jerel	| Cara  | Maria  |
+| Darrell	    | Raymond	  | Seth	  | Bao Ling  | Arif  |
+| 	    | 	  | Xavier	  | Alvin  | Vikas  | Felix  |
 | [condo management system](https://github.com/wdi-sg/project-3-jsh) | [Project 3 DAS](https://github.com/wdi-sg/project-3-das) | [RoboRent](https://github.com/wdi-sg/project-3-xavgekjus) | [StandIn](https://github.com/wdi-sg/project-3-iskandar-elaine-jonathan) |
-
+<!--
 #### Additional Materials
 1. [Lighting Fast Sass Reloading in rails](https://mattbrictson.com/lightning-fast-sass-reloading-in-rails)
 2. [8 SASS mixings you must have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
