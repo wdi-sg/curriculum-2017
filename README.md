@@ -1,6 +1,6 @@
 ![GA Logo](./_assets/ga_cog.png)
-# WDI9
-Welcome to WDI 9. This repository contains information and materials specific to your course.
+# WDI 11
+Welcome to WDI 11. This repository contains information and materials specific to your course.
 
 # Important links
 - [Class Slack](https://ga-students.slack.com/)
@@ -9,8 +9,12 @@ Welcome to WDI 9. This repository contains information and materials specific to
 
 
 ## Instructional Team
-**Prima Aulia Gusta** | Lead Instructor | [prima@generalassemb.ly ](mailto:prima@generalassemb.ly) | Weekday Office Hour: 9am - 5pm (Offline) / 5pm - 8pm (Online)    
-**Wong Shimei** | Facilitator | [wshimei@gmail.com](mailto:wshimei@gmail.com) | Weekday Office Hour:
+- **Prima Aulia Gusta** (Lead Instructor)
+  - [prima@generalassemb.ly ](mailto:prima@generalassemb.ly)
+  - Weekday Office Hour: 9am - 5pm (Offline) / 5pm - 8pm (Online)
+- **Wong Shimei** (Facilitator)
+  - [wshimei@gmail.com](mailto:wshimei@gmail.com)
+  - Weekday Office Hour:
 
 ## Github
 We use Github for source code management. Every student will need an account, with all projects and assignments stored there. [See appendix](#Githublinks_559) for the full list.
