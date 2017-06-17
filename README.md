@@ -1,85 +1,19 @@
 ![GA Logo](./_assets/ga_cog.png)
-# WDI 9 Course Information
-Welcome to WDI 9. This repository contains information and materials specific to your course. All other materials are kept in the [Singapore WDI GitBook](https://jeremiahalex.gitbooks.io/wdi-sg/content/) - bookmark it!
+# WDI9
+Welcome to WDI 9. This repository contains information and materials specific to your course.
 
-The curriculum links below, lead to the specific material covered in class, however, there are plenty of bonus materials also included in the [GitBook](https://jeremiahalex.gitbooks.io/wdi-sg/content/).
+# Important links
+- [Class Slack](https://ga-students.slack.com/)
+- [Gitbook](https://jeremiahalex.gitbooks.io/wdi-sg)
+- [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdHA9w9vY7uXf19vrVk6K5VfjHE-76SH-UYsERVDwXg_8LsjQ/viewform)
+
 
 ## Instructional Team
-**Prima Aulia Gusta** | Lead Instructor | prima@generalassemb.ly      
-
-**Yi Sheng Lee** | Facilitator | <!-- -->
-
-## Discussion
-Class discussions take place on Slack. [Download Slack](https://slack.com/downloads)
+**Prima Aulia Gusta** | Lead Instructor | [prima@generalassemb.ly ](mailto:prima@generalassemb.ly) | Weekday Office Hour: 9am - 5pm (Offline) / 5pm - 8pm (Online)    
+**Wong Shimei** | Facilitator | [wshimei@gmail.com](mailto:wshimei@gmail.com) | Weekday Office Hour:
 
 ## Github
-We use Github for source code management. Every student will need an account, with all projects and assignments stored there. Below are links to all accounts.
-
-#### Instructional Team
-- [Prima](https://github.com/primaulia)
-- [Yi Sheng](https://github.com/yisheng90)
-- [Sharona](https://github.com/sharona1610)
-
-#### Students
-
-| Group | Student |Project 1 Repo | Project 2 Repo | Project 4 Repo
-|---    | ---     | ---   |---   |---   
-|1      | [Darrell](https://github.com/darrelltzj) | [Avoid the Raindrops](https://github.com/darrelltzj/wdi-project-1-darrelltzj.git)|[theRyanJoleneProject](https://github.com/darrelltzj/theRyanJoleneProject.git) | [Photodrop](https://github.com/darrelltzj/photodrop)
-|                | [Louisa](https://github.com/imouto2005) |[Booger](https://github.com/imouto2005/wdi-project-1-imouto2005.git)| [Bunny's Basket](https://github.com/imouto2005/wdi-project-2) | [Doushio (Frontend)](https://github.com/imouto2005/project-4-react),[Doushio (BackEnd)](https://github.com/imouto2005/project-4-rails)
-|               | [Jonathan](https://github.com/noll-fyra) |[Population: One](https://github.com/noll-fyra/wdi-project-1-noll-fyra.git)| [Locavorus](https://github.com/noll-fyra/project2) | [Via Postale](https://github.com/noll-fyra/viapriori2)
-|2                 | [Shue Ze](https://github.com/dorkblue) | [Momo the Wizard](https://github.com/dorkblue/wdi-project-1-dorkblue.git)| [ClinicProject](https://github.com/dorkblue/wdi-project-2-dorkblue) | [Bro-sure](https://github.com/dorkblue/wdi-project-4-backend-hexhex )
-|              | [Shirong](https://github.com/shirongfoo)| [Fat Fishy](https://github.com/shirongfoo/wdi-project-1-shirongfoo.git) |[Meet&Jam](https://github.com/shirongfoo/project2.git) | [Shopppit](https://github.com/shirongfoo/wdi-project-4)
-|               | [Raymond](https://github.com/ijmeister)| [Othello](https://github.com/ijmeister/wdi-project-1-ijmeister.git)  | [FinHelp](https://github.com/ijmeister/wdi-project-2) | [CS Bot](https://github.com/lackdaz/wdi-project4)
-|3                | [Jerel](https://github.com/jerel-lim) |[BlackJack](https://github.com/jerel-lim/wdi-project-1-jerel-lim.git) |[reservations for rooms](https://github.com/jerel-lim/wdi-sg-project-2) | [Via Postale](https://github.com/noll-fyra/viapriori2)
-|              | [Kenneth](https://github.com/DarkArtistry)| [Autobots, Dodge the Disco Balls!](https://github.com/DarkArtistry/wdi-project-1-DarkArtistry.git) |[The Next Media](https://github.com/DarkArtistry/project2) | [CircleUp](https://github.com/DarkArtistry/WDI-Project-4-CircleUp)
-|               | [Seth](https://github.com/lackdaz) | [Project 1](https://github.com/lackdaz/wdi-project-1-lackdaz.git)|[Thingies](https://github.com/lackdaz/wdi-project-2) | [CS Bot](https://github.com/lackdaz/wdi-project4)
-|              | [Alvin Tan](https://github.com/masloord)| [Pong Defense v1](https://github.com/masloord/wdi-project-1-masloord.git) |[Gymcount](https://github.com/masloord/wdi-project-2)
-|4              | [Ian](https://github.com/iancwe) |[Queries](https://github.com/iancwe/wdi-project-1-iancwe.git)| [Scratch](https://github.com/iancwe/Scratch) | [Parlay](https://github.com/iancwe/parlay)
-|               | [Cara](https://github.com/smilesandcocktails) |[The Chill Word Game](https://github.com/smilesandcocktails/wdi-project-1-smilesandcocktails.git)| [TABChecker](https://github.com/smilesandcocktails/tabchecker) | [TouchType](https://github.com/smilesandcocktails/touchtype)
-|              | [Vikas](https://github.com/vikasgarg1)| [Vikas' Tetris Game](https://github.com/vikasgarg1/wdi-project-1-vikasgarg1.git)|[Famous Chef Recipes](https://github.com/vikasgarg1/wdiproject2new) | [Portfolio](https://github.com/vikasgarg1/wdi-project4-portfolio)
-|               | [Bao Ling](https://github.com/cocokoh) | [PoohOut](https://github.com/cocokoh/wdi-project-1-cocokoh.git) |[project 2](https://github.com/cocokoh/Project-Two) | [Travels](https://gitHub.com/cocokoh/travels.git)
-|5              | [Maria](https://github.com/hexhex23)| [Ring of Fire](https://github.com/hexhex23/wdi-project-1-hexhex23.git) |[Merlion Learns to Code](https://github.com/hexhex23/bootcamp) | [Bro-sure](https://github.com/dorkblue/wdi-project-4-backend-hexhex )
-|               | [Robin](https://github.com/cwxr) | [Matchie](https://github.com/cwxr/wdi-project-1-cwxr.git) |[INS Hub](https://github.com/cwxr/wdi-project-2.git) | [Sell True](https://github.com/cwxr/project_4.git)
-|              | [Mohamed Arif](https://github.com/ayepRahman)| [NyanNyanCat](https://github.com/ayepRahman/NyanNyanCat-V.1) | [GaView](https://github.com/ayepRahman/GaView) | [my-portfolio](https://github.com/ayepRahman/Arif-Rahman-PortFolio)
-|               | [Felix](https://github.com/pegasolta) | [Project 1](https://github.com/Pegasolta/wdi-project-1-Pegasolta.git) |[Anywhr Backend](https://github.com/Pegasolta/wdiproject2)
-<!-- |               | [Imran](https://github.com/plasticman2k)| | -->
-<!--
-- [Felix](https://github.com/pegasolta)
-- [Maria](https://github.com/hexhex23)
-- [Jonathan](https://github.com/noll-fyra)
-- [Robin](https://github.com/cwxr)
-- [Cara](https://github.com/smilesandcocktails)
-- [Seth](https://github.com/lackdaz)
-- [Vikas](https://github.com/vikasgarg1)
-- [Raymond](https://github.com/ijmeister)
-- [Ian](https://github.com/iancwe)
-- [Mohamed Arif](https://github.com/ayepRahman)
-- [Kenneth](https://github.com/DarkArtistry)
-- [Louisa](https://github.com/imouto2005)
-- [Alvin Tan](https://github.com/masloord)
-- [Jerel](https://github.com/jerel-lim)
-- [Shirong](https://github.com/shirongfoo)
-- [Shue Ze](https://github.com/dorkblue)
-- [Darrell](https://github.com/darrelltzj)
-- [Bao Ling](https://github.com/cocokoh)
-- [Tegoeh](https://github.com/tegoehh)
-- [Imran](https://github.com/plasticman2k)
-
--->
-
-<!--
-##### Student Pair
-After completing the Project, each student should complete a [Code Review][1025]. The groupings are:
-- [Desmond](https://github.com/desmondhengwj) / [Shimei](https://github.com/wshimei)
-- [Andre](https://github.com/cycopter12) / [Elaine](https://github.com/lainelim)
-- [Sruti](https://github.com/skeerti2) / [John](https://github.com/johnacs)
-- [Jonathan](https://github.com/jonathanlimes) / [Xavier](https://github.com/random-9)
-- [Iskandar](https://github.com/anatraxia) / [Han Sheng](https://github.com/hsquek)
-- [Gek Theng](https://github.com/tgt87) / [Justin](https://github.com/ShindoSensei)
-- [Salim](https://github.com/syedsalim) / Prima & Kang Sheng -->
-
-## Exit Tickets
-At the end of each day's lesson, kindly fill in the [Exit Tickets](https://docs.google.com/forms/d/e/1FAIpQLSdHA9w9vY7uXf19vrVk6K5VfjHE-76SH-UYsERVDwXg_8LsjQ/viewform?usp=sf_link) to provide feedback for the day's lessons.
+We use Github for source code management. Every student will need an account, with all projects and assignments stored there. [See appendix](#Githublinks_559) for the full list.
 
 ## Course Outline
 The following is given as a guideline only and may be adjusted by the instructor based upon the pace of the class.
@@ -89,9 +23,9 @@ The typically daily format is as follows.
 | Time          | Activity
 | ---           | ---       
 | 09:00 - 10:00 | Scrum + Warmup
-| 10:00 - 12:30 | Main Topic
-| 12:30 - 01:30 | Lunch
-| 01:30 - 02:30 | Lab
+| 10:00 - 11:30 | Main Topic
+| 11:30 - 12:30 | Lunch
+| 12:30 - 02:30 | Lab + Other Topic
 | 02:30 - 03:00 | Review
 | 03:00 onwards | Lab + Homework
 
@@ -102,7 +36,7 @@ _March 13th - March 31st_
 Unit 1 is all about showing the humble beginnings of the web and introducing students to foundational programming concepts that we'll use for the entire rest of the course.
 
 #### Week 1
-_March 13th - March 17th_
+_June 19th - July 7th_
 
 | Topic                              | Assignments
 | ---                                | ---             
@@ -622,6 +556,34 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 
 
 ---
+
+## Github-links (^[back to top](#WDI9_1))
+#### Instructional Team
+- [Prima](https://github.com/primaulia)
+- [Shimei](https://github.com/wshimei)
+
+#### Students
+
+| Group | Student |Project 1 Repo | Project 2 Repo | Project 4 Repo
+|---    | ---     | ---   |---   |---   
+|1      | [Darrell](https://github.com/darrelltzj) | [Avoid the Raindrops](https://github.com/darrelltzj/wdi-project-1-darrelltzj.git)|[theRyanJoleneProject](https://github.com/darrelltzj/theRyanJoleneProject.git) | [Photodrop](https://github.com/darrelltzj/photodrop)
+|                | [Louisa](https://github.com/imouto2005) |[Booger](https://github.com/imouto2005/wdi-project-1-imouto2005.git)| [Bunny's Basket](https://github.com/imouto2005/wdi-project-2) | [Doushio (Frontend)](https://github.com/imouto2005/project-4-react),[Doushio (BackEnd)](https://github.com/imouto2005/project-4-rails)
+|               | [Jonathan](https://github.com/noll-fyra) |[Population: One](https://github.com/noll-fyra/wdi-project-1-noll-fyra.git)| [Locavorus](https://github.com/noll-fyra/project2) | [Via Postale](https://github.com/noll-fyra/viapriori2)
+|2                 | [Shue Ze](https://github.com/dorkblue) | [Momo the Wizard](https://github.com/dorkblue/wdi-project-1-dorkblue.git)| [ClinicProject](https://github.com/dorkblue/wdi-project-2-dorkblue) | [Bro-sure](https://github.com/dorkblue/wdi-project-4-backend-hexhex )
+|              | [Shirong](https://github.com/shirongfoo)| [Fat Fishy](https://github.com/shirongfoo/wdi-project-1-shirongfoo.git) |[Meet&Jam](https://github.com/shirongfoo/project2.git) | [Shopppit](https://github.com/shirongfoo/wdi-project-4)
+|               | [Raymond](https://github.com/ijmeister)| [Othello](https://github.com/ijmeister/wdi-project-1-ijmeister.git)  | [FinHelp](https://github.com/ijmeister/wdi-project-2) | [CS Bot](https://github.com/lackdaz/wdi-project4)
+|3                | [Jerel](https://github.com/jerel-lim) |[BlackJack](https://github.com/jerel-lim/wdi-project-1-jerel-lim.git) |[reservations for rooms](https://github.com/jerel-lim/wdi-sg-project-2) | [Via Postale](https://github.com/noll-fyra/viapriori2)
+|              | [Kenneth](https://github.com/DarkArtistry)| [Autobots, Dodge the Disco Balls!](https://github.com/DarkArtistry/wdi-project-1-DarkArtistry.git) |[The Next Media](https://github.com/DarkArtistry/project2) | [CircleUp](https://github.com/DarkArtistry/WDI-Project-4-CircleUp)
+|               | [Seth](https://github.com/lackdaz) | [Project 1](https://github.com/lackdaz/wdi-project-1-lackdaz.git)|[Thingies](https://github.com/lackdaz/wdi-project-2) | [CS Bot](https://github.com/lackdaz/wdi-project4)
+|              | [Alvin Tan](https://github.com/masloord)| [Pong Defense v1](https://github.com/masloord/wdi-project-1-masloord.git) |[Gymcount](https://github.com/masloord/wdi-project-2)
+|4              | [Ian](https://github.com/iancwe) |[Queries](https://github.com/iancwe/wdi-project-1-iancwe.git)| [Scratch](https://github.com/iancwe/Scratch) | [Parlay](https://github.com/iancwe/parlay)
+|               | [Cara](https://github.com/smilesandcocktails) |[The Chill Word Game](https://github.com/smilesandcocktails/wdi-project-1-smilesandcocktails.git)| [TABChecker](https://github.com/smilesandcocktails/tabchecker) | [TouchType](https://github.com/smilesandcocktails/touchtype)
+|              | [Vikas](https://github.com/vikasgarg1)| [Vikas' Tetris Game](https://github.com/vikasgarg1/wdi-project-1-vikasgarg1.git)|[Famous Chef Recipes](https://github.com/vikasgarg1/wdiproject2new) | [Portfolio](https://github.com/vikasgarg1/wdi-project4-portfolio)
+|               | [Bao Ling](https://github.com/cocokoh) | [PoohOut](https://github.com/cocokoh/wdi-project-1-cocokoh.git) |[project 2](https://github.com/cocokoh/Project-Two) | [Travels](https://gitHub.com/cocokoh/travels.git)
+|5              | [Maria](https://github.com/hexhex23)| [Ring of Fire](https://github.com/hexhex23/wdi-project-1-hexhex23.git) |[Merlion Learns to Code](https://github.com/hexhex23/bootcamp) | [Bro-sure](https://github.com/dorkblue/wdi-project-4-backend-hexhex )
+|               | [Robin](https://github.com/cwxr) | [Matchie](https://github.com/cwxr/wdi-project-1-cwxr.git) |[INS Hub](https://github.com/cwxr/wdi-project-2.git) | [Sell True](https://github.com/cwxr/project_4.git)
+|              | [Mohamed Arif](https://github.com/ayepRahman)| [NyanNyanCat](https://github.com/ayepRahman/NyanNyanCat-V.1) | [GaView](https://github.com/ayepRahman/GaView) | [my-portfolio](https://github.com/ayepRahman/Arif-Rahman-PortFolio)
+|               | [Felix](https://github.com/pegasolta) | [Project 1](https://github.com/Pegasolta/wdi-project-1-Pegasolta.git) |[Anywhr Backend](https://github.com/Pegasolta/wdiproject2)
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
