@@ -14,7 +14,7 @@ Welcome to WDI 11. This repository contains information and materials specific t
   - Weekday Office Hour: 9am - 5pm (Offline) / 5pm - 8pm (Online)
 - **Wong Shimei** (Facilitator)
   - [wshimei@gmail.com](mailto:wshimei@gmail.com)
-  - Weekday Office Hour:
+  - Weekday Office Hour: 9am - 6pm (Offline) / 8pm - 11pm (Online)
 
 ## Github
 We use Github for source code management. Every student will need an account, with all projects and assignments stored there. [See appendix](#Githublinks_559) for the full list.
