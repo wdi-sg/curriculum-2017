@@ -7,6 +7,7 @@ Welcome to WDI 11. This repository contains information and materials specific t
 - [Gitbook](https://jeremiahalex.gitbooks.io/wdi-sg)
 - [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdHA9w9vY7uXf19vrVk6K5VfjHE-76SH-UYsERVDwXg_8LsjQ/viewform)
 - [Padlet](https://padlet.com/prima2/jrxzmc52s1t8#)
+- [Flowchart Maker](https://code2flow.com/)
 
 
 ## Instructional Team
