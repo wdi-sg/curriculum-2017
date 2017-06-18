@@ -6,6 +6,7 @@ Welcome to WDI 11. This repository contains information and materials specific t
 - [Class Slack](https://ga-students.slack.com/)
 - [Gitbook](https://jeremiahalex.gitbooks.io/wdi-sg)
 - [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdHA9w9vY7uXf19vrVk6K5VfjHE-76SH-UYsERVDwXg_8LsjQ/viewform)
+- [Padlet](https://padlet.com/prima2/jrxzmc52s1t8#)
 
 
 ## Instructional Team
@@ -17,7 +18,7 @@ Welcome to WDI 11. This repository contains information and materials specific t
   - Weekday Office Hour: 9am - 6pm (Offline) / 8pm - 11pm (Online)
 
 ## Github
-We use Github for source code management. Every student will need an account, with all projects and assignments stored there. [See appendix](#Githublinks_559) for the full list.
+We use Github for source code management. Every student will need an account, with all projects and assignments stored there. [See appendix](#github-links) for the full list.
 
 ## Course Outline
 The following is given as a guideline only and may be adjusted by the instructor based upon the pace of the class.
@@ -572,7 +573,7 @@ Once your project is complete, you will have to work as a group to write a [Post
 ---
 
 ## Github-links
-[back to top](#WDI9_1)
+[back to top](#wdi-11)
 
 #### Instructional Team
 - [Prima](https://github.com/primaulia)
