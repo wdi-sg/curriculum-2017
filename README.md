@@ -585,24 +585,24 @@ Once your project is complete, you will have to work as a group to write a [Post
 
 | Group | Student |Project 1 Repo | Project 2 Repo | Project 4 Repo
 |---    | ---     | ---   |---   |---   
-|1      | [Darrell](https://github.com/darrelltzj) | [Avoid the Raindrops](https://github.com/darrelltzj/wdi-project-1-darrelltzj.git)|[theRyanJoleneProject](https://github.com/darrelltzj/theRyanJoleneProject.git) | [Photodrop](https://github.com/darrelltzj/photodrop)
-|                | [Louisa](https://github.com/imouto2005) |[Booger](https://github.com/imouto2005/wdi-project-1-imouto2005.git)| [Bunny's Basket](https://github.com/imouto2005/wdi-project-2) | [Doushio (Frontend)](https://github.com/imouto2005/project-4-react),[Doushio (BackEnd)](https://github.com/imouto2005/project-4-rails)
-|               | [Jonathan](https://github.com/noll-fyra) |[Population: One](https://github.com/noll-fyra/wdi-project-1-noll-fyra.git)| [Locavorus](https://github.com/noll-fyra/project2) | [Via Postale](https://github.com/noll-fyra/viapriori2)
-|2                 | [Shue Ze](https://github.com/dorkblue) | [Momo the Wizard](https://github.com/dorkblue/wdi-project-1-dorkblue.git)| [ClinicProject](https://github.com/dorkblue/wdi-project-2-dorkblue) | [Bro-sure](https://github.com/dorkblue/wdi-project-4-backend-hexhex )
-|              | [Shirong](https://github.com/shirongfoo)| [Fat Fishy](https://github.com/shirongfoo/wdi-project-1-shirongfoo.git) |[Meet&Jam](https://github.com/shirongfoo/project2.git) | [Shopppit](https://github.com/shirongfoo/wdi-project-4)
-|               | [Raymond](https://github.com/ijmeister)| [Othello](https://github.com/ijmeister/wdi-project-1-ijmeister.git)  | [FinHelp](https://github.com/ijmeister/wdi-project-2) | [CS Bot](https://github.com/lackdaz/wdi-project4)
-|3                | [Jerel](https://github.com/jerel-lim) |[BlackJack](https://github.com/jerel-lim/wdi-project-1-jerel-lim.git) |[reservations for rooms](https://github.com/jerel-lim/wdi-sg-project-2) | [Via Postale](https://github.com/noll-fyra/viapriori2)
-|              | [Kenneth](https://github.com/DarkArtistry)| [Autobots, Dodge the Disco Balls!](https://github.com/DarkArtistry/wdi-project-1-DarkArtistry.git) |[The Next Media](https://github.com/DarkArtistry/project2) | [CircleUp](https://github.com/DarkArtistry/WDI-Project-4-CircleUp)
-|               | [Seth](https://github.com/lackdaz) | [Project 1](https://github.com/lackdaz/wdi-project-1-lackdaz.git)|[Thingies](https://github.com/lackdaz/wdi-project-2) | [CS Bot](https://github.com/lackdaz/wdi-project4)
-|              | [Alvin Tan](https://github.com/masloord)| [Pong Defense v1](https://github.com/masloord/wdi-project-1-masloord.git) |[Gymcount](https://github.com/masloord/wdi-project-2)
-|4              | [Ian](https://github.com/iancwe) |[Queries](https://github.com/iancwe/wdi-project-1-iancwe.git)| [Scratch](https://github.com/iancwe/Scratch) | [Parlay](https://github.com/iancwe/parlay)
-|               | [Cara](https://github.com/smilesandcocktails) |[The Chill Word Game](https://github.com/smilesandcocktails/wdi-project-1-smilesandcocktails.git)| [TABChecker](https://github.com/smilesandcocktails/tabchecker) | [TouchType](https://github.com/smilesandcocktails/touchtype)
-|              | [Vikas](https://github.com/vikasgarg1)| [Vikas' Tetris Game](https://github.com/vikasgarg1/wdi-project-1-vikasgarg1.git)|[Famous Chef Recipes](https://github.com/vikasgarg1/wdiproject2new) | [Portfolio](https://github.com/vikasgarg1/wdi-project4-portfolio)
-|               | [Bao Ling](https://github.com/cocokoh) | [PoohOut](https://github.com/cocokoh/wdi-project-1-cocokoh.git) |[project 2](https://github.com/cocokoh/Project-Two) | [Travels](https://gitHub.com/cocokoh/travels.git)
-|5              | [Maria](https://github.com/hexhex23)| [Ring of Fire](https://github.com/hexhex23/wdi-project-1-hexhex23.git) |[Merlion Learns to Code](https://github.com/hexhex23/bootcamp) | [Bro-sure](https://github.com/dorkblue/wdi-project-4-backend-hexhex )
-|               | [Robin](https://github.com/cwxr) | [Matchie](https://github.com/cwxr/wdi-project-1-cwxr.git) |[INS Hub](https://github.com/cwxr/wdi-project-2.git) | [Sell True](https://github.com/cwxr/project_4.git)
-|              | [Mohamed Arif](https://github.com/ayepRahman)| [NyanNyanCat](https://github.com/ayepRahman/NyanNyanCat-V.1) | [GaView](https://github.com/ayepRahman/GaView) | [my-portfolio](https://github.com/ayepRahman/Arif-Rahman-PortFolio)
-|               | [Felix](https://github.com/pegasolta) | [Project 1](https://github.com/Pegasolta/wdi-project-1-Pegasolta.git) |[Anywhr Backend](https://github.com/Pegasolta/wdiproject2)
+|1      | [Azmeer](https://github.com/merejarvis) | | | |
+|2      | [Brian](https://github.com/bleetdh) | | | |
+|3      | [Daniel](https://github.com/ddanielnp) | | | |
+|4      | [Dominic](https://github.com/DominikPhua) | | | |
+|5      | [Jer Kwang](https://github.com/kepler62f) | | | |
+|6      | [Jocelyn](https://github.com/dreamz89) | | | |
+|7      | [Michelle](https://github.com/mmmlll) | | | |
+|8      | [Nawas](https://github.com/king-of-flab) | | | |
+|9      | [Rebecca](https://github.com/rebeccatay92) | | | |
+|10     | [Shumin](https://github.com/shumin13) | | | |
+|11     | [Wanzhen](https://github.com/thecodingdog) | | | |
+|12     | [William](https://github.com/merejarvis) | | | |
+|13     | [Yang Theng](https://github.com/yangtheng) | | | |
+|14     | [Azmeer](https://github.com/merejarvis) | | | |
+|15     | [Azmeer](https://github.com/merejarvis) | | | |
+|16     | [Azmeer](https://github.com/merejarvis) | | | |
+|17     | [Azmeer](https://github.com/merejarvis) | | | |
+|18     | [Azmeer](https://github.com/merejarvis) | | | |
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
