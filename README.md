@@ -589,20 +589,20 @@ Once your project is complete, you will have to work as a group to write a [Post
 |2      | [Brian](https://github.com/bleetdh) | | | |
 |3      | [Daniel](https://github.com/ddanielnp) | | | |
 |4      | [Dominic](https://github.com/DominikPhua) | | | |
-|5      | [Jer Kwang](https://github.com/kepler62f) | | | |
-|6      | [Jocelyn](https://github.com/dreamz89) | | | |
-|7      | [Michelle](https://github.com/mmmlll) | | | |
-|8      | [Nawas](https://github.com/king-of-flab) | | | |
-|9      | [Rebecca](https://github.com/rebeccatay92) | | | |
-|10     | [Shumin](https://github.com/shumin13) | | | |
-|11     | [Wanzhen](https://github.com/thecodingdog) | | | |
-|12     | [William](https://github.com/merejarvis) | | | |
-|13     | [Yang Theng](https://github.com/yangtheng) | | | |
-|14     | [Azmeer](https://github.com/merejarvis) | | | |
-|15     | [Azmeer](https://github.com/merejarvis) | | | |
-|16     | [Azmeer](https://github.com/merejarvis) | | | |
-|17     | [Azmeer](https://github.com/merejarvis) | | | |
-|18     | [Azmeer](https://github.com/merejarvis) | | | |
+|5      | [Ernest](https://github.com/evilernie1985) | | | |
+|6      | [Jerald](https://github.com/karl-x) | | | |
+|7      | [Jer Kwang](https://github.com/kepler62f) | | | |
+|8      | [Jocelyn](https://github.com/dreamz89) | | | |
+|9      | [Michelle](https://github.com/mmmlll) | | | |
+|10     | [Nawas](https://github.com/king-of-flab) | | | |
+|11     | [Neo](https://github.com/NeoMH91) | | | |
+|12     | [Nicholas](https://github.com/nicoalee) | | | |
+|13     | [Rebecca](https://github.com/rebeccatay92) | | | |
+|14     | [Shaun](https://github.com/shaunloh89) | | | |
+|15     | [Shumin](https://github.com/shumin13) | | | |
+|16     | [Wanzhen](https://github.com/thecodingdog) | | | |
+|17     | [William](https://github.com/subutai1175) | | | |
+|18     | [Yang Theng](https://github.com/yangtheng) | | | ||
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
