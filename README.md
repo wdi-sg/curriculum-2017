@@ -38,12 +38,11 @@ The typically daily format is as follows.
 
 
 ### Unit 1: Front End Development
-_March 13th - March 31st_
+_June 19th - June 30th_
 
 Unit 1 is all about showing the humble beginnings of the web and introducing students to foundational programming concepts that we'll use for the entire rest of the course.
 
 #### Week 1
-_June 19th - July 7th_
 
 | Topic                              | Assignments
 | ---                                | ---             
@@ -54,21 +53,17 @@ _June 19th - July 7th_
 |                                    | [Google Shopping][1002]              |
 |                                    | [Google Shopping Functions][1006]    |
 | [JS Callbacks & Iterators][12]     | [Iterators Lab][1011]                |
-| [OOP in JavaScript][19]            | [Prototype Body Shop][1020]          |
 | [JavaScript Inheritance][22]       | [Prototype Body Shop 2][1021]        |
 | [Intro to Agile & Testing][18]     | [Tic Tac Tester Mini Project][1030]  |
 
 
 #### Week 2
-_March 20th - March 24th_
 
 | Topic                              | Assignments                          |
 | ---                                | ---                                  |
 | [Intro to Git/Github][3]           | [Learn Git News Room Style][1026]    |
 | [DOM][1037]                        | [DOM and Events][1037]               |
 |                                    | [DOM Manipulation][1038]             |
-| [Intro to jQuery][13]              | [jQuery Intro Quiz][1033]            |
-|                                    | [Bonus: Animated Clock][1036]        |
 |                                    | [Tic Tac Toe Revisited][1035]        |
 |                                    | [Fellowship of the DOM][1031]        |
 |                                    | [Bonus: Temperature Converter][1009] |
@@ -86,7 +81,7 @@ _March 20th - March 24th_
 
 
 #### Week 3 - Project 1
-_March 27th - March 31st_
+_July 3rd - July 7th_
 
 Carefully Read the [Project 1 Specification here][1022].
 
@@ -117,40 +112,18 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 - [Kitchen Sink][5509]
 - [Custom Iterators][5510]
 
-<!--
-###### Submissions
-- [wdi-project-1-darrelltzj](https://wdi-sg.github.io/wdi-project-1-darrelltzj)
-- [wdi-project-1-vikasgarg1](https://wdi-sg.github.io/wdi-project-1-vikasgarg1)
-- [wdi-project-1-masloord](https://wdi-sg.github.io/wdi-project-1-masloord)
-- [wdi-project-1-dorkblue](https://wdi-sg.github.io/wdi-project-1-dorkblue)
-- [wdi-project-1-iancwe](https://wdi-sg.github.io/wdi-project-1-iancwe)
-- [wdi-project-1-lackdaz](https://wdi-sg.github.io/wdi-project-1-lackdaz)
-- [wdi-project-1-ijmeister](https://wdi-sg.github.io/wdi-project-1-ijmeister)
-- [wdi-project-1-hexhex23](https://wdi-sg.github.io/wdi-project-1-hexhex23)
-- [wdi-project-1-cocokoh](https://wdi-sg.github.io/wdi-project-1-cocokoh)
-- [wdi-project-1-smilesandcocktails](https://wdi-sg.github.io/wdi-project-1-smilesandcocktails)
-- [wdi-project-1-imouto2005](https://wdi-sg.github.io/wdi-project-1-imouto2005)
-- [wdi-project-1-noll-fyra](https://wdi-sg.github.io/wdi-project-1-noll-fyra)
-- [wdi-project-1-Pegasolta](https://wdi-sg.github.io/wdi-project-1-Pegasolta)
-- [wdi-project-1-shirongfoo](https://wdi-sg.github.io/wdi-project-1-shirongfoo)
-- [wdi-project-1-jerel-lim](https://wdi-sg.github.io/wdi-project-1-jerel-lim)
-- [wdi-project-1-DarkArtistry](https://wdi-sg.github.io/wdi-project-1-DarkArtistry)
-- [wdi-project-1-cwxr](https://wdi-sg.github.io/wdi-project-1-cwxr)
-- [wdi-project-1-ayepRahman](https://wdi-sg.github.io/wdi-project-1-ayepRahman)
-- [wdi-project-1-iancwe](https://wdi-sg.github.io/wdi-project-1-iancwe)
--->
-
-<!--
 ### Unit 2: Node/Express
-_April 3rd - April 21st_
+_July 10th - July 14th_
 
 Unit 2 is about introducing server side development. Specifically, we focus on Node.js, Express & MongoDB. It is also a chance to solidify JavaScript fundamentals and dive deep into programming concepts like CRUD and MVC.
 
 #### Week 4
-_April 3rd - April 7th_
 
 | Topic                                       | Assignments                    |
 | ---                                         | ---                            |
+| [Intro to jQuery][13]                       | [jQuery Intro Quiz][1033]      |
+|                                             | [Bonus: Animated Clock][1036]  |
+| [OOP in JavaScript][19]                     | [Prototype Body Shop][1020]    |
 | [JS Review & Scopes][21]                    | [Technical Documentation][25]  |
 | [Intro to Node & NPM][119]                  |                                |
 | Intro to CRUD & MVC                         |                                |
@@ -163,7 +136,6 @@ _April 3rd - April 7th_
 | [Express Testing with Mocha and Chai][112]  | [Mocha TODO List][1117]        |
 
 #### Week 5
-_April 10th - April 14th_
 
 We'll dig into modeling more complex relationships in Mongo & Mongoose and we'll also look into adding user authentication to our apps.
 
@@ -186,10 +158,9 @@ We'll dig into modeling more complex relationships in Mongo & Mongoose and we'll
 | [oAuth (Sequelize)][115]              |
 
 #### Week 6 - Project 2
-_April 14th - April 21st_
+_July 24th - July 28th_
 
 Carefully Read the [Project 2 Specification here][1106].
--->
 
 <!--
 ### Unit 3: Ruby on Rails
