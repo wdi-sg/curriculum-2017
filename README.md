@@ -319,7 +319,7 @@ Once your project is complete, you will have to work as a group to write a [Post
 [5505]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/scrabble.html
 [5506]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/array-practice-1.html
 [5507]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/array-practice-2.html
-[5508]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/random-quote-generator.html
+[5508]: https://github.com/wdi-sg/random-quote-generator
 [5509]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/kitchen-sink.html
 [5510]: https://jeremiahalex.gitbooks.io/wdi-sg/content/13-warm-ups/custom-iterators.html
 <!-- Computer Science Section 56xx -->
