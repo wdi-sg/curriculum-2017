@@ -585,24 +585,23 @@ Once your project is complete, you will have to work as a group to write a [Post
 
 | Group | Student |Project 1 Repo | Project 2 Repo | Project 4 Repo
 |---    | ---     | ---   |---   |---   
-|1      | [Azmeer](https://github.com/merejarvis) | | | |
-|2      | [Brian](https://github.com/bleetdh) | | | |
-|3      | [Daniel](https://github.com/ddanielnp) | | | |
-|4      | [Dominic](https://github.com/DominikPhua) | | | |
-|5      | [Ernest](https://github.com/evilernie1985) | | | |
-|6      | [Jerald](https://github.com/karl-x) | | | |
-|7      | [Jer Kwang](https://github.com/kepler62f) | | | |
-|8      | [Jocelyn](https://github.com/dreamz89) | | | |
-|9      | [Michelle](https://github.com/mmmlll) | | | |
-|10     | [Nawas](https://github.com/king-of-flab) | | | |
-|11     | [Neo](https://github.com/NeoMH91) | | | |
-|12     | [Nicholas](https://github.com/nicoalee) | | | |
-|13     | [Rebecca](https://github.com/rebeccatay92) | | | |
-|14     | [Shaun](https://github.com/shaunloh89) | | | |
-|15     | [Shumin](https://github.com/shumin13) | | | |
-|16     | [Wanzhen](https://github.com/thecodingdog) | | | |
-|17     | [William](https://github.com/subutai1175) | | | |
-|18     | [Yang Theng](https://github.com/yangtheng) | | | ||
+|1      | [Azmeer](https://github.com/merejarvis) | [nineString](https://merejarvis.github.io/project-1/) | | |
+|2      | [Brian](https://github.com/bleetdh) | [Ironman Academy](https://bleetdh.github.io/project-1/)| | |
+|3      | [Daniel](https://github.com/ddanielnp) |[Burger Stack-it](https://ddanielnp.github.io/project-1/) | | |
+|4      | [Dominic](https://github.com/DominikPhua) | [Cat-Tile Game](https://dominikphua.github.io/project-1-attempt2/)| | |
+|5      | [Ernest](https://github.com/evilernie1985) | [Are You Smarter Than A Nth Grader](https://evilernie1985.github.io/project-1/)| | |
+|6      | [Jerald](https://github.com/karl-x) |[The Bouncy Bunny](https://karl-x.github.io/project-1/) | | |
+|7      | [Jer Kwang](https://github.com/kepler62f) |[Simplified UNO! for 2](https://kepler62f.github.io/project-1/assets/) | | |
+|8      | [Jocelyn](https://github.com/dreamz89) | [Under The Sea](https://dreamz89.github.io/project-1/)| | |
+|9      | [Michelle](https://github.com/mmmlll) |[Stockbet Game](https://mmmlll.github.io/p1_stockbet/) | | |
+|10     | [Nawas](https://github.com/king-of-flab) |[Colorbrate](https://king-of-flab.github.io/project-1/) | | |
+|11     | [Neo](https://github.com/NeoMH91) | [Blackjack](https://neomh91.github.io/project-1/)| | |
+|12     | [Nicholas](https://github.com/nicoalee) |[Collision](https://nicoalee.github.io/project-1/) | | |
+|13     | [Rebecca](https://github.com/rebeccatay92) |[Build-a-Burger](https://rebeccatay92.github.io/project-1/) | | |
+|14     | [Shaun](https://github.com/shaunloh89) | [Eyepowah](https://shaunloh89.github.io/project-1/)| | |
+|15     | [Shumin](https://github.com/shumin13) |[Simple Pac-Man](https://shumin13.github.io/project-1/) | | |
+|16     | [Wanzhen](https://github.com/thecodingdog) | [Connect the Pipes](https://thecodingdog.github.io/project-1/)| | |
+|17     | [Yang Theng](https://github.com/yangtheng) |[Typing Madness](https://yangtheng.github.io/project-1/) | | ||
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
