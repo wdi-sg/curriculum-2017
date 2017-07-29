@@ -162,14 +162,11 @@ _July 24th - July 28th_
 
 Carefully Read the [Project 2 Specification here][1106].
 
-<!--
 ### Unit 3: Ruby on Rails
-_April 24th - May 12th_
 
 Unit 3 is about taking your server-side development skills to the next level. We'll learn Ruby on Rails and use it to build more sophisticated and scalable Apps. We'll cover relational databases using Postgres and SQL. We'll also cover effective team work and collaboration using Git.
 
 #### Week 7
-_April 24th - April 28th_
 
 | Topic | Assignments |
 | ----- | ----------- |
@@ -183,7 +180,6 @@ _April 24th - April 28th_
 | [Rails Asset Pipeline][207] & [SASS][217] | [National Parks Part 2][1211] | |
 
 #### Week 8
-_May 1st - May 5th_
 
 | Topic | Assignments
 | ---  | ---      
@@ -209,7 +205,7 @@ _May 1st - May 5th_
 | [Data Scraping with Nokogiri][216] |
 
 #### Week 9 - Project 3
-_May 8th - May 12th_
+_Aug 14th - Aug 18th_
 
 Carefully Read the [Project 3 Specification here][1200].
 
@@ -217,7 +213,6 @@ To start your project, one of your team will need to [Fork this Project Reposito
 
 Carefully Read the [Instructions in the Gitbook][1123]
 for Submission and presentation preparation.
--->
 
 <!--
 ##### Teams
