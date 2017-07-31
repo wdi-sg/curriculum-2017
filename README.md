@@ -556,22 +556,22 @@ Once your project is complete, you will have to work as a group to write a [Post
 
 | Group | Student |Project 1 Repo | Project 2 Repo | Project 4 Repo
 |---    | ---     | ---   |---   |---   
-|1      | [Azmeer](https://github.com/merejarvis) | [nineString](https://github.com/merejarvis/project-1) | | |
-|2      | [Brian](https://github.com/bleetdh) | [Ironman Academy](https://github.com/bleetdh/project-1/)| | |
-|3      | [Daniel](https://github.com/ddanielnp) |[Burger Stack-it](https://github.com/ddanielnp/project-1/) | | |
-|4      | [Dominic](https://github.com/DominikPhua) | [Cat-Tile Game](https://github.com/dominikphua/project-1-attempt2/)| | |
-|5      | [Ernest](https://github.com/evilernie1985) | [Are You Smarter Than A Nth Grader](https://github.com/evilernie1985/project-1/)| | |
-|6      | [Jerald](https://github.com/karl-x) |[The Bouncy Bunny](https://github.com/karl-x/project-1/) | | |
-|7      | [Jer Kwang](https://github.com/kepler62f) |[Simplified UNO! for 2](https://github.com/kepler62f/project-1/) | | |
-|8      | [Jocelyn](https://github.com/dreamz89) | [Under The Sea](https://github.com/dreamz89/project-1/)| | |
+|1      | [Azmeer](https://github.com/merejarvis) | [nineString](https://github.com/merejarvis/project-1) | [The MEAN](https://github.com/merejarvis/project-2) | |
+|2      | [Brian](https://github.com/bleetdh) | [Ironman Academy](https://github.com/bleetdh/project-1/)| [Park Where Sia!?](https://github.com/bleetdh/project-2)| |
+|3      | [Daniel](https://github.com/ddanielnp) |[Burger Stack-it](https://github.com/ddanielnp/project-1/) | [PersonlTrainr](https://github.com/ddanielnp/project-2)| |
+|4      | [Dominic](https://github.com/DominikPhua) | [Cat-Tile Game](https://github.com/dominikphua/project-1-attempt2/)| [Show List](https://github.com/DominikPhua/project-2-new)| |
+|5      | [Ernest](https://github.com/evilernie1985) | [Are You Smarter Than A Nth Grader](https://github.com/evilernie1985/project-1/)|[Star Gazer](https://github.com/evilernie1985/project-2) | |
+|6      | [Jerald](https://github.com/karl-x) |[The Bouncy Bunny](https://github.com/karl-x/project-1/) |[Eventory](https://github.com/karl-x/project-2) | |
+|7      | [Jer Kwang](https://github.com/kepler62f) |[Simplified UNO! for 2](https://github.com/kepler62f/project-1/) |[ETF Allocator Beta](https://github.com/kepler62f/project-2) | |
+|8      | [Jocelyn](https://github.com/dreamz89) | [Under The Sea](https://github.com/dreamz89/project-1/)|[Vacays](https://github.com/dreamz89/project-2) | |
 |9      | [Michelle](https://github.com/mmmlll) |[Stockbet Game](https://github.com/mmmlll/p1_stockbet/) | | |
-|10     | [Nawas](https://github.com/king-of-flab) |[Colorbrate](https://github.com/king-of-flab/project-1/) | | |
-|11     | [Nicholas](https://github.com/nicoalee) |[Collision](https://github.com/nicoalee/project-1/) | | |
-|12     | [Rebecca](https://github.com/rebeccatay92) |[Build-a-Burger](https://github.com/rebeccatay92/project-1/) | | |
-|13     | [Shaun](https://github.com/shaunloh89) | [Eyepowah](https://github.com/shaunloh89/project-1/)| | |
-|14     | [Shumin](https://github.com/shumin13) |[Simple Pac-Man](https://github.com/shumin13/project-1/) | | |
-|15     | [Wanzhen](https://github.com/thecodingdog) | [Connect the Pipes](https://github.com/thecodingdog/project-1/)| | |
-|16     | [Yang Theng](https://github.com/yangtheng) |[Typing Madness](https://github.com/yangtheng/project-1/) | | ||
+|10     | [Nawas](https://github.com/king-of-flab) |[Colorbrate](https://github.com/king-of-flab/project-1/) | [teachSync](https://github.com/king-of-flab/project-2)| |
+|11     | [Nicholas](https://github.com/nicoalee) |[Collision](https://github.com/nicoalee/project-1/) | [Muzik](https://github.com/nicoalee/project-2) | |
+|12     | [Rebecca](https://github.com/rebeccatay92) |[Build-a-Burger](https://github.com/rebeccatay92/project-1/) |[Magic Mango](https://github.com/rebeccatay92/project-2) | |
+|13     | [Shaun](https://github.com/shaunloh89) | [Eyepowah](https://github.com/shaunloh89/project-1/)| [Memento](https://github.com/shaunloh89/project-2)| |
+|14     | [Shumin](https://github.com/shumin13) |[Simple Pac-Man](https://github.com/shumin13/project-1/) |[Makan Apa](https://github.com/shumin13/project-2) | |
+|15     | [Wanzhen](https://github.com/thecodingdog) | [Connect the Pipes](https://github.com/thecodingdog/project-1/)|[Care-lo-ries](https://github.com/thecodingdog/project-2) | |
+|16     | [Yang Theng](https://github.com/yangtheng) |[Typing Madness](https://github.com/yangtheng/project-1/) |[Tripanzee](https://github.com/yangtheng/project-2) | ||
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
