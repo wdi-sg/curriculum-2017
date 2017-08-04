@@ -559,7 +559,7 @@ Once your project is complete, you will have to work as a group to write a [Post
 |6      | [Jerald](https://github.com/karl-x) |[The Bouncy Bunny](https://github.com/karl-x/project-1/) |[Eventory](https://github.com/karl-x/project-2) | |
 |7      | [Jer Kwang](https://github.com/kepler62f) |[Simplified UNO! for 2](https://github.com/kepler62f/project-1/) |[ETF Allocator Beta](https://github.com/kepler62f/project-2) | |
 |8      | [Jocelyn](https://github.com/dreamz89) | [Under The Sea](https://github.com/dreamz89/project-1/)|[Vacays](https://github.com/dreamz89/project-2) | |
-|9      | [Michelle](https://github.com/mmmlll) |[Stockbet Game](https://github.com/mmmlll/p1_stockbet/) | | |
+|9      | [Michelle](https://github.com/mmmlll) |[Stockbet Game](https://github.com/mmmlll/p1_stockbet/) | [MatchApp](https://github.com/mmmlll/project-2)| |
 |10     | [Nawas](https://github.com/king-of-flab) |[Colorbrate](https://github.com/king-of-flab/project-1/) | [teachSync](https://github.com/king-of-flab/project-2)| |
 |11     | [Nicholas](https://github.com/nicoalee) |[Collision](https://github.com/nicoalee/project-1/) | [Muzik](https://github.com/nicoalee/project-2) | |
 |12     | [Rebecca](https://github.com/rebeccatay92) |[Build-a-Burger](https://github.com/rebeccatay92/project-1/) |[Magic Mango](https://github.com/rebeccatay92/project-2) | |
