@@ -554,7 +554,7 @@ Once your project is complete, you will have to work as a group to write a [Post
 |1      | [Azmeer](https://github.com/merejarvis) | [nineString](https://github.com/merejarvis/project-1) | [The MEAN](https://github.com/merejarvis/project-2) | |
 |2      | [Brian](https://github.com/bleetdh) | [Ironman Academy](https://github.com/bleetdh/project-1/)| [Park Where Sia!?](https://github.com/bleetdh/project-2)| |
 |3      | [Daniel](https://github.com/ddanielnp) |[Burger Stack-it](https://github.com/ddanielnp/project-1/) | [PersonlTrainr](https://github.com/ddanielnp/project-2)| |
-|4      | [Dominic](https://github.com/DominikPhua) | [Cat-Tile Game](https://github.com/dominikphua/project-1-attempt2/)| [Show List](https://github.com/DominikPhua/project-2-new)| |
+|4      | [Dominic](https://github.com/DominikPhua) | [Cat-Tile Game](https://github.com/dominikphua/project-1-attempt2/)| [Show List](https://github.com/DominikPhua/project-2)| |
 |5      | [Ernest](https://github.com/evilernie1985) | [Are You Smarter Than A Nth Grader](https://github.com/evilernie1985/project-1/)|[Star Gazer](https://github.com/evilernie1985/project-2) | |
 |6      | [Jerald](https://github.com/karl-x) |[The Bouncy Bunny](https://github.com/karl-x/project-1/) |[Eventory](https://github.com/karl-x/project-2) | |
 |7      | [Jer Kwang](https://github.com/kepler62f) |[Simplified UNO! for 2](https://github.com/kepler62f/project-1/) |[ETF Allocator Beta](https://github.com/kepler62f/project-2) | |
