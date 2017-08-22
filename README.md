@@ -255,9 +255,9 @@ Once your project is complete, you will have to work as a group to write a [Post
 | [Custom Directives][320] | [Creating Directives][1314] |
 -->
 
-<!--
+
 ### Unit 4: Front-end Frameworks
-###ReactJS
+### ReactJS
 
 | Topic | Assignments |
 | ----- | ----------- |
@@ -266,14 +266,11 @@ Once your project is complete, you will have to work as a group to write a [Post
 | [React Router][330] <br><br> [Starter Code][331] | [React Yearbook][1317] |
 | [React Animations][332] <br><br> | |
 
-<!--
+
 | Projects and Additional Topics |
 | -------- |
 | [Project 4][1304] |
 
--->
-
-<!--
 ### Computer Science Topics
 
 | Topic                       | Readings                            | Assignments                 |
@@ -289,9 +286,8 @@ Once your project is complete, you will have to work as a group to write a [Post
 |                             |                                     | [Bubble Sort][5613]         |
 |                             |                                     | [Merge Sort][5614]          |
 |                             |                                     | [Quick Sort][5615]          |
-|                             |                                     | [Sorting Wrap up][5616]      |
+|                             |                                     | [Sorting Wrap up][5616]     |
 | Memory                      | [Memory][5617]                      |                             |
--->
 
 <!-- References for Additional Materials Section 5xxx -->
 <!-- Unit 1 Online Materials 51xx -->
