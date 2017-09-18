@@ -550,30 +550,30 @@ Once your project is complete, you will have to work as a group to write a [Post
 
 #### Students
 
-| Group | Student |Project 1 Repo | Project 2 Repo |
-|---    | ---     | ---   |---   |  
-|1      | [Charmaine](https://github.com/charlimxm) | | |
-|2      | [Chong Qiang](https://github.com/cqdotcom) | | |
-|3      | [Gabriel](https://github.com/imjustlooking) | | |
-|4      | [Grace](https://github.com/g174) | | |
-|5      | [Hazel](https://github.com/heyzernut) | | |
-|6      | [Hui Shi](https://github.com/pehhuishi) | | |
-|7      | [Jieying](https://github.com/thamjieying) | | |
-|8      | [Joseph](https://github.com/josephpung) | | |
-|9      | [Li Yuan](https://github.com/liyuan23) | | |
-|10     | [Matthew](https://github.com/matthewfrancisong) | | |
-|11     | [Ming Yi](https://github.com/mingyikoh) | | |
-|12     | [Nikita](https://github.com/nikitas89) | | |
-|13     | [Nur Hidayah](https://github.com/noobnur) | | |
-|14     | [Persis](https://github.com/persisn) | | |
-|15     | [Ray](https://github.com/raywtham) | | |
-|16     | [Shui](https://github.com/sillyadventures) | | |
-|17     | [Si Ya](https://github.com/siya-ng) | | |
-|18     | [Soe Min](https://github.com/soemn) | | |
-|19     | [Wei Jie](https://github.com/tokwj) | | |
-|20     | [William](https://github.com/subutai1175) | | |
-|21     | [Yuki](https://github.com/yukitsuboniwa) | | |
-|22     | [Zheng Yu](https://github.com/koozy0) | | | |
+| No. | Student |Project 1 Repo | Project 2 Repo |
+|---  | ---     | ---           |---             |  
+|1    | [Charmaine](https://github.com/charlimxm) | | |
+|2    | [Chong Qiang](https://github.com/cqdotcom) | | |
+|3    | [Gabriel](https://github.com/imjustlooking) | | |
+|4    | [Grace](https://github.com/g174) | | |
+|5    | [Hazel](https://github.com/heyzernut) | | |
+|6    | [Hui Shi](https://github.com/pehhuishi) | | |
+|7    | [Jieying](https://github.com/thamjieying) | | |
+|8    | [Joseph](https://github.com/josephpung) | | |
+|9    | [Li Yuan](https://github.com/liyuan23) | | |
+|10   | [Matthew](https://github.com/matthewfrancisong) | | |
+|11   | [Ming Yi](https://github.com/mingyikoh) | | |
+|12   | [Nikita](https://github.com/nikitas89) | | |
+|13   | [Nur Hidayah](https://github.com/noobnur) | | |
+|14   | [Persis](https://github.com/persisn) | | |
+|15   | [Ray](https://github.com/raywtham) | | |
+|16   | [Shui](https://github.com/sillyadventures) | | |
+|17   | [Si Ya](https://github.com/siya-ng) | | |
+|18   | [Soe Min](https://github.com/soemn) | | |
+|19   | [Wei Jie](https://github.com/tokwj) | | |
+|20   | [William](https://github.com/subutai1175) | | |
+|21   | [Yuki](https://github.com/yukitsuboniwa) | | |
+|22   | [Zheng Yu](https://github.com/koozy0) | | | |
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
