@@ -1,12 +1,12 @@
 ![GA Logo](./_assets/ga_cog.png)
-# WDI 11
-Welcome to WDI 11. This repository contains information and materials specific to your course.
+# WDI 12
+Welcome to WDI 12. This repository contains information and materials specific to your course.
 
 # Important links
 - [Class Slack](https://ga-students.slack.com/)
 - [Gitbook](https://jeremiahalex.gitbooks.io/wdi-sg)
 - [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSdHA9w9vY7uXf19vrVk6K5VfjHE-76SH-UYsERVDwXg_8LsjQ/viewform)
-- [Padlet](https://padlet.com/prima2/jrxzmc52s1t8#)
+- [Padlet](https://padlet.com/prima2/wm5q9bccly2q)
 - [WDI Mindmap](https://coggle.it/diagram/V95gwA7atZoJ3a52)
 - [Flowchart Maker](https://code2flow.com/)
 
@@ -14,10 +14,13 @@ Welcome to WDI 11. This repository contains information and materials specific t
 ## Instructional Team
 - **Prima Aulia Gusta** (Lead Instructor)
   - [prima@generalassemb.ly ](mailto:prima@generalassemb.ly)
-  - Weekday Office Hour: 9am - 5pm (Offline) / 5pm - 8pm (Online)
-- **Wong Shimei** (Facilitator)
-  - [wshimei@gmail.com](mailto:wshimei@gmail.com)
-  - Weekday Office Hour: 9am - 6pm (Offline) / 8pm - 11pm (Online)
+  - Weekday Office Hours: 9am - 5pm (Offline) / 5pm - 8pm (Online)
+- **Alex Min** (Facilitator)
+  - [m98stone@gmail.com](mailto:m98stone@gmail.com)
+  - Weekday Office Hours: 9am - 6pm (Offline) / 8pm - 11pm (Online)
+- **Shumin** (Facilitator)
+  - [ms.huang.shumin@gmail.com](mailto:ms.huang.shumin@gmail.com)
+  - Weekday Office Hours: 9am - 6pm (Offline) / 8pm - 11pm (Online)
 
 ## Github
 We use Github for source code management. Every student will need an account, with all projects and assignments stored there. [See appendix](#github-links) for the full list.
@@ -38,7 +41,7 @@ The typically daily format is as follows.
 
 
 ### Unit 1: Front End Development
-_June 19th - June 30th_
+_September 18th - September 29th_
 
 Unit 1 is all about showing the humble beginnings of the web and introducing students to foundational programming concepts that we'll use for the entire rest of the course.
 
@@ -81,7 +84,7 @@ Unit 1 is all about showing the humble beginnings of the web and introducing stu
 
 
 #### Week 3 - Project 1
-_July 3rd - July 7th_
+_October 2nd - October 6th_
 
 Carefully Read the [Project 1 Specification here][1022].
 
@@ -113,7 +116,7 @@ A warm up a day keeps the bugs at bay. You can work on these practice questions 
 - [Custom Iterators][5510]
 
 ### Unit 2: Node/Express
-_July 10th - July 14th_
+_October 9th - October 20th_
 
 Unit 2 is about introducing server side development. Specifically, we focus on Node.js, Express & MongoDB. It is also a chance to solidify JavaScript fundamentals and dive deep into programming concepts like CRUD and MVC.
 
@@ -158,11 +161,12 @@ We'll dig into modeling more complex relationships in Mongo & Mongoose and we'll
 | [oAuth (Sequelize)][115]              |
 
 #### Week 6 - Project 2
-_July 24th - July 28th_
+_October 23rd - October 27th_
 
 Carefully Read the [Project 2 Specification here][1106].
 
 ### Unit 3: Ruby on Rails
+_October 30th - November 10th_
 
 Unit 3 is about taking your server-side development skills to the next level. We'll learn Ruby on Rails and use it to build more sophisticated and scalable Apps. We'll cover relational databases using Postgres and SQL. We'll also cover effective team work and collaboration using Git.
 
@@ -205,7 +209,7 @@ Unit 3 is about taking your server-side development skills to the next level. We
 | [Data Scraping with Nokogiri][216] |
 
 #### Week 9 - Project 3
-_Aug 14th - Aug 18th_
+_November 13th - November 17th_
 
 Carefully Read the [Project 3 Specification here][1200].
 
@@ -537,32 +541,39 @@ Once your project is complete, you will have to work as a group to write a [Post
 ---
 
 ## Github-links
-[back to top](#wdi-11)
+[back to top](#wdi-12)
 
 #### Instructional Team
 - [Prima](https://github.com/primaulia)
-- [Shimei](https://github.com/wshimei)
+- [Alex](https://github.com/alexmin314)
+- [Shumin](https://github.com/shumin13)
 
 #### Students
 
 | Group | Student |Project 1 Repo | Project 2 Repo | Project 4 Repo
 |---    | ---     | ---   |---   |---   
-|1      | [Azmeer](https://github.com/merejarvis) | [nineString](https://github.com/merejarvis/project-1) | [The MEAN](https://github.com/merejarvis/project-2) | |
-|2      | [Brian](https://github.com/bleetdh) | [Ironman Academy](https://github.com/bleetdh/project-1/)| [Park Where Sia!?](https://github.com/bleetdh/project-2)| |
-|3      | [Daniel](https://github.com/ddanielnp) |[Burger Stack-it](https://github.com/ddanielnp/project-1/) | [PersonlTrainr](https://github.com/ddanielnp/project-2)| |
-|4      | [Dominic](https://github.com/DominikPhua) | [Cat-Tile Game](https://github.com/dominikphua/project-1-attempt2/)| [Show List](https://github.com/DominikPhua/project-2)| |
-|5      | [Ernest](https://github.com/evilernie1985) | [Are You Smarter Than A Nth Grader](https://github.com/evilernie1985/project-1/)|[Star Gazer](https://github.com/evilernie1985/project-2) | |
-|6      | [Jerald](https://github.com/karl-x) |[The Bouncy Bunny](https://github.com/karl-x/project-1/) |[Eventory](https://github.com/karl-x/project-2) | |
-|7      | [Jer Kwang](https://github.com/kepler62f) |[Simplified UNO! for 2](https://github.com/kepler62f/project-1/) |[ETF Allocator Beta](https://github.com/kepler62f/project-2) | |
-|8      | [Jocelyn](https://github.com/dreamz89) | [Under The Sea](https://github.com/dreamz89/project-1/)|[Vacays](https://github.com/dreamz89/project-2) | |
-|9      | [Michelle](https://github.com/mmmlll) |[Stockbet Game](https://github.com/mmmlll/p1_stockbet/) | [MatchApp](https://github.com/mmmlll/project-2)| |
-|10     | [Nawas](https://github.com/king-of-flab) |[Colorbrate](https://github.com/king-of-flab/project-1/) | [teachSync](https://github.com/king-of-flab/project-2)| |
-|11     | [Nicholas](https://github.com/nicoalee) |[Collision](https://github.com/nicoalee/project-1/) | [Muzik](https://github.com/nicoalee/project-2) | |
-|12     | [Rebecca](https://github.com/rebeccatay92) |[Build-a-Burger](https://github.com/rebeccatay92/project-1/) |[Magic Mango](https://github.com/rebeccatay92/project-2) | |
-|13     | [Shaun](https://github.com/shaunloh89) | [Eyepowah](https://github.com/shaunloh89/project-1/)| [Memento](https://github.com/shaunloh89/project-2)| |
-|14     | [Shumin](https://github.com/shumin13) |[Simple Pac-Man](https://github.com/shumin13/project-1/) |[Makan Apa](https://github.com/shumin13/project-2) | |
-|15     | [Wanzhen](https://github.com/thecodingdog) | [Connect the Pipes](https://github.com/thecodingdog/project-1/)|[Care-lo-ries](https://github.com/thecodingdog/project-2) | |
-|16     | [Yang Theng](https://github.com/yangtheng) |[Typing Madness](https://github.com/yangtheng/project-1/) |[Tripanzee](https://github.com/yangtheng/project-2) | ||
+|1      | [Charmaine](https://github.com/charlimxm) | | | |
+|2      | [Chong Qiang](https://github.com/cqdotcom) | | | |
+|3      | [Gabriel](https://github.com/imjustlooking) | | | |
+|4      | [Grace](https://github.com/g174) | | | |
+|5      | [Hazel](https://github.com/heyzernut) | | | |
+|6      | [Hui Shi](https://github.com/pehhuishi) | | | |
+|7      | [Jieying](https://github.com/thamjieying) | | | |
+|8      | [Joseph](https://github.com/josephpung) | | | |
+|9      | [Li Yuan](https://github.com/liyuan23) | | | |
+|10     | [Matthew](https://github.com/matthewfrancisong) | | | |
+|11     | [Ming Yi](https://github.com/mingyikoh) | | | |
+|12     | [Nikita](https://github.com/nikitas89) | | | |
+|13     | [Nur Hidayah](https://github.com/noobnur) | | | |
+|14     | [Persis](https://github.com/persisn) | | | |
+|15     | [Ray](https://github.com/raywtham) | | | |
+|16     | [Shui](https://github.com/sillyadventures) | | | |
+|17     | [Si Ya](https://github.com/siya-ng) | | | |
+|18     | [Soe Min](https://github.com/soemn) | | | |
+|19     | [Wei Jie](https://github.com/tokwj) | | | |
+|20     | [William](https://github.com/subutai1175) | | | |
+|21     | [Yuki](https://github.com/yukitsuboniwa) | | | |
+|22     | [Zheng Yu](https://github.com/koozy0) | | | | |
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
