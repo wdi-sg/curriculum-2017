@@ -16,10 +16,10 @@ Welcome to WDI 12. This repository contains information and materials specific t
   - [prima@generalassemb.ly ](mailto:prima@generalassemb.ly)
   - Weekday Office Hours: 9am - 5pm (Offline) / 5pm - 8pm (Online)
 - **Alex** (Facilitator)
-  - [m98stone@gmail.com](mailto:m98stone@gmail.com)
+  - [alex.min@generalassemb.ly](mailto:	alex.min@generalassemb.ly)
   - Weekday Office Hours: 9am - 6pm (Offline) / 8pm - 11pm (Online)
 - **Shumin** (Facilitator)
-  - [ms.huang.shumin@gmail.com](mailto:ms.huang.shumin@gmail.com)
+  - [shumin@generalassemb.ly](mailto:	shumin@generalassemb.ly)
   - Weekday Office Hours: 9am - 6pm (Offline) / 8pm - 11pm (Online)
 
 ## Github
@@ -552,22 +552,22 @@ Once your project is complete, you will have to work as a group to write a [Post
 
 | No. | Student |Project 1 Repo | Project 2 Repo |
 |---  | ---     | ---           |---             |  
-|1    | [Charmaine](https://github.com/charlimxm) | [Help Halimah Make Yishun Better](https://github.com/charlimxm/project-1) | |
+|1    | [Charmaine](https://github.com/charlimxm) | [Help Halimah Make Yishun Great Again](https://github.com/charlimxm/project-1) | |
 |2    | [Chong Qiang](https://github.com/cqdotcom) | [Follow The Pattern](https://github.com/cqdotcom/project-1) | |
 |3    | [Gabriel](https://github.com/imjustlooking) | [On The Other Side](https://github.com/imjustlooking/project-1)  | |
 |4    | [Grace](https://github.com/g174) | [Guess The Picture: Countries](https://github.com/G174/project-1) | |
-|5    | [Hazel](https://github.com/heyzernut) | [Fluppy Bird Game](https://github.com/heyzernut/project-1) | |
+|5    | [Hazel](https://github.com/heyzernut) | [Flappy Bird Game](https://github.com/heyzernut/project-1) | |
 |6    | [Hui Shi](https://github.com/pehhuishi) | [Whack A Mole](https://github.com/pehhuishi/project-1) | |
 |7    | [Jieying](https://github.com/thamjieying) | [Mummy Maze](https://github.com/thamjieying/project-1) | |
-|8    | [Joseph](https://github.com/josephpung) | [Mob Killer](https://github.com/josephpung/project-1) | |
-|9    | [Li Yuan](https://github.com/liyuan23) | [Food Memory Game](https://github.com/liyuan23/project-1) | |
+|8    | [Joseph](https://github.com/josephpung) | [Maplestory XII](https://github.com/josephpung/project-1) | |
+|9    | [Li Yuan](https://github.com/liyuan23) | [Eat This](https://github.com/liyuan23/project-1) | |
 |10   | [Matthew](https://github.com/matthewfrancisong) | [Snake & Ladder](https://github.com/matthewfrancisong/project-1) | |
-|11   | [Ming Yi](https://github.com/mingyikoh) | [?](https://github.com/mingyikoh/project-1) | |
+|11   | [Ming Yi](https://github.com/mingyikoh) | [Tempo Shot](https://github.com/mingyikoh/project-1) | |
 |12   | [Nikita](https://github.com/nikitas89) | [Snakes and Ladders ](https://github.com/nikitas89/project-1) | |
 |13   | [Nur Hidayah](https://github.com/noobnur) | [The Price Is Right!](https://github.com/noobnur/project-1) | |
-|14   | [Persis](https://github.com/persisn) | [?](https://github.com/persisn/project-1) | |
-|15   | [Ray](https://github.com/raywtham) | [Cubix : The Matching Game](https://github.com/raywtham/project-1)  | |
-|16   | [Shui](https://github.com/sillyadventures) | [Diao Hua (Catching Flowers)](https://github.com/sillyadventures/project-1) | |
+|14   | [Persis](https://github.com/persisn) | [Ducky Trivia War](https://github.com/persisn/project-1) | |
+|15   | [Ray](https://github.com/raywtham) | [Cubix: The Matching Game](https://github.com/raywtham/project-1)  | |
+|16   | [Shui](https://github.com/sillyadventures) | [Star Power!](https://github.com/sillyadventures/project-1) | |
 |17   | [Si Ya](https://github.com/siya-ng) | [Sweet Tooth](https://github.com/siya-ng/project-1)  | |
 |18   | [Soe Min](https://github.com/soemn) | [Crops and Robbers](https://github.com/soemn/project-1) | |
 |19   | [William](https://github.com/subutai1175) | [N-Back Memory Game](https://github.com/subutai1175/project-1) | |
