@@ -16,10 +16,10 @@ Welcome to WDI 12. This repository contains information and materials specific t
   - [prima@generalassemb.ly ](mailto:prima@generalassemb.ly)
   - Weekday Office Hours: 9am - 5pm (Offline) / 5pm - 8pm (Online)
 - **Alex** (Facilitator)
-  - [alex.min@generalassemb.ly](mailto:	alex.min@generalassemb.ly)
+  - [alex.min@generalassemb.ly](mailto:alex.min@generalassemb.ly)
   - Weekday Office Hours: 9am - 6pm (Offline) / 8pm - 11pm (Online)
 - **Shumin** (Facilitator)
-  - [shumin@generalassemb.ly](mailto:	shumin@generalassemb.ly)
+  - [shumin@generalassemb.ly](mailto:shumin@generalassemb.ly)
   - Weekday Office Hours: 9am - 6pm (Offline) / 8pm - 11pm (Online)
 
 ## Github
