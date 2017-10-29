@@ -552,27 +552,27 @@ Once your project is complete, you will have to work as a group to write a [Post
 
 | No. | Student |Project 1 Repo | Project 2 Repo |
 |---  | ---     | ---           |---             |  
-|1    | [Charmaine](https://github.com/charlimxm) | [Help Halimah Make Yishun Great Again](https://github.com/charlimxm/project-1) | [](https://github.com/charlimxm/project-2) |
-|2    | [Chong Qiang](https://github.com/cqdotcom) | [Follow The Pattern](https://github.com/cqdotcom/project-1) | [](https://github.com/cqdotcom/project-2) |
-|3    | [Gabriel](https://github.com/imjustlooking) | [On The Other Side](https://github.com/imjustlooking/project-1) |  [](https://github.com/imjustlooking/project-2) |
-|4    | [Grace](https://github.com/g174) | [Guess The Picture: Countries](https://github.com/G174/project-1) | [](https://github.com/G174/project-2) |
-|5    | [Hazel](https://github.com/heyzernut) | [Flappy Bird Game](https://github.com/heyzernut/project-1) | [](https://github.com/heyzernut/project-2) |
-|6    | [Hui Shi](https://github.com/pehhuishi) | [Whack A Mole](https://github.com/pehhuishi/project-1) | [](https://github.com/pehhuishi/project-2) |
-|7    | [Jieying](https://github.com/thamjieying) | [Mummy Maze](https://github.com/thamjieying/project-1) | [](https://github.com/thamjieying/project-2) |
-|8    | [Joseph](https://github.com/josephpung) | [Maplestory XII](https://github.com/josephpung/project-1) | [](https://github.com/josephpung/project-2) |
-|9    | [Li Yuan](https://github.com/liyuan23) | [Eat This](https://github.com/liyuan23/project-1) | [](https://github.com/liyuan23/project-2) |
-|10   | [Matthew](https://github.com/matthewfrancisong) | [Snake & Ladder](https://github.com/matthewfrancisong/project-1) | [](https://github.com/matthewfrancisong/project-2) |
-|11   | [Ming Yi](https://github.com/mingyikoh) | [Tempo Shot](https://github.com/mingyikoh/project-1) | [](https://github.com/mingyikoh/project-2) |
-|12   | [Nikita](https://github.com/nikitas89) | [Snakes and Ladders ](https://github.com/nikitas89/project-1) | [](https://github.com/nikitas89/project-2) |
-|13   | [Nur Hidayah](https://github.com/noobnur) | [The Price Is Right!](https://github.com/noobnur/project-1) | [](https://github.com/noobnur/project-2) |
-|14   | [Persis](https://github.com/persisn) | [Ducky Trivia War](https://github.com/persisn/project-1) | [](https://github.com/persisn/project-2) |
-|15   | [Ray](https://github.com/raywtham) | [Cubix: The Matching Game](https://github.com/raywtham/project-1)  | [](https://github.com/raywtham/project-2) |
-|16   | [Shui](https://github.com/sillyadventures) | [Star Power!](https://github.com/sillyadventures/project-1) | [](https://github.com/sillyadventures/project-2) |
-|17   | [Si Ya](https://github.com/siya-ng) | [Sweet Tooth](https://github.com/siya-ng/project-1)  | [](https://github.com/siya-ng/project-2)  |
-|18   | [Soe Min](https://github.com/soemn) | [Crops and Robbers](https://github.com/soemn/project-1) | [](https://github.com/soemn/project-2) |
-|19   | [William](https://github.com/subutai1175) | [N-Back Memory Game](https://github.com/subutai1175/project-1) | [](https://github.com/subutai1175/project-2) |
-|20   | [Yuki](https://github.com/yukitsuboniwa) | [My Space Invader](https://github.com/yukitsuboniwa/project-1)  | [](https://github.com/yukitsuboniwa/project-2) |
-|21   | [Zheng Yu](https://github.com/koozy0) | [Basic Pac-Man](https://github.com/koozy0/project-1)  | [](https://github.com/koozy0/project-2) | |
+|1    | [Charmaine](https://github.com/charlimxm) | [Help Halimah Make Yishun Great Again](https://github.com/charlimxm/project-1) | [?](https://github.com/charlimxm/project-2) |
+|2    | [Chong Qiang](https://github.com/cqdotcom) | [Follow The Pattern](https://github.com/cqdotcom/project-1) | [?](https://github.com/cqdotcom/project-2) |
+|3    | [Gabriel](https://github.com/imjustlooking) | [On The Other Side](https://github.com/imjustlooking/project-1) |  [?](https://github.com/imjustlooking/project-2) |
+|4    | [Grace](https://github.com/g174) | [Guess The Picture: Countries](https://github.com/G174/project-1) | [?](https://github.com/G174/project-2) |
+|5    | [Hazel](https://github.com/heyzernut) | [Flappy Bird Game](https://github.com/heyzernut/project-1) | [Itinerary](https://github.com/heyzernut/project-2) |
+|6    | [Hui Shi](https://github.com/pehhuishi) | [Whack A Mole](https://github.com/pehhuishi/project-1) | [Greenie GoGo!](https://github.com/pehhuishi/project-2) |
+|7    | [Jieying](https://github.com/thamjieying) | [Mummy Maze](https://github.com/thamjieying/project-1) | [Fridge Memo](https://github.com/thamjieying/project-2) |
+|8    | [Joseph](https://github.com/josephpung) | [Maplestory XII](https://github.com/josephpung/project-1) | [ViscuSS](https://github.com/josephpung/project-2) |
+|9    | [Li Yuan](https://github.com/liyuan23) | [Eat This](https://github.com/liyuan23/project-1) | [Fantasy Tours](https://github.com/liyuan23/project-2) |
+|10   | [Matthew](https://github.com/matthewfrancisong) | [Snake & Ladder](https://github.com/matthewfrancisong/project-1) | [?](https://github.com/matthewfrancisong/project-2) |
+|11   | [Ming Yi](https://github.com/mingyikoh) | [Tempo Shot](https://github.com/mingyikoh/project-1) | [Biblio-File](https://github.com/mingyikoh/project-2) |
+|12   | [Nikita](https://github.com/nikitas89) | [Snakes and Ladders ](https://github.com/nikitas89/project-1) | [Bus When](https://github.com/nikitas89/project-2) |
+|13   | [Nur Hidayah](https://github.com/noobnur) | [The Price Is Right!](https://github.com/noobnur/project-1) | [Get Gig](https://github.com/noobnur/project-2) |
+|14   | [Persis](https://github.com/persisn) | [Ducky Trivia War](https://github.com/persisn/project-1) | [?](https://github.com/persisn/project-2) |
+|15   | [Ray](https://github.com/raywtham) | [Cubix: The Matching Game](https://github.com/raywtham/project-1)  | [Conso](https://github.com/raywtham/project-2) |
+|16   | [Shui](https://github.com/sillyadventures) | [Star Power!](https://github.com/sillyadventures/project-1) | [?](https://github.com/sillyadventures/project-2) |
+|17   | [Si Ya](https://github.com/siya-ng) | [Sweet Tooth](https://github.com/siya-ng/project-1)  | [Craft Hub](https://github.com/siya-ng/project-2)  |
+|18   | [Soe Min](https://github.com/soemn) | [Crops and Robbers](https://github.com/soemn/project-1) | [Team Task Manager](https://github.com/soemn/project-2) |
+|19   | [William](https://github.com/subutai1175) | [N-Back Memory Game](https://github.com/subutai1175/project-1) | [?](https://github.com/subutai1175/project-2) |
+|20   | [Yuki](https://github.com/yukitsuboniwa) | [My Space Invader](https://github.com/yukitsuboniwa/project-1)  | [Travel Log](https://github.com/yukitsuboniwa/project-2) |
+|21   | [Zheng Yu](https://github.com/koozy0) | [Basic Pac-Man](https://github.com/koozy0/project-1)  | [?](https://github.com/koozy0/project-2) | |
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
