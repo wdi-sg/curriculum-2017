@@ -1,6 +1,6 @@
 ![GA Logo](./_assets/ga_cog.png)
-# WDI 12
-Welcome to WDI 12. This repository contains information and materials specific to your course.
+# WDI 13
+Welcome to WDI 13. This repository contains information and materials specific to your course.
 
 # Important links
 - [Class Slack](https://ga-students.slack.com/)
