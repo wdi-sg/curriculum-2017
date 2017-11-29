@@ -12,15 +12,13 @@ Welcome to WDI 13. This repository contains information and materials specific t
 
 
 ## Instructional Team
-- **Prima Aulia Gusta** (Lead Instructor)
-  - [prima@generalassemb.ly ](mailto:prima@generalassemb.ly)
+- **Ebere Didi Iweala** (Lead Instructor)
+  - [ebere@generalassemb.ly ](mailto:ebere@generalassemb.ly)
   - Weekday Office Hours: 9am - 5pm (Offline) / 5pm - 8pm (Online)
-- **Alex** (Facilitator)
-  - [alex.min@generalassemb.ly](mailto:alex.min@generalassemb.ly)
+- **Shaun** (Facilitator)
+  - [shaun.loh@generalassemb.ly](mailto:shaun.loh@generalassemb.ly)
   - Weekday Office Hours: 9am - 6pm (Offline) / 8pm - 11pm (Online)
-- **Shumin** (Facilitator)
-  - [shumin@generalassemb.ly](mailto:shumin@generalassemb.ly)
-  - Weekday Office Hours: 9am - 6pm (Offline) / 8pm - 11pm (Online)
+
 
 ## Github
 We use Github for source code management. Every student will need an account, with all projects and assignments stored there. [See appendix](#github-links) for the full list.
@@ -536,43 +534,28 @@ Once your project is complete, you will have to work as a group to write a [Post
 [1316]: https://github.com/wdi-sg/react-stopwatch
 [1317]: https://github.com/wdi-sg/react-yearbook
 
-
-
 ---
 
 ## Github-links
 [back to top](#wdi-12)
 
 #### Instructional Team
-- [Prima](https://github.com/primaulia)
-- [Alex](https://github.com/alexmin314)
-- [Shumin](https://github.com/shumin13)
+- [Ebere](https://github.com/didiloki)
+- [Shaun](https://github.com/shaunloh89)
 
 #### Students
 
 | No. | Student |Project 1 Repo | Project 2 Repo |
 |---  | ---     | ---           |---             |  
-|1    | [Charmaine](https://github.com/charlimxm) | [Help Halimah Make Yishun Great Again](https://github.com/charlimxm/project-1) | [Fat Pocket](https://github.com/charlimxm/project-2) |
-|2    | [Chong Qiang](https://github.com/cqdotcom) | [Follow The Pattern](https://github.com/cqdotcom/project-1) | [Baaarter](https://github.com/cqdotcom/project-2) |
-|3    | [Gabriel](https://github.com/imjustlooking) | [On The Other Side](https://github.com/imjustlooking/project-1) |  [Buzz](https://github.com/imjustlooking/project-2) |
-|4    | [Grace](https://github.com/g174) | [Guess The Picture: Countries](https://github.com/G174/project-1) | [Medicate](https://github.com/G174/project-2) |
-|5    | [Hazel](https://github.com/heyzernut) | [Flappy Bird Game](https://github.com/heyzernut/project-1) | [Itinerary](https://github.com/heyzernut/project-2) |
-|6    | [Hui Shi](https://github.com/pehhuishi) | [Whack A Mole](https://github.com/pehhuishi/project-1) | [Greenie GoGo!](https://github.com/pehhuishi/project-2) |
-|7    | [Jieying](https://github.com/thamjieying) | [Mummy Maze](https://github.com/thamjieying/project-1) | [Fridge Magnets](https://github.com/thamjieying/project-2) |
-|8    | [Joseph](https://github.com/josephpung) | [Maplestory XII](https://github.com/josephpung/project-1) | [ViscuSS](https://github.com/josephpung/project-2) |
-|9    | [Li Yuan](https://github.com/liyuan23) | [Eat This](https://github.com/liyuan23/project-1) | [Fantasy Tours](https://github.com/liyuan23/project-2) |
-|10   | [Matthew](https://github.com/matthewfrancisong) | [Snake & Ladder](https://github.com/matthewfrancisong/project-1) | [Salty Lemon](https://github.com/matthewfrancisong/project-2) |
-|11   | [Ming Yi](https://github.com/mingyikoh) | [Tempo Shot](https://github.com/mingyikoh/project-1) | [Biblio-File](https://github.com/mingyikoh/project-2) |
-|12   | [Nikita](https://github.com/nikitas89) | [Snakes and Ladders ](https://github.com/nikitas89/project-1) | [Bus When](https://github.com/nikitas89/project-2) |
-|13   | [Nur Hidayah](https://github.com/noobnur) | [The Price Is Right!](https://github.com/noobnur/project-1) | [Got Gig](https://github.com/noobnur/project-2) |
-|14   | [Persis](https://github.com/persisn) | [Ducky Trivia War](https://github.com/persisn/project-1) | [My Portfolio Manager](https://github.com/persisn/project-2) |
-|15   | [Ray](https://github.com/raywtham) | [Cubix: The Matching Game](https://github.com/raywtham/project-1)  | [Conso](https://github.com/raywtham/project-2) |
-|16   | [Shui](https://github.com/sillyadventures) | [Star Power!](https://github.com/sillyadventures/project-1) | [ArtyCraftyCourses](https://github.com/sillyadventures/project-2) |
-|17   | [Si Ya](https://github.com/siya-ng) | [Sweet Tooth](https://github.com/siya-ng/project-1)  | [Craft Hub](https://github.com/siya-ng/project-2)  |
-|18   | [Soe Min](https://github.com/soemn) | [Crops and Robbers](https://github.com/soemn/project-1) | [Team Task Manager](https://github.com/soemn/project-2) |
-|19   | [William](https://github.com/subutai1175) | [N-Back Memory Game](https://github.com/subutai1175/project-1) | [Big 5 Personality Profile](https://github.com/subutai1175/project-2) |
-|20   | [Yuki](https://github.com/yukitsuboniwa) | [My Space Invader](https://github.com/yukitsuboniwa/project-1)  | [Travel Log](https://github.com/yukitsuboniwa/project-2) |
-|21   | [Zheng Yu](https://github.com/koozy0) | [Basic Pac-Man](https://github.com/koozy0/project-1)  | [Pirated Twitter](https://github.com/koozy0/project-2) | |
+|1    | [Ching Tong](https://github.com/chongct) | []() | []() |
+|2    | [Darren Koh](https://github.com/keed) | []() | []() |
+|3    | [Edmund Teo](https://github.com/edmundtck) | []() |  []() |
+|4    | [Jiechao Lim](https://github.com/limjiechao) | []() | []() |
+|5    | [Jolz Sho](https://github.com/emjys) | []() | []() |
+|6    | [Kin Ting](https://github.com/strisen) | []() | []() |
+|7    | [Speed Chan Jun](https://github.com/knownopear) | []() | []() |
+|8    | [Yan Jie Poh](https://github.com/empludo) | []() | []() |
+
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
