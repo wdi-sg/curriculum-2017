@@ -547,14 +547,14 @@ Once your project is complete, you will have to work as a group to write a [Post
 
 | No. | Student |Project 1 Repo | Project 2 Repo |
 |---  | ---     | ---           |---             |  
-|1    | [Ching Tong](https://github.com/chongct) | []() | []() |
-|2    | [Darren Koh](https://github.com/keed) | []() | []() |
-|3    | [Edmund Teo](https://github.com/edmundtck) | []() |  []() |
-|4    | [Jiechao Lim](https://github.com/limjiechao) | []() | []() |
-|5    | [Jolz Sho](https://github.com/emjys) | []() | []() |
-|6    | [Kin Ting](https://github.com/strisen) | []() | []() |
-|7    | [Speed Chan Jun](https://github.com/knownopear) | []() | []() |
-|8    | [Yan Jie Poh](https://github.com/empludo) | []() | []() |
+|1    | [Ching Tong](https://github.com/chongct) | [Follow The Trail!](https://chongct.github.io/project-1/) | []() |
+|2    | [Darren Koh](https://github.com/keed) | [Connect 4](https://keed.github.io/project-1/) | []() |
+|3    | [Edmund Teo](https://github.com/edmundtck) | [Zeerowink](https://edmundtck.github.io/project-1/) |  []() |
+|4    | [Jiechao Lim](https://github.com/limjiechao) | [Color Spill](https://limjiechao.github.io/project-1/) | []() |
+|5    | [Jolz Sho](https://github.com/emjys) | [Canmour](https://emjys.github.io/project-1/) | []() |
+|6    | [Kin Ting](https://github.com/strisen) | [Memory Game Versus](https://strisen.github.io/project-1/) | []() |
+|7    | [Speed Chan Jun](https://github.com/knownopear) | [Be Quick!](https://knownopear.github.io/project-1/) | []() |
+|8    | [Yan Jie Poh](https://github.com/empludo) | [Cash Crops](https://empludo.github.io/project-1/) | []() |
 
 
 ## Licensing
