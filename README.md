@@ -12,8 +12,8 @@ Welcome to WDI 13. This repository contains information and materials specific t
 
 
 ## Instructional Team
-- **Ebere Didi Iweala** (Lead Instructor)
-  - [ebere@generalassemb.ly ](mailto:ebere@generalassemb.ly)
+- **Prima Aulia Gusta** (Lead Instructor)
+  - [prima@generalassemb.ly ](mailto:prima@generalassemb.ly)
   - Weekday Office Hours: 9am - 5pm (Offline) / 5pm - 8pm (Online)
 - **Shaun** (Facilitator)
   - [shaun.loh@generalassemb.ly](mailto:shaun.loh@generalassemb.ly)
@@ -540,7 +540,7 @@ Once your project is complete, you will have to work as a group to write a [Post
 [back to top](#wdi-12)
 
 #### Instructional Team
-- [Ebere](https://github.com/didiloki)
+- [Prima](https://github.com/primaulia)
 - [Shaun](https://github.com/shaunloh89)
 
 #### Students
