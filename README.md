@@ -547,14 +547,17 @@ Once your project is complete, you will have to work as a group to write a [Post
 
 | No. | Student |Project 1 Repo | Project 2 Repo |
 |---  | ---     | ---           |---             |  
-|1    | [Ching Tong](https://github.com/chongct) | [Follow The Trail!](https://chongct.github.io/project-1/) | []() |
-|2    | [Darren Koh](https://github.com/keed) | [Connect 4](https://keed.github.io/project-1/) | []() |
-|3    | [Edmund Teo](https://github.com/edmundtck) | [Zeerowink](https://edmundtck.github.io/project-1/) |  []() |
-|4    | [Jiechao Lim](https://github.com/limjiechao) | [Color Spill](https://limjiechao.github.io/project-1/) | []() |
-|5    | [Jolz Sho](https://github.com/emjys) | [Canmour](https://emjys.github.io/project-1/) | []() |
-|6    | [Kin Ting](https://github.com/strisen) | [Memory Game Versus](https://strisen.github.io/project-1/) | []() |
-|7    | [Speed Chan Jun](https://github.com/knownopear) | [Be Quick!](https://knownopear.github.io/project-1/) | []() |
-|8    | [Yan Jie Poh](https://github.com/empludo) | [Cash Crops](https://empludo.github.io/project-1/) | []() |
+|1    | [Ching Tong](https://github.com/chongct) | [Follow The Trail!](https://chongct.github.io/project-1/) | [Multi Business Locator
+](https://chongct-project2.herokuapp.com/) |
+|2    | [Darren Koh](https://github.com/keed) | [Connect 4](https://keed.github.io/project-1/) | [Tripcollab](https://tripcollab-dk.herokuapp.com/) |
+|3    | [Edmund Teo](https://github.com/edmundtck) | [Zeerowink](https://edmundtck.github.io/project-1/) |  [Yummy Thoughts](https://yummythoughts.herokuapp.com/
+
+) |
+|4    | [Jiechao Lim](https://github.com/limjiechao) | [Color Spill](https://limjiechao.github.io/project-1/) | [Oracle of Changes](https://oracleofchanges.herokuapp.com) |
+|5    | [Jolz Sho](https://github.com/emjys) | [Canmour](https://emjys.github.io/project-1/) | [DoAP](https://p2-doap.herokuapp.com) |
+|6    | [Kin Ting](https://github.com/strisen) | [Memory Game Versus](https://strisen.github.io/project-1/) | [SMRT Delay Tracker](https://smrtdelaytracker.herokuapp.com/) |
+|7    | [Speed Chan Jun](https://github.com/knownopear) | [Be Quick!](https://knownopear.github.io/project-1/) | [POS System](https://guarded-thicket-64693.herokuapp.com/) |
+|8    | [Yan Jie Poh](https://github.com/empludo) | [Cash Crops](https://empludo.github.io/project-1/) | [Personal Stock Tracker](https://personalinvestor.herokuapp.com/) |
 
 
 ## Licensing
