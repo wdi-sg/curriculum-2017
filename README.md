@@ -561,7 +561,7 @@ Once your project is complete, you will have to work as a group to write a [Post
 |1       |[Ching Tong](https://github.com/chongct) & [Edmund Teo](https://github.com/edmundtck) | [Local Square](https://localsquare.herokuapp.com/)|
 |2       |[Darren Koh](https://github.com/keed) & [Jiechao Lim](https://github.com/limjiechao) | [Warranted](http://warranted.herokuapp.com/) |
 |3       |[Jolz Sho](https://github.com/emjys) & [Speed Chan Jun](https://github.com/knownopear) | [MennStop](mennstop.herokuapp.com) | 
-|4       |Yan Jie Poh](https://github.com/empludo) & [Kin Ting](https://github.com/strisen) | [Cash My Bling](p3bling.herokuapp.com) |
+|4       |[Yan Jie Poh](https://github.com/empludo) & [Kin Ting](https://github.com/strisen) | [Cash My Bling](p3bling.herokuapp.com) |
 
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
