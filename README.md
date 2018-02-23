@@ -563,6 +563,12 @@ Once your project is complete, you will have to work as a group to write a [Post
 |3       |[Jolz Sho](https://github.com/emjys) & [Speed Chan Jun](https://github.com/knownopear) | [MennStop](https://mennstop.herokuapp.com) | 
 |4       |[Yan Jie Poh](https://github.com/empludo) & [Kin Ting](https://github.com/strisen) | [Cash My Bling](https://p3bling.herokuapp.com) |
 
+| Group. | Student |Project 4 Repo |
+|---     | ---     | ---           |
+|1       | Class of WDI 13 | [TripCollab-v2](https://tripcollab-v2.herokuapp.com/)|
+
+`The class of WDI13 officially ended on 23 Feb 2018`
+
 ## Licensing
 1. All content is licensed under a CC-BY-NC-SA 4.0 license.
 2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
